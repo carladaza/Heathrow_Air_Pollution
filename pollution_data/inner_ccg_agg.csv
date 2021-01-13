@@ -1,0 +1,919 @@
+,CCG,Date,Pollutant,Indicator Value (R µg/m3)
+0,Ealing,2004-12-31,Carbon monoxide,0.770049469902473
+1,Ealing,2004-12-31,Nitric Oxide,
+2,Ealing,2004-12-31,Nitrogen dioxide,57.882937645478684
+3,Ealing,2004-12-31,Oxides of Nitrogen,
+4,Ealing,2004-12-31,Ozone,33.992080422331036
+5,Ealing,2004-12-31,PM10 Particulate matter,
+6,Ealing,2004-12-31,PM10 particulate matter (Hourly measured),23.333576306877806
+7,Ealing,2004-12-31,PM2.5 particulate matter (Hourly measured),15.391342273253397
+8,Ealing,2004-12-31,Sulphur dioxide,10.043231944507777
+9,Ealing,2005-12-31,Carbon monoxide,0.7621498097570265
+10,Ealing,2005-12-31,Nitric Oxide,
+11,Ealing,2005-12-31,Nitrogen dioxide,52.86297396999513
+12,Ealing,2005-12-31,Oxides of Nitrogen,
+13,Ealing,2005-12-31,Ozone,28.594453090607452
+14,Ealing,2005-12-31,PM10 Particulate matter,
+15,Ealing,2005-12-31,PM10 particulate matter (Hourly measured),25.916646944624887
+16,Ealing,2005-12-31,PM2.5 particulate matter (Hourly measured),21.009842207540355
+17,Ealing,2005-12-31,Sulphur dioxide,8.370424824312302
+18,Ealing,2006-12-31,Carbon monoxide,0.7300953061587455
+19,Ealing,2006-12-31,Nitric Oxide,
+20,Ealing,2006-12-31,Nitrogen dioxide,55.03563466083658
+21,Ealing,2006-12-31,Oxides of Nitrogen,
+22,Ealing,2006-12-31,Ozone,32.52753876052575
+23,Ealing,2006-12-31,PM10 Particulate matter,
+24,Ealing,2006-12-31,PM10 particulate matter (Hourly measured),25.443424688491117
+25,Ealing,2006-12-31,PM2.5 particulate matter (Hourly measured),18.450044804007803
+26,Ealing,2006-12-31,Sulphur dioxide,6.206311289688668
+27,Ealing,2007-12-31,Carbon monoxide,0.6519782013433968
+28,Ealing,2007-12-31,Nitric Oxide,
+29,Ealing,2007-12-31,Nitrogen dioxide,54.24769082229276
+30,Ealing,2007-12-31,Oxides of Nitrogen,
+31,Ealing,2007-12-31,Ozone,28.47389078318255
+32,Ealing,2007-12-31,PM10 Particulate matter,
+33,Ealing,2007-12-31,PM10 particulate matter (Hourly measured),24.401768909306927
+34,Ealing,2007-12-31,PM2.5 particulate matter (Hourly measured),
+35,Ealing,2007-12-31,Sulphur dioxide,6.530477737026352
+36,Ealing,2008-12-31,Carbon monoxide,0.5025170231624833
+37,Ealing,2008-12-31,Nitric Oxide,
+38,Ealing,2008-12-31,Nitrogen dioxide,58.84837107652069
+39,Ealing,2008-12-31,Oxides of Nitrogen,
+40,Ealing,2008-12-31,Ozone,29.08530456902247
+41,Ealing,2008-12-31,PM10 Particulate matter,
+42,Ealing,2008-12-31,PM10 particulate matter (Hourly measured),22.14147480833379
+43,Ealing,2008-12-31,PM2.5 particulate matter (Hourly measured),11.795320539967483
+44,Ealing,2008-12-31,Sulphur dioxide,5.656651844069671
+45,Ealing,2009-12-31,Carbon monoxide,0.6400324472780062
+46,Ealing,2009-12-31,Nitric Oxide,
+47,Ealing,2009-12-31,Nitrogen dioxide,56.8886387733401
+48,Ealing,2009-12-31,Oxides of Nitrogen,
+49,Ealing,2009-12-31,Ozone,25.856958735915402
+50,Ealing,2009-12-31,PM10 Particulate matter,
+51,Ealing,2009-12-31,PM10 particulate matter (Hourly measured),22.76906732666252
+52,Ealing,2009-12-31,PM2.5 particulate matter (Hourly measured),11.207386516207691
+53,Ealing,2009-12-31,Sulphur dioxide,10.177289388025422
+54,Ealing,2010-12-31,Carbon monoxide,0.482649570106708
+55,Ealing,2010-12-31,Nitric Oxide,
+56,Ealing,2010-12-31,Nitrogen dioxide,57.182302664915824
+57,Ealing,2010-12-31,Oxides of Nitrogen,
+58,Ealing,2010-12-31,Ozone,26.273895148700547
+59,Ealing,2010-12-31,PM10 Particulate matter,
+60,Ealing,2010-12-31,PM10 particulate matter (Hourly measured),22.358329224931214
+61,Ealing,2010-12-31,PM2.5 particulate matter (Hourly measured),11.375742418228214
+62,Ealing,2010-12-31,Sulphur dioxide,8.950074745199544
+63,Ealing,2011-12-31,Carbon monoxide,0.4207831683090332
+64,Ealing,2011-12-31,Nitric Oxide,
+65,Ealing,2011-12-31,Nitrogen dioxide,50.39484565398761
+66,Ealing,2011-12-31,Oxides of Nitrogen,
+67,Ealing,2011-12-31,Ozone,28.222554258240905
+68,Ealing,2011-12-31,PM10 Particulate matter,
+69,Ealing,2011-12-31,PM10 particulate matter (Hourly measured),23.629680687321052
+70,Ealing,2011-12-31,PM2.5 particulate matter (Hourly measured),13.148969639523106
+71,Ealing,2011-12-31,Sulphur dioxide,4.750594092342186
+72,Ealing,2012-12-31,Carbon monoxide,
+73,Ealing,2012-12-31,Nitric Oxide,
+74,Ealing,2012-12-31,Nitrogen dioxide,55.933676193527425
+75,Ealing,2012-12-31,Oxides of Nitrogen,
+76,Ealing,2012-12-31,Ozone,34.67911716417463
+77,Ealing,2012-12-31,PM10 Particulate matter,
+78,Ealing,2012-12-31,PM10 particulate matter (Hourly measured),23.47171892978855
+79,Ealing,2012-12-31,PM2.5 particulate matter (Hourly measured),9.808660086371969
+80,Ealing,2012-12-31,Sulphur dioxide,1.2119531815217388
+81,Ealing,2013-12-31,Carbon monoxide,
+82,Ealing,2013-12-31,Nitric Oxide,
+83,Ealing,2013-12-31,Nitrogen dioxide,51.82006763521714
+84,Ealing,2013-12-31,Oxides of Nitrogen,
+85,Ealing,2013-12-31,Ozone,35.00612546158585
+86,Ealing,2013-12-31,PM10 Particulate matter,
+87,Ealing,2013-12-31,PM10 particulate matter (Hourly measured),25.208131518313756
+88,Ealing,2013-12-31,PM2.5 particulate matter (Hourly measured),9.885007293789224
+89,Ealing,2013-12-31,Sulphur dioxide,
+90,Ealing,2014-12-31,Carbon monoxide,
+91,Ealing,2014-12-31,Nitric Oxide,
+92,Ealing,2014-12-31,Nitrogen dioxide,48.731111831016875
+93,Ealing,2014-12-31,Oxides of Nitrogen,
+94,Ealing,2014-12-31,Ozone,36.15235679691407
+95,Ealing,2014-12-31,PM10 Particulate matter,
+96,Ealing,2014-12-31,PM10 particulate matter (Hourly measured),20.096599504327465
+97,Ealing,2014-12-31,PM2.5 particulate matter (Hourly measured),11.0727294379344
+98,Ealing,2014-12-31,Sulphur dioxide,
+99,Ealing,2015-12-31,Carbon monoxide,
+100,Ealing,2015-12-31,Nitric Oxide,
+101,Ealing,2015-12-31,Nitrogen dioxide,57.43133182161743
+102,Ealing,2015-12-31,Oxides of Nitrogen,
+103,Ealing,2015-12-31,Ozone,36.43666549734984
+104,Ealing,2015-12-31,PM10 Particulate matter,
+105,Ealing,2015-12-31,PM10 particulate matter (Hourly measured),22.298301598920983
+106,Ealing,2015-12-31,PM2.5 particulate matter (Hourly measured),11.516187591693607
+107,Ealing,2015-12-31,Sulphur dioxide,
+108,Ealing,2016-12-31,Carbon monoxide,
+109,Ealing,2016-12-31,Nitric Oxide,
+110,Ealing,2016-12-31,Nitrogen dioxide,56.98691878740693
+111,Ealing,2016-12-31,Oxides of Nitrogen,
+112,Ealing,2016-12-31,Ozone,25.474152967171722
+113,Ealing,2016-12-31,PM10 Particulate matter,
+114,Ealing,2016-12-31,PM10 particulate matter (Hourly measured),22.008692919730816
+115,Ealing,2016-12-31,PM2.5 particulate matter (Hourly measured),12.924810606060607
+116,Ealing,2016-12-31,Sulphur dioxide,
+117,Ealing,2017-12-31,Carbon monoxide,
+118,Ealing,2017-12-31,Nitric Oxide,
+119,Ealing,2017-12-31,Nitrogen dioxide,54.559601376011564
+120,Ealing,2017-12-31,Oxides of Nitrogen,
+121,Ealing,2017-12-31,Ozone,
+122,Ealing,2017-12-31,PM10 Particulate matter,
+123,Ealing,2017-12-31,PM10 particulate matter (Hourly measured),25.726536726411894
+124,Ealing,2017-12-31,PM2.5 particulate matter (Hourly measured),
+125,Ealing,2017-12-31,Sulphur dioxide,
+126,Ealing,2018-12-31,Carbon monoxide,
+127,Ealing,2018-12-31,Nitric Oxide,
+128,Ealing,2018-12-31,Nitrogen dioxide,50.027932519595026
+129,Ealing,2018-12-31,Oxides of Nitrogen,
+130,Ealing,2018-12-31,Ozone,
+131,Ealing,2018-12-31,PM10 Particulate matter,
+132,Ealing,2018-12-31,PM10 particulate matter (Hourly measured),24.810243239771193
+133,Ealing,2018-12-31,PM2.5 particulate matter (Hourly measured),
+134,Ealing,2018-12-31,Sulphur dioxide,
+135,Ealing,2019-12-31,Carbon monoxide,
+136,Ealing,2019-12-31,Nitric Oxide,
+137,Ealing,2019-12-31,Nitrogen dioxide,46.56658076254765
+138,Ealing,2019-12-31,Oxides of Nitrogen,
+139,Ealing,2019-12-31,Ozone,
+140,Ealing,2019-12-31,PM10 Particulate matter,
+141,Ealing,2019-12-31,PM10 particulate matter (Hourly measured),22.534795186299238
+142,Ealing,2019-12-31,PM2.5 particulate matter (Hourly measured),
+143,Ealing,2019-12-31,Sulphur dioxide,
+144,Ealing,2020-12-31,Carbon monoxide,
+145,Ealing,2020-12-31,Nitric Oxide,
+146,Ealing,2020-12-31,Nitrogen dioxide,33.29407531490893
+147,Ealing,2020-12-31,Oxides of Nitrogen,
+148,Ealing,2020-12-31,Ozone,
+149,Ealing,2020-12-31,PM10 Particulate matter,
+150,Ealing,2020-12-31,PM10 particulate matter (Hourly measured),20.715119767152874
+151,Ealing,2020-12-31,PM2.5 particulate matter (Hourly measured),
+152,Ealing,2020-12-31,Sulphur dioxide,
+153,East Berkshire,2004-12-31,Carbon monoxide,
+154,East Berkshire,2004-12-31,Nitric Oxide,
+155,East Berkshire,2004-12-31,Nitrogen dioxide,32.56806589466603
+156,East Berkshire,2004-12-31,Oxides of Nitrogen,
+157,East Berkshire,2004-12-31,Ozone,
+158,East Berkshire,2004-12-31,PM10 Particulate matter,
+159,East Berkshire,2004-12-31,PM10 particulate matter (Hourly measured),23.849996292353744
+160,East Berkshire,2004-12-31,PM2.5 particulate matter (Hourly measured),
+161,East Berkshire,2004-12-31,Sulphur dioxide,
+162,East Berkshire,2005-12-31,Carbon monoxide,
+163,East Berkshire,2005-12-31,Nitric Oxide,
+164,East Berkshire,2005-12-31,Nitrogen dioxide,37.418354508315105
+165,East Berkshire,2005-12-31,Oxides of Nitrogen,
+166,East Berkshire,2005-12-31,Ozone,
+167,East Berkshire,2005-12-31,PM10 Particulate matter,
+168,East Berkshire,2005-12-31,PM10 particulate matter (Hourly measured),27.401398039196902
+169,East Berkshire,2005-12-31,PM2.5 particulate matter (Hourly measured),10.116928683719937
+170,East Berkshire,2005-12-31,Sulphur dioxide,
+171,East Berkshire,2006-12-31,Carbon monoxide,
+172,East Berkshire,2006-12-31,Nitric Oxide,
+173,East Berkshire,2006-12-31,Nitrogen dioxide,37.77894482729974
+174,East Berkshire,2006-12-31,Oxides of Nitrogen,
+175,East Berkshire,2006-12-31,Ozone,
+176,East Berkshire,2006-12-31,PM10 Particulate matter,
+177,East Berkshire,2006-12-31,PM10 particulate matter (Hourly measured),23.056505102243108
+178,East Berkshire,2006-12-31,PM2.5 particulate matter (Hourly measured),8.211002494757558
+179,East Berkshire,2006-12-31,Sulphur dioxide,
+180,East Berkshire,2007-12-31,Carbon monoxide,
+181,East Berkshire,2007-12-31,Nitric Oxide,
+182,East Berkshire,2007-12-31,Nitrogen dioxide,38.38131620975304
+183,East Berkshire,2007-12-31,Oxides of Nitrogen,
+184,East Berkshire,2007-12-31,Ozone,
+185,East Berkshire,2007-12-31,PM10 Particulate matter,
+186,East Berkshire,2007-12-31,PM10 particulate matter (Hourly measured),39.66833846461614
+187,East Berkshire,2007-12-31,PM2.5 particulate matter (Hourly measured),10.1113342936477
+188,East Berkshire,2007-12-31,Sulphur dioxide,
+189,East Berkshire,2008-12-31,Carbon monoxide,
+190,East Berkshire,2008-12-31,Nitric Oxide,
+191,East Berkshire,2008-12-31,Nitrogen dioxide,37.39360419145878
+192,East Berkshire,2008-12-31,Oxides of Nitrogen,
+193,East Berkshire,2008-12-31,Ozone,
+194,East Berkshire,2008-12-31,PM10 Particulate matter,
+195,East Berkshire,2008-12-31,PM10 particulate matter (Hourly measured),25.211123348414986
+196,East Berkshire,2008-12-31,PM2.5 particulate matter (Hourly measured),8.040837159745239
+197,East Berkshire,2008-12-31,Sulphur dioxide,
+198,East Berkshire,2009-12-31,Carbon monoxide,
+199,East Berkshire,2009-12-31,Nitric Oxide,
+200,East Berkshire,2009-12-31,Nitrogen dioxide,34.64011599805646
+201,East Berkshire,2009-12-31,Oxides of Nitrogen,
+202,East Berkshire,2009-12-31,Ozone,
+203,East Berkshire,2009-12-31,PM10 Particulate matter,
+204,East Berkshire,2009-12-31,PM10 particulate matter (Hourly measured),27.864766646046945
+205,East Berkshire,2009-12-31,PM2.5 particulate matter (Hourly measured),9.241056124336303
+206,East Berkshire,2009-12-31,Sulphur dioxide,
+207,East Berkshire,2010-12-31,Carbon monoxide,
+208,East Berkshire,2010-12-31,Nitric Oxide,
+209,East Berkshire,2010-12-31,Nitrogen dioxide,35.734207306080094
+210,East Berkshire,2010-12-31,Oxides of Nitrogen,
+211,East Berkshire,2010-12-31,Ozone,
+212,East Berkshire,2010-12-31,PM10 Particulate matter,
+213,East Berkshire,2010-12-31,PM10 particulate matter (Hourly measured),21.926850842498222
+214,East Berkshire,2010-12-31,PM2.5 particulate matter (Hourly measured),7.212730283467131
+215,East Berkshire,2010-12-31,Sulphur dioxide,
+216,East Berkshire,2011-12-31,Carbon monoxide,
+217,East Berkshire,2011-12-31,Nitric Oxide,
+218,East Berkshire,2011-12-31,Nitrogen dioxide,36.02852741067302
+219,East Berkshire,2011-12-31,Oxides of Nitrogen,
+220,East Berkshire,2011-12-31,Ozone,
+221,East Berkshire,2011-12-31,PM10 Particulate matter,
+222,East Berkshire,2011-12-31,PM10 particulate matter (Hourly measured),30.240539557524375
+223,East Berkshire,2011-12-31,PM2.5 particulate matter (Hourly measured),11.023208946257276
+224,East Berkshire,2011-12-31,Sulphur dioxide,
+225,East Berkshire,2012-12-31,Carbon monoxide,
+226,East Berkshire,2012-12-31,Nitric Oxide,
+227,East Berkshire,2012-12-31,Nitrogen dioxide,34.224927861323145
+228,East Berkshire,2012-12-31,Oxides of Nitrogen,
+229,East Berkshire,2012-12-31,Ozone,
+230,East Berkshire,2012-12-31,PM10 Particulate matter,
+231,East Berkshire,2012-12-31,PM10 particulate matter (Hourly measured),23.303635589080503
+232,East Berkshire,2012-12-31,PM2.5 particulate matter (Hourly measured),9.032873535724471
+233,East Berkshire,2012-12-31,Sulphur dioxide,
+234,East Berkshire,2013-12-31,Carbon monoxide,
+235,East Berkshire,2013-12-31,Nitric Oxide,
+236,East Berkshire,2013-12-31,Nitrogen dioxide,33.90456884493743
+237,East Berkshire,2013-12-31,Oxides of Nitrogen,
+238,East Berkshire,2013-12-31,Ozone,
+239,East Berkshire,2013-12-31,PM10 Particulate matter,
+240,East Berkshire,2013-12-31,PM10 particulate matter (Hourly measured),22.190329520577137
+241,East Berkshire,2013-12-31,PM2.5 particulate matter (Hourly measured),8.848093391828135
+242,East Berkshire,2013-12-31,Sulphur dioxide,
+243,East Berkshire,2014-12-31,Carbon monoxide,
+244,East Berkshire,2014-12-31,Nitric Oxide,
+245,East Berkshire,2014-12-31,Nitrogen dioxide,34.18785703272831
+246,East Berkshire,2014-12-31,Oxides of Nitrogen,
+247,East Berkshire,2014-12-31,Ozone,
+248,East Berkshire,2014-12-31,PM10 Particulate matter,
+249,East Berkshire,2014-12-31,PM10 particulate matter (Hourly measured),19.033874080234835
+250,East Berkshire,2014-12-31,PM2.5 particulate matter (Hourly measured),7.685846437182931
+251,East Berkshire,2014-12-31,Sulphur dioxide,
+252,East Berkshire,2015-12-31,Carbon monoxide,
+253,East Berkshire,2015-12-31,Nitric Oxide,
+254,East Berkshire,2015-12-31,Nitrogen dioxide,31.191648440520858
+255,East Berkshire,2015-12-31,Oxides of Nitrogen,
+256,East Berkshire,2015-12-31,Ozone,
+257,East Berkshire,2015-12-31,PM10 Particulate matter,
+258,East Berkshire,2015-12-31,PM10 particulate matter (Hourly measured),16.24208172173037
+259,East Berkshire,2015-12-31,PM2.5 particulate matter (Hourly measured),6.439087096655967
+260,East Berkshire,2015-12-31,Sulphur dioxide,
+261,East Berkshire,2016-12-31,Carbon monoxide,
+262,East Berkshire,2016-12-31,Nitric Oxide,
+263,East Berkshire,2016-12-31,Nitrogen dioxide,33.08942676359658
+264,East Berkshire,2016-12-31,Oxides of Nitrogen,
+265,East Berkshire,2016-12-31,Ozone,
+266,East Berkshire,2016-12-31,PM10 Particulate matter,
+267,East Berkshire,2016-12-31,PM10 particulate matter (Hourly measured),15.282021490711628
+268,East Berkshire,2016-12-31,PM2.5 particulate matter (Hourly measured),5.721706686906419
+269,East Berkshire,2016-12-31,Sulphur dioxide,
+270,East Berkshire,2017-12-31,Carbon monoxide,
+271,East Berkshire,2017-12-31,Nitric Oxide,
+272,East Berkshire,2017-12-31,Nitrogen dioxide,33.94460608087713
+273,East Berkshire,2017-12-31,Oxides of Nitrogen,
+274,East Berkshire,2017-12-31,Ozone,
+275,East Berkshire,2017-12-31,PM10 Particulate matter,
+276,East Berkshire,2017-12-31,PM10 particulate matter (Hourly measured),17.412888908578026
+277,East Berkshire,2017-12-31,PM2.5 particulate matter (Hourly measured),6.64724855289963
+278,East Berkshire,2017-12-31,Sulphur dioxide,
+279,East Berkshire,2018-12-31,Carbon monoxide,
+280,East Berkshire,2018-12-31,Nitric Oxide,
+281,East Berkshire,2018-12-31,Nitrogen dioxide,33.03361569192257
+282,East Berkshire,2018-12-31,Oxides of Nitrogen,
+283,East Berkshire,2018-12-31,Ozone,
+284,East Berkshire,2018-12-31,PM10 Particulate matter,
+285,East Berkshire,2018-12-31,PM10 particulate matter (Hourly measured),17.52200363008815
+286,East Berkshire,2018-12-31,PM2.5 particulate matter (Hourly measured),6.40051623012495
+287,East Berkshire,2018-12-31,Sulphur dioxide,
+288,East Berkshire,2019-12-31,Carbon monoxide,
+289,East Berkshire,2019-12-31,Nitric Oxide,
+290,East Berkshire,2019-12-31,Nitrogen dioxide,32.06243767407192
+291,East Berkshire,2019-12-31,Oxides of Nitrogen,
+292,East Berkshire,2019-12-31,Ozone,
+293,East Berkshire,2019-12-31,PM10 Particulate matter,
+294,East Berkshire,2019-12-31,PM10 particulate matter (Hourly measured),17.737270440184556
+295,East Berkshire,2019-12-31,PM2.5 particulate matter (Hourly measured),6.671495808328704
+296,East Berkshire,2019-12-31,Sulphur dioxide,
+297,East Berkshire,2020-12-31,Carbon monoxide,
+298,East Berkshire,2020-12-31,Nitric Oxide,
+299,East Berkshire,2020-12-31,Nitrogen dioxide,21.927106381086343
+300,East Berkshire,2020-12-31,Oxides of Nitrogen,
+301,East Berkshire,2020-12-31,Ozone,
+302,East Berkshire,2020-12-31,PM10 Particulate matter,
+303,East Berkshire,2020-12-31,PM10 particulate matter (Hourly measured),18.34778398288618
+304,East Berkshire,2020-12-31,PM2.5 particulate matter (Hourly measured),7.578336794312527
+305,East Berkshire,2020-12-31,Sulphur dioxide,
+306,Hillingdon,2004-12-31,Carbon monoxide,
+307,Hillingdon,2004-12-31,Nitric Oxide,
+308,Hillingdon,2004-12-31,Nitrogen dioxide,44.52378546501192
+309,Hillingdon,2004-12-31,Oxides of Nitrogen,
+310,Hillingdon,2004-12-31,Ozone,
+311,Hillingdon,2004-12-31,PM10 Particulate matter,
+312,Hillingdon,2004-12-31,PM10 particulate matter (Hourly measured),26.43231135727588
+313,Hillingdon,2004-12-31,PM2.5 particulate matter (Hourly measured),12.248355810642499
+314,Hillingdon,2004-12-31,Sulphur dioxide,
+315,Hillingdon,2005-12-31,Carbon monoxide,
+316,Hillingdon,2005-12-31,Nitric Oxide,
+317,Hillingdon,2005-12-31,Nitrogen dioxide,42.36138838109275
+318,Hillingdon,2005-12-31,Oxides of Nitrogen,
+319,Hillingdon,2005-12-31,Ozone,
+320,Hillingdon,2005-12-31,PM10 Particulate matter,
+321,Hillingdon,2005-12-31,PM10 particulate matter (Hourly measured),25.764295038622684
+322,Hillingdon,2005-12-31,PM2.5 particulate matter (Hourly measured),12.105307275202694
+323,Hillingdon,2005-12-31,Sulphur dioxide,
+324,Hillingdon,2006-12-31,Carbon monoxide,
+325,Hillingdon,2006-12-31,Nitric Oxide,
+326,Hillingdon,2006-12-31,Nitrogen dioxide,43.41508920551854
+327,Hillingdon,2006-12-31,Oxides of Nitrogen,
+328,Hillingdon,2006-12-31,Ozone,
+329,Hillingdon,2006-12-31,PM10 Particulate matter,
+330,Hillingdon,2006-12-31,PM10 particulate matter (Hourly measured),25.902121300103524
+331,Hillingdon,2006-12-31,PM2.5 particulate matter (Hourly measured),12.929494478950998
+332,Hillingdon,2006-12-31,Sulphur dioxide,
+333,Hillingdon,2007-12-31,Carbon monoxide,
+334,Hillingdon,2007-12-31,Nitric Oxide,
+335,Hillingdon,2007-12-31,Nitrogen dioxide,43.447593285463974
+336,Hillingdon,2007-12-31,Oxides of Nitrogen,
+337,Hillingdon,2007-12-31,Ozone,
+338,Hillingdon,2007-12-31,PM10 Particulate matter,
+339,Hillingdon,2007-12-31,PM10 particulate matter (Hourly measured),26.47356242129526
+340,Hillingdon,2007-12-31,PM2.5 particulate matter (Hourly measured),13.293053087253721
+341,Hillingdon,2007-12-31,Sulphur dioxide,
+342,Hillingdon,2008-12-31,Carbon monoxide,
+343,Hillingdon,2008-12-31,Nitric Oxide,
+344,Hillingdon,2008-12-31,Nitrogen dioxide,41.98353462354277
+345,Hillingdon,2008-12-31,Oxides of Nitrogen,
+346,Hillingdon,2008-12-31,Ozone,
+347,Hillingdon,2008-12-31,PM10 Particulate matter,
+348,Hillingdon,2008-12-31,PM10 particulate matter (Hourly measured),23.820121185762172
+349,Hillingdon,2008-12-31,PM2.5 particulate matter (Hourly measured),9.66325123808202
+350,Hillingdon,2008-12-31,Sulphur dioxide,
+351,Hillingdon,2009-12-31,Carbon monoxide,
+352,Hillingdon,2009-12-31,Nitric Oxide,
+353,Hillingdon,2009-12-31,Nitrogen dioxide,43.668143552595566
+354,Hillingdon,2009-12-31,Oxides of Nitrogen,
+355,Hillingdon,2009-12-31,Ozone,
+356,Hillingdon,2009-12-31,PM10 Particulate matter,
+357,Hillingdon,2009-12-31,PM10 particulate matter (Hourly measured),23.748885705232066
+358,Hillingdon,2009-12-31,PM2.5 particulate matter (Hourly measured),9.86844515587707
+359,Hillingdon,2009-12-31,Sulphur dioxide,
+360,Hillingdon,2010-12-31,Carbon monoxide,
+361,Hillingdon,2010-12-31,Nitric Oxide,
+362,Hillingdon,2010-12-31,Nitrogen dioxide,42.322398716902576
+363,Hillingdon,2010-12-31,Oxides of Nitrogen,
+364,Hillingdon,2010-12-31,Ozone,
+365,Hillingdon,2010-12-31,PM10 Particulate matter,
+366,Hillingdon,2010-12-31,PM10 particulate matter (Hourly measured),21.2937498974638
+367,Hillingdon,2010-12-31,PM2.5 particulate matter (Hourly measured),9.49128123940921
+368,Hillingdon,2010-12-31,Sulphur dioxide,
+369,Hillingdon,2011-12-31,Carbon monoxide,
+370,Hillingdon,2011-12-31,Nitric Oxide,
+371,Hillingdon,2011-12-31,Nitrogen dioxide,41.2600780112149
+372,Hillingdon,2011-12-31,Oxides of Nitrogen,
+373,Hillingdon,2011-12-31,Ozone,
+374,Hillingdon,2011-12-31,PM10 Particulate matter,
+375,Hillingdon,2011-12-31,PM10 particulate matter (Hourly measured),24.918382843190855
+376,Hillingdon,2011-12-31,PM2.5 particulate matter (Hourly measured),11.23843413246185
+377,Hillingdon,2011-12-31,Sulphur dioxide,
+378,Hillingdon,2012-12-31,Carbon monoxide,
+379,Hillingdon,2012-12-31,Nitric Oxide,
+380,Hillingdon,2012-12-31,Nitrogen dioxide,41.39339736427314
+381,Hillingdon,2012-12-31,Oxides of Nitrogen,
+382,Hillingdon,2012-12-31,Ozone,
+383,Hillingdon,2012-12-31,PM10 Particulate matter,
+384,Hillingdon,2012-12-31,PM10 particulate matter (Hourly measured),20.82588014409068
+385,Hillingdon,2012-12-31,PM2.5 particulate matter (Hourly measured),8.59516415766024
+386,Hillingdon,2012-12-31,Sulphur dioxide,
+387,Hillingdon,2013-12-31,Carbon monoxide,
+388,Hillingdon,2013-12-31,Nitric Oxide,
+389,Hillingdon,2013-12-31,Nitrogen dioxide,39.89078003122446
+390,Hillingdon,2013-12-31,Oxides of Nitrogen,
+391,Hillingdon,2013-12-31,Ozone,
+392,Hillingdon,2013-12-31,PM10 Particulate matter,
+393,Hillingdon,2013-12-31,PM10 particulate matter (Hourly measured),22.727336984614503
+394,Hillingdon,2013-12-31,PM2.5 particulate matter (Hourly measured),9.73434263500146
+395,Hillingdon,2013-12-31,Sulphur dioxide,
+396,Hillingdon,2014-12-31,Carbon monoxide,
+397,Hillingdon,2014-12-31,Nitric Oxide,
+398,Hillingdon,2014-12-31,Nitrogen dioxide,40.06166650437836
+399,Hillingdon,2014-12-31,Oxides of Nitrogen,
+400,Hillingdon,2014-12-31,Ozone,
+401,Hillingdon,2014-12-31,PM10 Particulate matter,
+402,Hillingdon,2014-12-31,PM10 particulate matter (Hourly measured),21.32522857788094
+403,Hillingdon,2014-12-31,PM2.5 particulate matter (Hourly measured),8.845459043264858
+404,Hillingdon,2014-12-31,Sulphur dioxide,
+405,Hillingdon,2015-12-31,Carbon monoxide,
+406,Hillingdon,2015-12-31,Nitric Oxide,
+407,Hillingdon,2015-12-31,Nitrogen dioxide,38.133528245257864
+408,Hillingdon,2015-12-31,Oxides of Nitrogen,
+409,Hillingdon,2015-12-31,Ozone,
+410,Hillingdon,2015-12-31,PM10 Particulate matter,
+411,Hillingdon,2015-12-31,PM10 particulate matter (Hourly measured),18.931073294295036
+412,Hillingdon,2015-12-31,PM2.5 particulate matter (Hourly measured),8.040034847403996
+413,Hillingdon,2015-12-31,Sulphur dioxide,
+414,Hillingdon,2016-12-31,Carbon monoxide,
+415,Hillingdon,2016-12-31,Nitric Oxide,
+416,Hillingdon,2016-12-31,Nitrogen dioxide,39.215095752580055
+417,Hillingdon,2016-12-31,Oxides of Nitrogen,
+418,Hillingdon,2016-12-31,Ozone,
+419,Hillingdon,2016-12-31,PM10 Particulate matter,
+420,Hillingdon,2016-12-31,PM10 particulate matter (Hourly measured),19.543862062638652
+421,Hillingdon,2016-12-31,PM2.5 particulate matter (Hourly measured),8.32646681812866
+422,Hillingdon,2016-12-31,Sulphur dioxide,
+423,Hillingdon,2017-12-31,Carbon monoxide,
+424,Hillingdon,2017-12-31,Nitric Oxide,
+425,Hillingdon,2017-12-31,Nitrogen dioxide,38.54488049670582
+426,Hillingdon,2017-12-31,Oxides of Nitrogen,
+427,Hillingdon,2017-12-31,Ozone,
+428,Hillingdon,2017-12-31,PM10 Particulate matter,
+429,Hillingdon,2017-12-31,PM10 particulate matter (Hourly measured),18.347888394330116
+430,Hillingdon,2017-12-31,PM2.5 particulate matter (Hourly measured),8.088831218252126
+431,Hillingdon,2017-12-31,Sulphur dioxide,
+432,Hillingdon,2018-12-31,Carbon monoxide,
+433,Hillingdon,2018-12-31,Nitric Oxide,
+434,Hillingdon,2018-12-31,Nitrogen dioxide,34.64942881641135
+435,Hillingdon,2018-12-31,Oxides of Nitrogen,
+436,Hillingdon,2018-12-31,Ozone,
+437,Hillingdon,2018-12-31,PM10 Particulate matter,
+438,Hillingdon,2018-12-31,PM10 particulate matter (Hourly measured),18.876481195582745
+439,Hillingdon,2018-12-31,PM2.5 particulate matter (Hourly measured),7.8786129109688785
+440,Hillingdon,2018-12-31,Sulphur dioxide,
+441,Hillingdon,2019-12-31,Carbon monoxide,
+442,Hillingdon,2019-12-31,Nitric Oxide,
+443,Hillingdon,2019-12-31,Nitrogen dioxide,35.369661686294464
+444,Hillingdon,2019-12-31,Oxides of Nitrogen,
+445,Hillingdon,2019-12-31,Ozone,
+446,Hillingdon,2019-12-31,PM10 Particulate matter,
+447,Hillingdon,2019-12-31,PM10 particulate matter (Hourly measured),17.166189885552562
+448,Hillingdon,2019-12-31,PM2.5 particulate matter (Hourly measured),7.945292151259446
+449,Hillingdon,2019-12-31,Sulphur dioxide,
+450,Hillingdon,2020-12-31,Carbon monoxide,
+451,Hillingdon,2020-12-31,Nitric Oxide,
+452,Hillingdon,2020-12-31,Nitrogen dioxide,24.16625393524079
+453,Hillingdon,2020-12-31,Oxides of Nitrogen,
+454,Hillingdon,2020-12-31,Ozone,
+455,Hillingdon,2020-12-31,PM10 Particulate matter,
+456,Hillingdon,2020-12-31,PM10 particulate matter (Hourly measured),16.25536796550497
+457,Hillingdon,2020-12-31,PM2.5 particulate matter (Hourly measured),6.760637012265761
+458,Hillingdon,2020-12-31,Sulphur dioxide,
+459,Hounslow,2004-12-31,Carbon monoxide,0.8174028579925703
+460,Hounslow,2004-12-31,Nitric Oxide,50.48542333803122
+461,Hounslow,2004-12-31,Nitrogen dioxide,57.17140222562964
+462,Hounslow,2004-12-31,Oxides of Nitrogen,134.37796484281202
+463,Hounslow,2004-12-31,Ozone,31.628425987905036
+464,Hounslow,2004-12-31,PM10 Particulate matter,28.02264972395538
+465,Hounslow,2004-12-31,PM10 particulate matter (Hourly measured),
+466,Hounslow,2004-12-31,PM2.5 particulate matter (Hourly measured),
+467,Hounslow,2004-12-31,Sulphur dioxide,4.155740473629969
+468,Hounslow,2005-12-31,Carbon monoxide,0.8392115285668963
+469,Hounslow,2005-12-31,Nitric Oxide,49.43905751839656
+470,Hounslow,2005-12-31,Nitrogen dioxide,52.833258304670075
+471,Hounslow,2005-12-31,Oxides of Nitrogen,128.40552216974433
+472,Hounslow,2005-12-31,Ozone,34.42601047706647
+473,Hounslow,2005-12-31,PM10 Particulate matter,29.189345081336416
+474,Hounslow,2005-12-31,PM10 particulate matter (Hourly measured),
+475,Hounslow,2005-12-31,PM2.5 particulate matter (Hourly measured),
+476,Hounslow,2005-12-31,Sulphur dioxide,4.029333474825582
+477,Hounslow,2006-12-31,Carbon monoxide,0.5013910806898613
+478,Hounslow,2006-12-31,Nitric Oxide,41.02734424345923
+479,Hounslow,2006-12-31,Nitrogen dioxide,49.38876599045587
+480,Hounslow,2006-12-31,Oxides of Nitrogen,112.24793947835276
+481,Hounslow,2006-12-31,Ozone,41.626835958636
+482,Hounslow,2006-12-31,PM10 Particulate matter,27.311610241039347
+483,Hounslow,2006-12-31,PM10 particulate matter (Hourly measured),
+484,Hounslow,2006-12-31,PM2.5 particulate matter (Hourly measured),
+485,Hounslow,2006-12-31,Sulphur dioxide,3.0333280360619392
+486,Hounslow,2007-12-31,Carbon monoxide,0.5391916818669604
+487,Hounslow,2007-12-31,Nitric Oxide,45.72990925910205
+488,Hounslow,2007-12-31,Nitrogen dioxide,49.496766115917474
+489,Hounslow,2007-12-31,Oxides of Nitrogen,119.45842789010976
+490,Hounslow,2007-12-31,Ozone,31.764437187208916
+491,Hounslow,2007-12-31,PM10 Particulate matter,26.701155002961407
+492,Hounslow,2007-12-31,PM10 particulate matter (Hourly measured),
+493,Hounslow,2007-12-31,PM2.5 particulate matter (Hourly measured),
+494,Hounslow,2007-12-31,Sulphur dioxide,2.696676343647221
+495,Hounslow,2008-12-31,Carbon monoxide,
+496,Hounslow,2008-12-31,Nitric Oxide,40.84054962699075
+497,Hounslow,2008-12-31,Nitrogen dioxide,50.79522351374721
+498,Hounslow,2008-12-31,Oxides of Nitrogen,113.19823591788318
+499,Hounslow,2008-12-31,Ozone,36.52743372248239
+500,Hounslow,2008-12-31,PM10 Particulate matter,27.137784100238555
+501,Hounslow,2008-12-31,PM10 particulate matter (Hourly measured),
+502,Hounslow,2008-12-31,PM2.5 particulate matter (Hourly measured),
+503,Hounslow,2008-12-31,Sulphur dioxide,2.80684266907085
+504,Hounslow,2009-12-31,Carbon monoxide,
+505,Hounslow,2009-12-31,Nitric Oxide,38.042349701234194
+506,Hounslow,2009-12-31,Nitrogen dioxide,49.28868693368281
+507,Hounslow,2009-12-31,Oxides of Nitrogen,106.6648953855113
+508,Hounslow,2009-12-31,Ozone,34.44903615759541
+509,Hounslow,2009-12-31,PM10 Particulate matter,25.622636815288143
+510,Hounslow,2009-12-31,PM10 particulate matter (Hourly measured),
+511,Hounslow,2009-12-31,PM2.5 particulate matter (Hourly measured),
+512,Hounslow,2009-12-31,Sulphur dioxide,7.971789457802902
+513,Hounslow,2010-12-31,Carbon monoxide,
+514,Hounslow,2010-12-31,Nitric Oxide,32.643407485623364
+515,Hounslow,2010-12-31,Nitrogen dioxide,43.58286132882462
+516,Hounslow,2010-12-31,Oxides of Nitrogen,92.88141709662345
+517,Hounslow,2010-12-31,Ozone,48.70446493924756
+518,Hounslow,2010-12-31,PM10 Particulate matter,24.063699042250658
+519,Hounslow,2010-12-31,PM10 particulate matter (Hourly measured),
+520,Hounslow,2010-12-31,PM2.5 particulate matter (Hourly measured),
+521,Hounslow,2010-12-31,Sulphur dioxide,0.8519104084321476
+522,Hounslow,2011-12-31,Carbon monoxide,
+523,Hounslow,2011-12-31,Nitric Oxide,34.46007316438599
+524,Hounslow,2011-12-31,Nitrogen dioxide,44.513516593846674
+525,Hounslow,2011-12-31,Oxides of Nitrogen,97.3852312756964
+526,Hounslow,2011-12-31,Ozone,31.619417835477595
+527,Hounslow,2011-12-31,PM10 Particulate matter,19.084606290466706
+528,Hounslow,2011-12-31,PM10 particulate matter (Hourly measured),
+529,Hounslow,2011-12-31,PM2.5 particulate matter (Hourly measured),
+530,Hounslow,2011-12-31,Sulphur dioxide,-0.019038912575752028
+531,Hounslow,2012-12-31,Carbon monoxide,
+532,Hounslow,2012-12-31,Nitric Oxide,42.47640685450005
+533,Hounslow,2012-12-31,Nitrogen dioxide,44.75177720684012
+534,Hounslow,2012-12-31,Oxides of Nitrogen,109.84288661361906
+535,Hounslow,2012-12-31,Ozone,31.53995588994994
+536,Hounslow,2012-12-31,PM10 Particulate matter,23.91549859262039
+537,Hounslow,2012-12-31,PM10 particulate matter (Hourly measured),
+538,Hounslow,2012-12-31,PM2.5 particulate matter (Hourly measured),
+539,Hounslow,2012-12-31,Sulphur dioxide,2.173683352033509
+540,Hounslow,2013-12-31,Carbon monoxide,
+541,Hounslow,2013-12-31,Nitric Oxide,42.81351359211836
+542,Hounslow,2013-12-31,Nitrogen dioxide,48.00775854848623
+543,Hounslow,2013-12-31,Oxides of Nitrogen,113.76668817399523
+544,Hounslow,2013-12-31,Ozone,34.60202533864623
+545,Hounslow,2013-12-31,PM10 Particulate matter,26.847779328196744
+546,Hounslow,2013-12-31,PM10 particulate matter (Hourly measured),
+547,Hounslow,2013-12-31,PM2.5 particulate matter (Hourly measured),
+548,Hounslow,2013-12-31,Sulphur dioxide,1.601606597282861
+549,Hounslow,2014-12-31,Carbon monoxide,
+550,Hounslow,2014-12-31,Nitric Oxide,42.56400003794261
+551,Hounslow,2014-12-31,Nitrogen dioxide,44.91178243490026
+552,Hounslow,2014-12-31,Oxides of Nitrogen,110.27222042896581
+553,Hounslow,2014-12-31,Ozone,34.73975631668715
+554,Hounslow,2014-12-31,PM10 Particulate matter,24.561485050362847
+555,Hounslow,2014-12-31,PM10 particulate matter (Hourly measured),
+556,Hounslow,2014-12-31,PM2.5 particulate matter (Hourly measured),
+557,Hounslow,2014-12-31,Sulphur dioxide,1.858234573189595
+558,Hounslow,2015-12-31,Carbon monoxide,
+559,Hounslow,2015-12-31,Nitric Oxide,35.804772522254936
+560,Hounslow,2015-12-31,Nitrogen dioxide,41.635070595937705
+561,Hounslow,2015-12-31,Oxides of Nitrogen,96.64138423097539
+562,Hounslow,2015-12-31,Ozone,36.509611695960714
+563,Hounslow,2015-12-31,PM10 Particulate matter,21.983250588802758
+564,Hounslow,2015-12-31,PM10 particulate matter (Hourly measured),
+565,Hounslow,2015-12-31,PM2.5 particulate matter (Hourly measured),
+566,Hounslow,2015-12-31,Sulphur dioxide,1.491848415887222
+567,Hounslow,2016-12-31,Carbon monoxide,
+568,Hounslow,2016-12-31,Nitric Oxide,44.262821870941984
+569,Hounslow,2016-12-31,Nitrogen dioxide,43.95647106732182
+570,Hounslow,2016-12-31,Oxides of Nitrogen,111.93009771741049
+571,Hounslow,2016-12-31,Ozone,31.746313582504825
+572,Hounslow,2016-12-31,PM10 Particulate matter,22.53204876961306
+573,Hounslow,2016-12-31,PM10 particulate matter (Hourly measured),
+574,Hounslow,2016-12-31,PM2.5 particulate matter (Hourly measured),
+575,Hounslow,2016-12-31,Sulphur dioxide,1.531785693715487
+576,Hounslow,2017-12-31,Carbon monoxide,
+577,Hounslow,2017-12-31,Nitric Oxide,39.159836481232226
+578,Hounslow,2017-12-31,Nitrogen dioxide,42.94356382930549
+579,Hounslow,2017-12-31,Oxides of Nitrogen,102.99050494806009
+580,Hounslow,2017-12-31,Ozone,31.394449485143806
+581,Hounslow,2017-12-31,PM10 Particulate matter,21.728613748432743
+582,Hounslow,2017-12-31,PM10 particulate matter (Hourly measured),
+583,Hounslow,2017-12-31,PM2.5 particulate matter (Hourly measured),
+584,Hounslow,2017-12-31,Sulphur dioxide,1.0608677094868952
+585,Hounslow,2018-12-31,Carbon monoxide,
+586,Hounslow,2018-12-31,Nitric Oxide,27.602065990598756
+587,Hounslow,2018-12-31,Nitrogen dioxide,36.222803639731026
+588,Hounslow,2018-12-31,Oxides of Nitrogen,78.53654282334979
+589,Hounslow,2018-12-31,Ozone,36.821549241524295
+590,Hounslow,2018-12-31,PM10 Particulate matter,19.87063618445889
+591,Hounslow,2018-12-31,PM10 particulate matter (Hourly measured),
+592,Hounslow,2018-12-31,PM2.5 particulate matter (Hourly measured),
+593,Hounslow,2018-12-31,Sulphur dioxide,1.2060372259081493
+594,Hounslow,2019-12-31,Carbon monoxide,
+595,Hounslow,2019-12-31,Nitric Oxide,24.366061161613917
+596,Hounslow,2019-12-31,Nitrogen dioxide,32.22451477023915
+597,Hounslow,2019-12-31,Oxides of Nitrogen,69.68273823400304
+598,Hounslow,2019-12-31,Ozone,22.458061517232377
+599,Hounslow,2019-12-31,PM10 Particulate matter,19.630715810627898
+600,Hounslow,2019-12-31,PM10 particulate matter (Hourly measured),
+601,Hounslow,2019-12-31,PM2.5 particulate matter (Hourly measured),
+602,Hounslow,2019-12-31,Sulphur dioxide,1.8199897268994778
+603,Hounslow,2020-12-31,Carbon monoxide,
+604,Hounslow,2020-12-31,Nitric Oxide,15.773699114808943
+605,Hounslow,2020-12-31,Nitrogen dioxide,26.898692763687517
+606,Hounslow,2020-12-31,Oxides of Nitrogen,51.08294914709443
+607,Hounslow,2020-12-31,Ozone,36.224710852264145
+608,Hounslow,2020-12-31,PM10 Particulate matter,20.00798468531694
+609,Hounslow,2020-12-31,PM10 particulate matter (Hourly measured),
+610,Hounslow,2020-12-31,PM2.5 particulate matter (Hourly measured),
+611,Hounslow,2020-12-31,Sulphur dioxide,2.069656385177153
+612,South West London,2004-12-31,Carbon monoxide,
+613,South West London,2004-12-31,Nitric Oxide,
+614,South West London,2004-12-31,Nitrogen dioxide,32.17711972637567
+615,South West London,2004-12-31,Oxides of Nitrogen,
+616,South West London,2004-12-31,Ozone,44.607493596220664
+617,South West London,2004-12-31,PM10 Particulate matter,
+618,South West London,2004-12-31,PM10 particulate matter (Hourly measured),22.974463454420324
+619,South West London,2004-12-31,PM2.5 particulate matter (Hourly measured),
+620,South West London,2004-12-31,Sulphur dioxide,3.6766297524963676
+621,South West London,2005-12-31,Carbon monoxide,
+622,South West London,2005-12-31,Nitric Oxide,
+623,South West London,2005-12-31,Nitrogen dioxide,32.569455642932425
+624,South West London,2005-12-31,Oxides of Nitrogen,
+625,South West London,2005-12-31,Ozone,44.135361457108395
+626,South West London,2005-12-31,PM10 Particulate matter,
+627,South West London,2005-12-31,PM10 particulate matter (Hourly measured),23.207930104062257
+628,South West London,2005-12-31,PM2.5 particulate matter (Hourly measured),
+629,South West London,2005-12-31,Sulphur dioxide,3.024966778016487
+630,South West London,2006-12-31,Carbon monoxide,
+631,South West London,2006-12-31,Nitric Oxide,
+632,South West London,2006-12-31,Nitrogen dioxide,31.926839848196426
+633,South West London,2006-12-31,Oxides of Nitrogen,
+634,South West London,2006-12-31,Ozone,48.32330127199309
+635,South West London,2006-12-31,PM10 Particulate matter,
+636,South West London,2006-12-31,PM10 particulate matter (Hourly measured),22.972399926988615
+637,South West London,2006-12-31,PM2.5 particulate matter (Hourly measured),
+638,South West London,2006-12-31,Sulphur dioxide,3.4819578766882224
+639,South West London,2007-12-31,Carbon monoxide,
+640,South West London,2007-12-31,Nitric Oxide,
+641,South West London,2007-12-31,Nitrogen dioxide,34.15358041700518
+642,South West London,2007-12-31,Oxides of Nitrogen,
+643,South West London,2007-12-31,Ozone,41.21480032007615
+644,South West London,2007-12-31,PM10 Particulate matter,
+645,South West London,2007-12-31,PM10 particulate matter (Hourly measured),21.57778888112926
+646,South West London,2007-12-31,PM2.5 particulate matter (Hourly measured),
+647,South West London,2007-12-31,Sulphur dioxide,3.706443339957739
+648,South West London,2008-12-31,Carbon monoxide,
+649,South West London,2008-12-31,Nitric Oxide,
+650,South West London,2008-12-31,Nitrogen dioxide,32.64468201507018
+651,South West London,2008-12-31,Oxides of Nitrogen,
+652,South West London,2008-12-31,Ozone,45.1027968017699
+653,South West London,2008-12-31,PM10 Particulate matter,
+654,South West London,2008-12-31,PM10 particulate matter (Hourly measured),20.151395679393723
+655,South West London,2008-12-31,PM2.5 particulate matter (Hourly measured),20.059371980676328
+656,South West London,2008-12-31,Sulphur dioxide,
+657,South West London,2009-12-31,Carbon monoxide,
+658,South West London,2009-12-31,Nitric Oxide,
+659,South West London,2009-12-31,Nitrogen dioxide,32.07963126540219
+660,South West London,2009-12-31,Oxides of Nitrogen,
+661,South West London,2009-12-31,Ozone,43.13590402484978
+662,South West London,2009-12-31,PM10 Particulate matter,
+663,South West London,2009-12-31,PM10 particulate matter (Hourly measured),20.70153171500894
+664,South West London,2009-12-31,PM2.5 particulate matter (Hourly measured),13.321598309730412
+665,South West London,2009-12-31,Sulphur dioxide,
+666,South West London,2010-12-31,Carbon monoxide,
+667,South West London,2010-12-31,Nitric Oxide,
+668,South West London,2010-12-31,Nitrogen dioxide,32.28260224442476
+669,South West London,2010-12-31,Oxides of Nitrogen,
+670,South West London,2010-12-31,Ozone,41.50953040772639
+671,South West London,2010-12-31,PM10 Particulate matter,
+672,South West London,2010-12-31,PM10 particulate matter (Hourly measured),20.078349973785002
+673,South West London,2010-12-31,PM2.5 particulate matter (Hourly measured),14.438372515811963
+674,South West London,2010-12-31,Sulphur dioxide,
+675,South West London,2011-12-31,Carbon monoxide,
+676,South West London,2011-12-31,Nitric Oxide,
+677,South West London,2011-12-31,Nitrogen dioxide,28.879385197631738
+678,South West London,2011-12-31,Oxides of Nitrogen,
+679,South West London,2011-12-31,Ozone,44.94307372023647
+680,South West London,2011-12-31,PM10 Particulate matter,
+681,South West London,2011-12-31,PM10 particulate matter (Hourly measured),22.718132384860333
+682,South West London,2011-12-31,PM2.5 particulate matter (Hourly measured),17.354287620645245
+683,South West London,2011-12-31,Sulphur dioxide,
+684,South West London,2012-12-31,Carbon monoxide,
+685,South West London,2012-12-31,Nitric Oxide,
+686,South West London,2012-12-31,Nitrogen dioxide,32.36548537618226
+687,South West London,2012-12-31,Oxides of Nitrogen,
+688,South West London,2012-12-31,Ozone,40.2936849597165
+689,South West London,2012-12-31,PM10 Particulate matter,
+690,South West London,2012-12-31,PM10 particulate matter (Hourly measured),19.472033955541164
+691,South West London,2012-12-31,PM2.5 particulate matter (Hourly measured),13.552664502276757
+692,South West London,2012-12-31,Sulphur dioxide,
+693,South West London,2013-12-31,Carbon monoxide,
+694,South West London,2013-12-31,Nitric Oxide,
+695,South West London,2013-12-31,Nitrogen dioxide,28.02409971414673
+696,South West London,2013-12-31,Oxides of Nitrogen,
+697,South West London,2013-12-31,Ozone,46.69198316284394
+698,South West London,2013-12-31,PM10 Particulate matter,
+699,South West London,2013-12-31,PM10 particulate matter (Hourly measured),21.258820343384826
+700,South West London,2013-12-31,PM2.5 particulate matter (Hourly measured),16.836224555542348
+701,South West London,2013-12-31,Sulphur dioxide,
+702,South West London,2014-12-31,Carbon monoxide,
+703,South West London,2014-12-31,Nitric Oxide,
+704,South West London,2014-12-31,Nitrogen dioxide,29.834611262268897
+705,South West London,2014-12-31,Oxides of Nitrogen,
+706,South West London,2014-12-31,Ozone,46.118399821500226
+707,South West London,2014-12-31,PM10 Particulate matter,
+708,South West London,2014-12-31,PM10 particulate matter (Hourly measured),17.8348666324337
+709,South West London,2014-12-31,PM2.5 particulate matter (Hourly measured),
+710,South West London,2014-12-31,Sulphur dioxide,
+711,South West London,2015-12-31,Carbon monoxide,
+712,South West London,2015-12-31,Nitric Oxide,
+713,South West London,2015-12-31,Nitrogen dioxide,25.246491623993688
+714,South West London,2015-12-31,Oxides of Nitrogen,
+715,South West London,2015-12-31,Ozone,49.47007436261727
+716,South West London,2015-12-31,PM10 Particulate matter,
+717,South West London,2015-12-31,PM10 particulate matter (Hourly measured),15.319123276775201
+718,South West London,2015-12-31,PM2.5 particulate matter (Hourly measured),
+719,South West London,2015-12-31,Sulphur dioxide,
+720,South West London,2016-12-31,Carbon monoxide,
+721,South West London,2016-12-31,Nitric Oxide,
+722,South West London,2016-12-31,Nitrogen dioxide,31.37779233498577
+723,South West London,2016-12-31,Oxides of Nitrogen,
+724,South West London,2016-12-31,Ozone,45.56931440687024
+725,South West London,2016-12-31,PM10 Particulate matter,
+726,South West London,2016-12-31,PM10 particulate matter (Hourly measured),18.424105803804512
+727,South West London,2016-12-31,PM2.5 particulate matter (Hourly measured),
+728,South West London,2016-12-31,Sulphur dioxide,
+729,South West London,2017-12-31,Carbon monoxide,
+730,South West London,2017-12-31,Nitric Oxide,
+731,South West London,2017-12-31,Nitrogen dioxide,29.553676220533344
+732,South West London,2017-12-31,Oxides of Nitrogen,
+733,South West London,2017-12-31,Ozone,43.24416341547551
+734,South West London,2017-12-31,PM10 Particulate matter,
+735,South West London,2017-12-31,PM10 particulate matter (Hourly measured),18.0979122847663
+736,South West London,2017-12-31,PM2.5 particulate matter (Hourly measured),
+737,South West London,2017-12-31,Sulphur dioxide,
+738,South West London,2018-12-31,Carbon monoxide,
+739,South West London,2018-12-31,Nitric Oxide,
+740,South West London,2018-12-31,Nitrogen dioxide,28.60794104257028
+741,South West London,2018-12-31,Oxides of Nitrogen,
+742,South West London,2018-12-31,Ozone,46.121205746773924
+743,South West London,2018-12-31,PM10 Particulate matter,
+744,South West London,2018-12-31,PM10 particulate matter (Hourly measured),17.522023691804367
+745,South West London,2018-12-31,PM2.5 particulate matter (Hourly measured),
+746,South West London,2018-12-31,Sulphur dioxide,
+747,South West London,2019-12-31,Carbon monoxide,
+748,South West London,2019-12-31,Nitric Oxide,
+749,South West London,2019-12-31,Nitrogen dioxide,27.900210458997837
+750,South West London,2019-12-31,Oxides of Nitrogen,
+751,South West London,2019-12-31,Ozone,44.39852762963253
+752,South West London,2019-12-31,PM10 Particulate matter,
+753,South West London,2019-12-31,PM10 particulate matter (Hourly measured),17.12738807875013
+754,South West London,2019-12-31,PM2.5 particulate matter (Hourly measured),
+755,South West London,2019-12-31,Sulphur dioxide,
+756,South West London,2020-12-31,Carbon monoxide,
+757,South West London,2020-12-31,Nitric Oxide,
+758,South West London,2020-12-31,Nitrogen dioxide,18.5636673190261
+759,South West London,2020-12-31,Oxides of Nitrogen,
+760,South West London,2020-12-31,Ozone,49.65423814806836
+761,South West London,2020-12-31,PM10 Particulate matter,
+762,South West London,2020-12-31,PM10 particulate matter (Hourly measured),16.859589815478135
+763,South West London,2020-12-31,PM2.5 particulate matter (Hourly measured),
+764,South West London,2020-12-31,Sulphur dioxide,
+765,Surrey Heartlands,2004-12-31,Carbon monoxide,
+766,Surrey Heartlands,2004-12-31,Nitric Oxide,
+767,Surrey Heartlands,2004-12-31,Nitrogen dioxide,33.70989968445995
+768,Surrey Heartlands,2004-12-31,Oxides of Nitrogen,
+769,Surrey Heartlands,2004-12-31,Ozone,
+770,Surrey Heartlands,2004-12-31,PM10 Particulate matter,
+771,Surrey Heartlands,2004-12-31,PM10 particulate matter (Hourly measured),23.94585471211713
+772,Surrey Heartlands,2004-12-31,PM2.5 particulate matter (Hourly measured),11.631702891569878
+773,Surrey Heartlands,2004-12-31,Sulphur dioxide,
+774,Surrey Heartlands,2005-12-31,Carbon monoxide,
+775,Surrey Heartlands,2005-12-31,Nitric Oxide,
+776,Surrey Heartlands,2005-12-31,Nitrogen dioxide,37.544305890680086
+777,Surrey Heartlands,2005-12-31,Oxides of Nitrogen,
+778,Surrey Heartlands,2005-12-31,Ozone,
+779,Surrey Heartlands,2005-12-31,PM10 Particulate matter,
+780,Surrey Heartlands,2005-12-31,PM10 particulate matter (Hourly measured),24.844381648172135
+781,Surrey Heartlands,2005-12-31,PM2.5 particulate matter (Hourly measured),11.96573791453155
+782,Surrey Heartlands,2005-12-31,Sulphur dioxide,
+783,Surrey Heartlands,2006-12-31,Carbon monoxide,
+784,Surrey Heartlands,2006-12-31,Nitric Oxide,
+785,Surrey Heartlands,2006-12-31,Nitrogen dioxide,33.483760647015224
+786,Surrey Heartlands,2006-12-31,Oxides of Nitrogen,
+787,Surrey Heartlands,2006-12-31,Ozone,
+788,Surrey Heartlands,2006-12-31,PM10 Particulate matter,
+789,Surrey Heartlands,2006-12-31,PM10 particulate matter (Hourly measured),26.497313342847267
+790,Surrey Heartlands,2006-12-31,PM2.5 particulate matter (Hourly measured),12.237865972145531
+791,Surrey Heartlands,2006-12-31,Sulphur dioxide,
+792,Surrey Heartlands,2007-12-31,Carbon monoxide,
+793,Surrey Heartlands,2007-12-31,Nitric Oxide,
+794,Surrey Heartlands,2007-12-31,Nitrogen dioxide,37.564444899527665
+795,Surrey Heartlands,2007-12-31,Oxides of Nitrogen,
+796,Surrey Heartlands,2007-12-31,Ozone,
+797,Surrey Heartlands,2007-12-31,PM10 Particulate matter,
+798,Surrey Heartlands,2007-12-31,PM10 particulate matter (Hourly measured),24.342762131915805
+799,Surrey Heartlands,2007-12-31,PM2.5 particulate matter (Hourly measured),12.198261361930347
+800,Surrey Heartlands,2007-12-31,Sulphur dioxide,
+801,Surrey Heartlands,2008-12-31,Carbon monoxide,
+802,Surrey Heartlands,2008-12-31,Nitric Oxide,
+803,Surrey Heartlands,2008-12-31,Nitrogen dioxide,34.80325162724035
+804,Surrey Heartlands,2008-12-31,Oxides of Nitrogen,
+805,Surrey Heartlands,2008-12-31,Ozone,
+806,Surrey Heartlands,2008-12-31,PM10 Particulate matter,
+807,Surrey Heartlands,2008-12-31,PM10 particulate matter (Hourly measured),21.86015740421361
+808,Surrey Heartlands,2008-12-31,PM2.5 particulate matter (Hourly measured),11.502066787841112
+809,Surrey Heartlands,2008-12-31,Sulphur dioxide,
+810,Surrey Heartlands,2009-12-31,Carbon monoxide,
+811,Surrey Heartlands,2009-12-31,Nitric Oxide,
+812,Surrey Heartlands,2009-12-31,Nitrogen dioxide,33.448583081778445
+813,Surrey Heartlands,2009-12-31,Oxides of Nitrogen,
+814,Surrey Heartlands,2009-12-31,Ozone,
+815,Surrey Heartlands,2009-12-31,PM10 Particulate matter,
+816,Surrey Heartlands,2009-12-31,PM10 particulate matter (Hourly measured),21.196503084942346
+817,Surrey Heartlands,2009-12-31,PM2.5 particulate matter (Hourly measured),10.286653666348341
+818,Surrey Heartlands,2009-12-31,Sulphur dioxide,
+819,Surrey Heartlands,2010-12-31,Carbon monoxide,
+820,Surrey Heartlands,2010-12-31,Nitric Oxide,
+821,Surrey Heartlands,2010-12-31,Nitrogen dioxide,37.106054641110305
+822,Surrey Heartlands,2010-12-31,Oxides of Nitrogen,
+823,Surrey Heartlands,2010-12-31,Ozone,
+824,Surrey Heartlands,2010-12-31,PM10 Particulate matter,
+825,Surrey Heartlands,2010-12-31,PM10 particulate matter (Hourly measured),20.71528357798679
+826,Surrey Heartlands,2010-12-31,PM2.5 particulate matter (Hourly measured),10.669508286826774
+827,Surrey Heartlands,2010-12-31,Sulphur dioxide,
+828,Surrey Heartlands,2011-12-31,Carbon monoxide,
+829,Surrey Heartlands,2011-12-31,Nitric Oxide,
+830,Surrey Heartlands,2011-12-31,Nitrogen dioxide,30.29160213560411
+831,Surrey Heartlands,2011-12-31,Oxides of Nitrogen,
+832,Surrey Heartlands,2011-12-31,Ozone,
+833,Surrey Heartlands,2011-12-31,PM10 Particulate matter,
+834,Surrey Heartlands,2011-12-31,PM10 particulate matter (Hourly measured),23.913083472588305
+835,Surrey Heartlands,2011-12-31,PM2.5 particulate matter (Hourly measured),10.439104380344425
+836,Surrey Heartlands,2011-12-31,Sulphur dioxide,
+837,Surrey Heartlands,2012-12-31,Carbon monoxide,
+838,Surrey Heartlands,2012-12-31,Nitric Oxide,
+839,Surrey Heartlands,2012-12-31,Nitrogen dioxide,30.631591406628257
+840,Surrey Heartlands,2012-12-31,Oxides of Nitrogen,
+841,Surrey Heartlands,2012-12-31,Ozone,
+842,Surrey Heartlands,2012-12-31,PM10 Particulate matter,
+843,Surrey Heartlands,2012-12-31,PM10 particulate matter (Hourly measured),20.012126962137827
+844,Surrey Heartlands,2012-12-31,PM2.5 particulate matter (Hourly measured),9.758064056670998
+845,Surrey Heartlands,2012-12-31,Sulphur dioxide,
+846,Surrey Heartlands,2013-12-31,Carbon monoxide,
+847,Surrey Heartlands,2013-12-31,Nitric Oxide,
+848,Surrey Heartlands,2013-12-31,Nitrogen dioxide,34.378127915599855
+849,Surrey Heartlands,2013-12-31,Oxides of Nitrogen,
+850,Surrey Heartlands,2013-12-31,Ozone,
+851,Surrey Heartlands,2013-12-31,PM10 Particulate matter,
+852,Surrey Heartlands,2013-12-31,PM10 particulate matter (Hourly measured),21.58523690779892
+853,Surrey Heartlands,2013-12-31,PM2.5 particulate matter (Hourly measured),9.9703922743585
+854,Surrey Heartlands,2013-12-31,Sulphur dioxide,
+855,Surrey Heartlands,2014-12-31,Carbon monoxide,
+856,Surrey Heartlands,2014-12-31,Nitric Oxide,
+857,Surrey Heartlands,2014-12-31,Nitrogen dioxide,32.61005279116354
+858,Surrey Heartlands,2014-12-31,Oxides of Nitrogen,
+859,Surrey Heartlands,2014-12-31,Ozone,
+860,Surrey Heartlands,2014-12-31,PM10 Particulate matter,
+861,Surrey Heartlands,2014-12-31,PM10 particulate matter (Hourly measured),17.701809765468372
+862,Surrey Heartlands,2014-12-31,PM2.5 particulate matter (Hourly measured),10.016992674593208
+863,Surrey Heartlands,2014-12-31,Sulphur dioxide,
+864,Surrey Heartlands,2015-12-31,Carbon monoxide,
+865,Surrey Heartlands,2015-12-31,Nitric Oxide,
+866,Surrey Heartlands,2015-12-31,Nitrogen dioxide,27.409043543954045
+867,Surrey Heartlands,2015-12-31,Oxides of Nitrogen,
+868,Surrey Heartlands,2015-12-31,Ozone,
+869,Surrey Heartlands,2015-12-31,PM10 Particulate matter,
+870,Surrey Heartlands,2015-12-31,PM10 particulate matter (Hourly measured),13.508984649322036
+871,Surrey Heartlands,2015-12-31,PM2.5 particulate matter (Hourly measured),9.028487017688663
+872,Surrey Heartlands,2015-12-31,Sulphur dioxide,
+873,Surrey Heartlands,2016-12-31,Carbon monoxide,
+874,Surrey Heartlands,2016-12-31,Nitric Oxide,
+875,Surrey Heartlands,2016-12-31,Nitrogen dioxide,31.47462002676802
+876,Surrey Heartlands,2016-12-31,Oxides of Nitrogen,
+877,Surrey Heartlands,2016-12-31,Ozone,
+878,Surrey Heartlands,2016-12-31,PM10 Particulate matter,
+879,Surrey Heartlands,2016-12-31,PM10 particulate matter (Hourly measured),14.579729099048047
+880,Surrey Heartlands,2016-12-31,PM2.5 particulate matter (Hourly measured),9.498990713930988
+881,Surrey Heartlands,2016-12-31,Sulphur dioxide,
+882,Surrey Heartlands,2017-12-31,Carbon monoxide,
+883,Surrey Heartlands,2017-12-31,Nitric Oxide,
+884,Surrey Heartlands,2017-12-31,Nitrogen dioxide,29.0699350087836
+885,Surrey Heartlands,2017-12-31,Oxides of Nitrogen,
+886,Surrey Heartlands,2017-12-31,Ozone,
+887,Surrey Heartlands,2017-12-31,PM10 Particulate matter,
+888,Surrey Heartlands,2017-12-31,PM10 particulate matter (Hourly measured),13.704658663068079
+889,Surrey Heartlands,2017-12-31,PM2.5 particulate matter (Hourly measured),8.667444291788236
+890,Surrey Heartlands,2017-12-31,Sulphur dioxide,
+891,Surrey Heartlands,2018-12-31,Carbon monoxide,
+892,Surrey Heartlands,2018-12-31,Nitric Oxide,
+893,Surrey Heartlands,2018-12-31,Nitrogen dioxide,30.263543839748852
+894,Surrey Heartlands,2018-12-31,Oxides of Nitrogen,
+895,Surrey Heartlands,2018-12-31,Ozone,
+896,Surrey Heartlands,2018-12-31,PM10 Particulate matter,
+897,Surrey Heartlands,2018-12-31,PM10 particulate matter (Hourly measured),14.84923063269029
+898,Surrey Heartlands,2018-12-31,PM2.5 particulate matter (Hourly measured),9.38640495334197
+899,Surrey Heartlands,2018-12-31,Sulphur dioxide,
+900,Surrey Heartlands,2019-12-31,Carbon monoxide,
+901,Surrey Heartlands,2019-12-31,Nitric Oxide,
+902,Surrey Heartlands,2019-12-31,Nitrogen dioxide,29.637123848157984
+903,Surrey Heartlands,2019-12-31,Oxides of Nitrogen,
+904,Surrey Heartlands,2019-12-31,Ozone,
+905,Surrey Heartlands,2019-12-31,PM10 Particulate matter,
+906,Surrey Heartlands,2019-12-31,PM10 particulate matter (Hourly measured),15.330294244210183
+907,Surrey Heartlands,2019-12-31,PM2.5 particulate matter (Hourly measured),9.690723606998763
+908,Surrey Heartlands,2019-12-31,Sulphur dioxide,
+909,Surrey Heartlands,2020-12-31,Carbon monoxide,
+910,Surrey Heartlands,2020-12-31,Nitric Oxide,
+911,Surrey Heartlands,2020-12-31,Nitrogen dioxide,19.531107569586975
+912,Surrey Heartlands,2020-12-31,Oxides of Nitrogen,
+913,Surrey Heartlands,2020-12-31,Ozone,
+914,Surrey Heartlands,2020-12-31,PM10 Particulate matter,
+915,Surrey Heartlands,2020-12-31,PM10 particulate matter (Hourly measured),13.867397483630505
+916,Surrey Heartlands,2020-12-31,PM2.5 particulate matter (Hourly measured),7.923796628647173
+917,Surrey Heartlands,2020-12-31,Sulphur dioxide,
