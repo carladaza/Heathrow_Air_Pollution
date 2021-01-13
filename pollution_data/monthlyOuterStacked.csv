@@ -215,7 +215,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2006-11,Brook Green,45.12680027173913,,23.517822463768127,,,Hammersmith and Fulham
 2006-11,Oxford High St,55.08985507246377,,24.78531510759772,,,Oxford
 2006-11,Oxford St Ebbes (Cal Club),,37.92560386473429,,,,Oxford
-2006-11,Reading - Caversham Road,43.642354445071824,,,,,Reading
+2006-11,Reading - Caversham Road,43.642354445071824,,,,,Reading - Caversham Road
 2006-11,Reading Caversham Road,43.642354445071824,,,,,Reading
 2006-11,Watford Roadside,40.04290890269151,28.990800865800868,,,,Watford
 2006-11,Watford Town Hall,,,24.48377909530084,,,Watford
@@ -223,7 +223,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2006-12,Brook Green,40.70591733870968,,22.733198924731184,,,Hammersmith and Fulham
 2006-12,Oxford High St,44.20115626542697,,22.07704701796567,,,Oxford
 2006-12,Oxford St Ebbes (Cal Club),,42.09286412512219,,,,Oxford
-2006-12,Reading - Caversham Road,35.573559764309756,,,,,Reading
+2006-12,Reading - Caversham Road,35.573559764309756,,,,,Reading - Caversham Road
 2006-12,Reading Caversham Road,35.573559764309756,,,,,Reading
 2006-12,Watford Roadside,37.469086021505376,31.589644693782144,,,,Watford
 2006-12,Watford Town Hall,,,22.455452681960395,,,Watford
@@ -231,7 +231,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-01,Brook Green,34.301881136044884,,15.556545645798803,,,Hammersmith and Fulham
 2007-01,Oxford High St,49.9898316970547,,20.545698924731177,,,Oxford
 2007-01,Oxford St Ebbes (Cal Club),,52.32524857875489,,,,Oxford
-2007-01,Reading - Caversham Road,27.823882230439036,,,,,Reading
+2007-01,Reading - Caversham Road,27.823882230439036,,,,,Reading - Caversham Road
 2007-01,Reading Caversham Road,27.823882230439036,,,,,Reading
 2007-01,Watford Roadside,33.31765581555572,38.125734578897635,,,,Watford
 2007-01,Watford Town Hall,,,16.34905303030303,,,Watford
@@ -239,7 +239,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-02,Brook Green,47.34092075892857,,22.662085921325055,,,Hammersmith and Fulham
 2007-02,Oxford High St,62.27581521739131,,30.412267080745345,,,Oxford
 2007-02,Oxford St Ebbes (Cal Club),,36.15059523809523,,,,Oxford
-2007-02,Reading - Caversham Road,56.22793972332016,,15.829443173150265,,,Reading
+2007-02,Reading - Caversham Road,56.22793972332016,,15.829443173150265,,,Reading - Caversham Road
 2007-02,Reading Caversham Road,56.22793972332016,,15.829443173150265,,,Reading
 2007-02,Watford Roadside,47.72362736900781,29.392801685891747,,,,Watford
 2007-02,Watford Town Hall,,,26.647496357641288,,,Watford
@@ -247,7 +247,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-03,Brook Green,40.231416552197814,,30.441786731267793,,,Hammersmith and Fulham
 2007-03,Oxford High St,58.85811126694717,,31.801075268817204,,,Oxford
 2007-03,Oxford St Ebbes (Cal Club),,53.342173860849556,,,,Oxford
-2007-03,Reading - Caversham Road,54.592066498316505,,30.43051075268817,,,Reading
+2007-03,Reading - Caversham Road,54.592066498316505,,30.43051075268817,,,Reading - Caversham Road
 2007-03,Reading Caversham Road,54.592066498316505,,30.43051075268817,,,Reading
 2007-03,Watford Roadside,37.160004675081815,48.36095881677928,,,,Watford
 2007-03,Watford Town Hall,,,31.54301075268817,,,Watford
@@ -255,7 +255,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-04,Brook Green,43.87646874999999,,34.836288138825324,,,Hammersmith and Fulham
 2007-04,Oxford High St,72.78666556873077,,30.256219806763283,,,Oxford
 2007-04,Oxford St Ebbes (Cal Club),,52.03888888888888,,,,Oxford
-2007-04,Reading - Caversham Road,42.496972128113434,,36.52555072463768,,,Reading
+2007-04,Reading - Caversham Road,42.496972128113434,,36.52555072463768,,,Reading - Caversham Road
 2007-04,Reading Caversham Road,42.496972128113434,,36.52555072463768,,,Reading
 2007-04,Watford Roadside,43.100724637681154,53.23115942028985,,,,Watford
 2007-04,Watford Town Hall,,,34.90627731769036,,,Watford
@@ -263,7 +263,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-05,Brook Green,28.168785299115324,,16.406866526414213,,,Hammersmith and Fulham
 2007-05,Oxford High St,51.204253261932095,,20.627482555018787,,,Oxford
 2007-05,Oxford St Ebbes (Cal Club),,48.34677419354838,,,,Oxford
-2007-05,Reading - Caversham Road,33.37786735821448,,22.370430107526886,,,Reading
+2007-05,Reading - Caversham Road,33.37786735821448,,22.370430107526886,,,Reading - Caversham Road
 2007-05,Reading Caversham Road,33.37786735821448,,22.370430107526886,,,Reading
 2007-05,Watford Roadside,29.74450677886863,55.55715287517531,,,,Watford
 2007-05,Watford Town Hall,,,16.665480708412396,,,Watford
@@ -271,7 +271,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-06,Brook Green,28.709074166041976,,20.968821839080455,,,Hammersmith and Fulham
 2007-06,Oxford High St,53.91039415898113,,26.403423870815168,,,Oxford
 2007-06,Oxford St Ebbes (Cal Club),,41.08769841269842,,,,Oxford
-2007-06,Reading - Caversham Road,35.182493961352655,,26.719776570048307,,,Reading
+2007-06,Reading - Caversham Road,35.182493961352655,,26.719776570048307,,,Reading - Caversham Road
 2007-06,Reading Caversham Road,35.182493961352655,,26.719776570048307,,,Reading
 2007-06,Watford Roadside,31.783838383838386,54.05277777777777,,,,Watford
 2007-06,Watford Town Hall,,,20.391398637594293,,,Watford
@@ -279,7 +279,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-07,Brook Green,23.554824246143056,,13.00800023375409,,,Hammersmith and Fulham
 2007-07,Oxford High St,50.431913808491664,,20.49194444444444,,,Oxford
 2007-07,Oxford St Ebbes (Cal Club),,41.08717357910905,,,,Oxford
-2007-07,Reading - Caversham Road,22.583069112676863,,17.992930175884723,,,Reading
+2007-07,Reading - Caversham Road,22.583069112676863,,17.992930175884723,,,Reading - Caversham Road
 2007-07,Reading Caversham Road,22.583069112676863,,17.992930175884723,,,Reading
 2007-07,Watford Roadside,26.523984839377547,49.0658238701717,,,,Watford
 2007-07,Watford Town Hall,,,13.540122547539319,,,Watford
@@ -287,7 +287,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-08,Brook Green,26.325584742351047,,15.34578317102472,,,Hammersmith and Fulham
 2007-08,Oxford High St,55.06458291591531,,23.264296187683282,,,Oxford
 2007-08,Oxford St Ebbes (Cal Club),,41.17187499999999,,,,Oxford
-2007-08,Reading - Caversham Road,19.36276078476389,,50.947940575665115,,,Reading
+2007-08,Reading - Caversham Road,19.36276078476389,,50.947940575665115,,,Reading - Caversham Road
 2007-08,Reading Caversham Road,19.36276078476389,,50.947940575665115,,,Reading
 2007-08,Watford Roadside,36.97973903924131,39.95314892592296,,,,Watford
 2007-08,Watford Town Hall,,,16.810771591245196,,,Watford
@@ -295,7 +295,7 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-09,Brook Green,31.040225542007814,,18.970532748331717,,,Hammersmith and Fulham
 2007-09,Oxford High St,53.30862663906142,,26.698934837092732,,,Oxford
 2007-09,Oxford St Ebbes (Cal Club),,33.303030303030305,,,,Oxford
-2007-09,Reading - Caversham Road,50.16854354884248,,21.527693236714974,,,Reading
+2007-09,Reading - Caversham Road,50.16854354884248,,21.527693236714974,,,Reading - Caversham Road
 2007-09,Reading Caversham Road,50.16854354884248,,21.527693236714974,,,Reading
 2007-09,Watford Roadside,,21.627922584238373,,,,Watford
 2007-09,Watford Town Hall,,,18.34260001507444,,,Watford
@@ -303,8 +303,8 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-10,Brook Green,50.07649675666199,,28.6773415393322,,,Hammersmith and Fulham
 2007-10,Oxford High St,67.94109396914446,,28.93787985039739,,,Oxford
 2007-10,Oxford St Ebbes (Cal Club),,19.15591397849462,,,,Oxford
-2007-10,Reading - Caversham Road,64.02558757278254,,31.77916666666666,,,Reading
-2007-10,Reading - Kings Road,66.45225856157067,,,,,Reading
+2007-10,Reading - Caversham Road,64.02558757278254,,31.77916666666666,,,Reading - Caversham Road
+2007-10,Reading - Kings Road,66.45225856157067,,,,,Reading - Kings Road
 2007-10,Reading Caversham Road,64.02558757278254,,31.77916666666666,,,Reading
 2007-10,Reading Kings Road,66.45225856157067,,,,,Reading
 2007-10,Watford Town Hall,,,30.842712248341545,,,Watford
@@ -312,8 +312,8 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-11,Brook Green,49.78932744565217,,22.35987922705313,,,Hammersmith and Fulham
 2007-11,Oxford High St,66.82753623188404,,26.033574879227054,,,Oxford
 2007-11,Oxford St Ebbes (Cal Club),,28.108333333333338,,,,Oxford
-2007-11,Reading - Caversham Road,47.44271016061233,,21.224859295294074,,,Reading
-2007-11,Reading - Kings Road,62.59123184239131,,,,,Reading
+2007-11,Reading - Caversham Road,47.44271016061233,,21.224859295294074,,,Reading - Caversham Road
+2007-11,Reading - Kings Road,62.59123184239131,,,,,Reading - Kings Road
 2007-11,Reading Caversham Road,47.44271016061233,,21.224859295294074,,,Reading
 2007-11,Reading Kings Road,62.59123184239131,,,,,Reading
 2007-11,Watford Town Hall,,,23.977018550988806,,,Watford
@@ -321,9 +321,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2007-12,Brook Green,45.79975916023842,,25.671028684966274,,,Hammersmith and Fulham
 2007-12,Oxford High St,56.48548387096776,,26.067661184070726,,,Oxford
 2007-12,Oxford St Ebbes (Cal Club),,33.2270283479961,,,,Oxford
-2007-12,Reading - Caversham Road,49.22429999538369,,24.505145684347717,,,Reading
-2007-12,Reading - Kings Road,74.03534528694554,,,,,Reading
-2007-12,Reading - Oxford Road,50.04151021156379,,36.082138061214145,,,Reading
+2007-12,Reading - Caversham Road,49.22429999538369,,24.505145684347717,,,Reading - Caversham Road
+2007-12,Reading - Kings Road,74.03534528694554,,,,,Reading - Kings Road
+2007-12,Reading - Oxford Road,50.04151021156379,,36.082138061214145,,,Reading - Oxford Road
 2007-12,Reading Caversham Road,48.05138306394693,,24.62829966329966,,,Reading
 2007-12,Reading Kings Road,74.03534528694554,,,,,Reading
 2007-12,Reading Oxford Road,50.04151021156379,,36.082138061214145,,,Reading
@@ -332,9 +332,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-01,Brook Green,34.57542592291124,,17.848161976911978,,,Hammersmith and Fulham
 2008-01,Oxford High St,44.88696927196224,,22.451092269114707,,,Oxford
 2008-01,Oxford St Ebbes (Cal Club),,44.63930074133441,,,,Oxford
-2008-01,Reading - Caversham Road,40.9289043384152,,19.643588762803343,,,Reading
-2008-01,Reading - Kings Road,50.368769935664496,,,,,Reading
-2008-01,Reading - Oxford Road,37.161705236091635,,25.890212281679673,,,Reading
+2008-01,Reading - Caversham Road,40.9289043384152,,19.643588762803343,,,Reading - Caversham Road
+2008-01,Reading - Kings Road,50.368769935664496,,,,,Reading - Kings Road
+2008-01,Reading - Oxford Road,37.161705236091635,,25.890212281679673,,,Reading - Oxford Road
 2008-01,Reading Caversham Road,40.9289043384152,,19.643588762803343,,,Reading
 2008-01,Reading Kings Road,50.368769935664496,,,,,Reading
 2008-01,Reading Oxford Road,37.161705236091635,,25.890212281679673,,,Reading
@@ -343,9 +343,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-02,Brook Green,59.25918005671078,,38.82330340114431,,,Hammersmith and Fulham
 2008-02,Oxford High St,73.17562322734736,,33.139305347326335,,,Oxford
 2008-02,Oxford St Ebbes (Cal Club),,32.58045977011494,,,,Oxford
-2008-02,Reading - Caversham Road,53.62951461143616,,34.07580138502177,,,Reading
-2008-02,Reading - Kings Road,72.56636079724849,,,,,Reading
-2008-02,Reading - Oxford Road,52.19024442456397,,41.20135467980295,,,Reading
+2008-02,Reading - Caversham Road,53.62951461143616,,34.07580138502177,,,Reading - Caversham Road
+2008-02,Reading - Kings Road,72.56636079724849,,,,,Reading - Kings Road
+2008-02,Reading - Oxford Road,52.19024442456397,,41.20135467980295,,,Reading - Oxford Road
 2008-02,Reading Caversham Road,53.62951461143616,,34.07580138502177,,,Reading
 2008-02,Reading Kings Road,72.56636079724849,,,,,Reading
 2008-02,Reading Oxford Road,52.19024442456397,,41.20135467980295,,,Reading
@@ -354,9 +354,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-03,Brook Green,36.37468514307898,,20.817237691711995,,,Hammersmith and Fulham
 2008-03,Oxford High St,54.410875940328964,,25.03903693314633,,,Oxford
 2008-03,Oxford St Ebbes (Cal Club),,57.424731182795696,,,,Oxford
-2008-03,Reading - Caversham Road,31.827630796038935,,15.940546594982077,,,Reading
-2008-03,Reading - Kings Road,56.76840693471986,,,,,Reading
-2008-03,Reading - Oxford Road,33.90472767648433,,19.812868480725623,,,Reading
+2008-03,Reading - Caversham Road,31.827630796038935,,15.940546594982077,,,Reading - Caversham Road
+2008-03,Reading - Kings Road,56.76840693471986,,,,,Reading - Kings Road
+2008-03,Reading - Oxford Road,33.90472767648433,,19.812868480725623,,,Reading - Oxford Road
 2008-03,Reading Caversham Road,31.827630796038935,,15.940546594982077,,,Reading
 2008-03,Reading Kings Road,56.76840693471986,,,,,Reading
 2008-03,Reading Oxford Road,33.90472767648433,,19.812868480725623,,,Reading
@@ -365,9 +365,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-04,Brook Green,36.73089062499999,,27.66443067592414,,,Hammersmith and Fulham
 2008-04,Oxford High St,58.63552449965493,,24.80833333333333,,,Oxford
 2008-04,Oxford St Ebbes (Cal Club),,51.541666666666664,,,,Oxford
-2008-04,Reading - Caversham Road,37.34839285714286,,25.03266811087463,,,Reading
-2008-04,Reading - Kings Road,60.565791062198066,,,,,Reading
-2008-04,Reading - Oxford Road,37.002803030303035,,29.245207509881418,,,Reading
+2008-04,Reading - Caversham Road,37.34839285714286,,25.03266811087463,,,Reading - Caversham Road
+2008-04,Reading - Kings Road,60.565791062198066,,,,,Reading - Kings Road
+2008-04,Reading - Oxford Road,37.002803030303035,,29.245207509881418,,,Reading - Oxford Road
 2008-04,Reading Caversham Road,37.34839285714286,,25.03266811087463,,,Reading
 2008-04,Reading Kings Road,60.565791062198066,,,,,Reading
 2008-04,Reading Oxford Road,37.002803030303035,,29.245207509881418,,,Reading
@@ -376,9 +376,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-05,Brook Green,41.21124251095153,,33.058948410168604,,,Hammersmith and Fulham
 2008-05,Oxford High St,61.11755233494364,,27.863425925925927,,,Oxford
 2008-05,Oxford St Ebbes (Cal Club),,60.6043010752688,,,,Oxford
-2008-05,Reading - Caversham Road,51.69094479354205,,26.34486178924798,,,Reading
-2008-05,Reading - Kings Road,64.89940581200189,,29.50075947603121,,,Reading
-2008-05,Reading - Oxford Road,42.06760752688172,,34.2162570861678,,,Reading
+2008-05,Reading - Caversham Road,51.69094479354205,,26.34486178924798,,,Reading - Caversham Road
+2008-05,Reading - Kings Road,64.89940581200189,,29.50075947603121,,,Reading - Kings Road
+2008-05,Reading - Oxford Road,42.06760752688172,,34.2162570861678,,,Reading - Oxford Road
 2008-05,Reading Caversham Road,51.69094479354205,,26.34486178924798,,,Reading
 2008-05,Reading Kings Road,64.89940581200189,,29.50075947603121,,,Reading
 2008-05,Reading Oxford Road,42.06760752688172,,34.2162570861678,,,Reading
@@ -387,9 +387,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-06,Brook Green,26.678506927854755,,19.684010210803695,,,Hammersmith and Fulham
 2008-06,Oxford High St,49.82513175230567,,25.17813146997929,,,Oxford
 2008-06,Oxford St Ebbes (Cal Club),,48.02301587301587,,,,Oxford
-2008-06,Reading - Caversham Road,29.08845133750054,,19.347942191215214,,,Reading
-2008-06,Reading - Kings Road,47.71629150197628,,21.043472222222224,,,Reading
-2008-06,Reading - Oxford Road,24.746469907407405,,24.34666666666667,,,Reading
+2008-06,Reading - Caversham Road,29.08845133750054,,19.347942191215214,,,Reading - Caversham Road
+2008-06,Reading - Kings Road,47.71629150197628,,21.043472222222224,,,Reading - Kings Road
+2008-06,Reading - Oxford Road,24.746469907407405,,24.34666666666667,,,Reading - Oxford Road
 2008-06,Reading Caversham Road,29.08845133750054,,19.347942191215214,,,Reading
 2008-06,Reading Kings Road,47.71629150197628,,21.043472222222224,,,Reading
 2008-06,Reading Oxford Road,24.746469907407405,,24.34666666666667,,,Reading
@@ -398,9 +398,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-07,Brook Green,26.322759467040672,,16.483088954056694,,,Hammersmith and Fulham
 2008-07,Oxford High St,44.34098155467721,,23.892473118279575,,,Oxford
 2008-07,Oxford St Ebbes (Cal Club),,47.20698924731183,,,,Oxford
-2008-07,Reading - Caversham Road,34.66444643302091,,20.272900914360022,,,Reading
-2008-07,Reading - Kings Road,43.167884728161305,,20.72065134099617,,,Reading
-2008-07,Reading - Oxford Road,25.524462365591393,,21.10890718408575,,,Reading
+2008-07,Reading - Caversham Road,34.66444643302091,,20.272900914360022,,,Reading - Caversham Road
+2008-07,Reading - Kings Road,43.167884728161305,,20.72065134099617,,,Reading - Kings Road
+2008-07,Reading - Oxford Road,25.524462365591393,,21.10890718408575,,,Reading - Oxford Road
 2008-07,Reading Caversham Road,34.66444643302091,,20.272900914360022,,,Reading
 2008-07,Reading Kings Road,43.167884728161305,,20.72065134099617,,,Reading
 2008-07,Reading Oxford Road,25.524462365591393,,21.10890718408575,,,Reading
@@ -409,9 +409,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-08,Brook Green,27.07497776679842,,14.338306982872199,,,Hammersmith and Fulham
 2008-08,Oxford High St,39.027492314448835,,20.18362749919552,,,Oxford
 2008-08,Oxford St Ebbes (Cal Club),,39.23908793403884,,,,Oxford
-2008-08,Reading - Caversham Road,30.691026313550477,,28.39897909133617,,,Reading
-2008-08,Reading - Kings Road,37.29446488527835,,21.164650537634408,,,Reading
-2008-08,Reading - Oxford Road,21.644941728444536,,21.66347914203114,,,Reading
+2008-08,Reading - Caversham Road,30.691026313550477,,28.39897909133617,,,Reading - Caversham Road
+2008-08,Reading - Kings Road,37.29446488527835,,21.164650537634408,,,Reading - Kings Road
+2008-08,Reading - Oxford Road,21.644941728444536,,21.66347914203114,,,Reading - Oxford Road
 2008-08,Reading Caversham Road,30.691026313550477,,28.39897909133617,,,Reading
 2008-08,Reading Kings Road,37.29446488527835,,21.164650537634408,,,Reading
 2008-08,Reading Oxford Road,21.644941728444536,,21.66347914203114,,,Reading
@@ -420,9 +420,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-09,Brook Green,39.34039500562219,,22.13592948717949,,,Hammersmith and Fulham
 2008-09,Oxford High St,53.45483640755379,,26.54285714285714,,,Oxford
 2008-09,Oxford St Ebbes (Cal Club),,27.175000000000004,,,,Oxford
-2008-09,Reading - Caversham Road,44.41479554865423,,31.030570652173918,,,Reading
-2008-09,Reading - Kings Road,55.69142182696531,,27.770323129251697,,,Reading
-2008-09,Reading - Oxford Road,35.186512026620726,,28.415878846291136,,,Reading
+2008-09,Reading - Caversham Road,44.41479554865423,,31.030570652173918,,,Reading - Caversham Road
+2008-09,Reading - Kings Road,55.69142182696531,,27.770323129251697,,,Reading - Kings Road
+2008-09,Reading - Oxford Road,35.186512026620726,,28.415878846291136,,,Reading - Oxford Road
 2008-09,Reading Caversham Road,44.41479554865423,,31.030570652173918,,,Reading
 2008-09,Reading Kings Road,55.69142182696531,,27.770323129251697,,,Reading
 2008-09,Reading Oxford Road,35.186512026620726,,28.415878846291136,,,Reading
@@ -431,9 +431,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-10,Brook Green,40.696800906404256,,16.44018986368446,,,Hammersmith and Fulham
 2008-10,Oxford High St,51.590521271622244,,22.38990182328191,,,Oxford
 2008-10,Oxford St Ebbes (Cal Club),,29.123411534701855,,,,Oxford
-2008-10,Reading - Caversham Road,39.82582398316971,,22.14829943899018,,,Reading
-2008-10,Reading - Kings Road,56.768809690776735,,20.494489247311826,,,Reading
-2008-10,Reading - Oxford Road,33.666216690042084,,23.113688970211747,,,Reading
+2008-10,Reading - Caversham Road,39.82582398316971,,22.14829943899018,,,Reading - Caversham Road
+2008-10,Reading - Kings Road,56.768809690776735,,20.494489247311826,,,Reading - Kings Road
+2008-10,Reading - Oxford Road,33.666216690042084,,23.113688970211747,,,Reading - Oxford Road
 2008-10,Reading Caversham Road,39.82582398316971,,22.14829943899018,,,Reading
 2008-10,Reading Kings Road,56.768809690776735,,20.494489247311826,,,Reading
 2008-10,Reading Oxford Road,33.666216690042084,,23.113688970211747,,,Reading
@@ -442,9 +442,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-11,Brook Green,40.157571763834,,17.545223429951687,,,Hammersmith and Fulham
 2008-11,Oxford High St,55.09317632850241,,22.802777777777774,,,Oxford
 2008-11,Oxford St Ebbes (Cal Club),,28.64396135265701,,,,Oxford
-2008-11,Reading - Caversham Road,37.80315217391305,,20.93911231884059,,,Reading
-2008-11,Reading - Kings Road,57.55174791452569,,20.400833333333328,,,Reading
-2008-11,Reading - Oxford Road,35.65162439613527,,22.462815865048835,,,Reading
+2008-11,Reading - Caversham Road,37.80315217391305,,20.93911231884059,,,Reading - Caversham Road
+2008-11,Reading - Kings Road,57.55174791452569,,20.400833333333328,,,Reading - Kings Road
+2008-11,Reading - Oxford Road,35.65162439613527,,22.462815865048835,,,Reading - Oxford Road
 2008-11,Reading Caversham Road,37.80315217391305,,20.93911231884059,,,Reading
 2008-11,Reading Kings Road,57.55174791452569,,20.400833333333328,,,Reading
 2008-11,Reading Oxford Road,35.65162439613527,,22.462815865048835,,,Reading
@@ -452,9 +452,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2008-12,Brook Green,56.328339145256926,,22.07177313102979,,,Hammersmith and Fulham
 2008-12,Oxford High St,67.96150567250312,,24.179130009775164,,,Oxford
 2008-12,Oxford St Ebbes (Cal Club),,28.392930001275026,,,,Oxford
-2008-12,Reading - Caversham Road,42.763427730521,,26.219970288624793,,,Reading
-2008-12,Reading - Kings Road,63.81362199100046,,23.45587748747142,,,Reading
-2008-12,Reading - Oxford Road,43.49020152941964,,27.325017857220395,,,Reading
+2008-12,Reading - Caversham Road,42.763427730521,,26.219970288624793,,,Reading - Caversham Road
+2008-12,Reading - Kings Road,63.81362199100046,,23.45587748747142,,,Reading - Kings Road
+2008-12,Reading - Oxford Road,43.49020152941964,,27.325017857220395,,,Reading - Oxford Road
 2008-12,Reading Caversham Road,42.541097543760586,,25.649583333333336,,,Reading
 2008-12,Reading Kings Road,63.93185383514492,,22.977483660130723,,,Reading
 2008-12,Reading Oxford Road,43.41390269151141,,26.70743073316283,,,Reading
@@ -462,294 +462,294 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2009-01,Brook Green,50.33713471889952,,20.22278196785961,,,Hammersmith and Fulham
 2009-01,Oxford High St,51.08537376048818,,25.401823281907433,,,Oxford
 2009-01,Oxford St Ebbes (Cal Club),,31.34143170838823,,,,Oxford
-2009-01,Reading - Caversham Road,53.75115123889668,,31.7809724170173,,,Reading
-2009-01,Reading - Kings Road,62.55754971242933,,26.259741701729777,,,Reading
-2009-01,Reading - Oxford Road,53.45758797653958,,31.684316933879675,,,Reading
+2009-01,Reading - Caversham Road,53.75115123889668,,31.7809724170173,,,Reading - Caversham Road
+2009-01,Reading - Kings Road,62.55754971242933,,26.259741701729777,,,Reading - Kings Road
+2009-01,Reading - Oxford Road,53.45758797653958,,31.684316933879675,,,Reading - Oxford Road
 2009-01,Reading Caversham Road,53.75115123889668,,31.7809724170173,,,Reading
 2009-01,Reading Kings Road,62.55754971242933,,26.259741701729777,,,Reading
 2009-01,Reading Oxford Road,53.45758797653958,,31.684316933879675,,,Reading
 2009-01,Watford Town Hall,49.596774193548384,,26.580645161290324,,,Watford
 2009-02,Oxford High St,69.61458333333334,,22.693939393939395,,,Oxford
 2009-02,Oxford St Ebbes (Cal Club),,32.164172783737996,,,,Oxford
-2009-02,Reading - Caversham Road,47.31057379473528,,23.970987688553684,,,Reading
-2009-02,Reading - Kings Road,64.03992939967836,,22.02440476190476,,,Reading
-2009-02,Reading - Oxford Road,45.24144668737059,,26.41054902681896,,,Reading
+2009-02,Reading - Caversham Road,47.31057379473528,,23.970987688553684,,,Reading - Caversham Road
+2009-02,Reading - Kings Road,64.03992939967836,,22.02440476190476,,,Reading - Kings Road
+2009-02,Reading - Oxford Road,45.24144668737059,,26.41054902681896,,,Reading - Oxford Road
 2009-02,Reading Caversham Road,47.31057379473528,,23.970987688553684,,,Reading
 2009-02,Reading Kings Road,64.03992939967836,,22.02440476190476,,,Reading
 2009-02,Reading Oxford Road,45.24144668737059,,26.41054902681896,,,Reading
 2009-02,Watford Town Hall,53.06499391912436,,24.882549407114624,,,Watford
 2009-03,Oxford High St,63.35431276297335,,31.26144467448815,,,Oxford
 2009-03,Oxford St Ebbes (Cal Club),,54.40819485174324,,,,Oxford
-2009-03,Reading - Caversham Road,45.55714168837241,,26.6731007480131,,,Reading
-2009-03,Reading - Kings Road,57.81159741855794,,22.375806451612906,,,Reading
-2009-03,Reading - Oxford Road,38.73541482923556,,29.054170165171122,,,Reading
+2009-03,Reading - Caversham Road,45.55714168837241,,26.6731007480131,,,Reading - Caversham Road
+2009-03,Reading - Kings Road,57.81159741855794,,22.375806451612906,,,Reading - Kings Road
+2009-03,Reading - Oxford Road,38.73541482923556,,29.054170165171122,,,Reading - Oxford Road
 2009-03,Reading Caversham Road,45.55714168837241,,26.6731007480131,,,Reading
 2009-03,Reading Kings Road,57.81159741855794,,22.375806451612906,,,Reading
 2009-03,Reading Oxford Road,38.73541482923556,,29.054170165171122,,,Reading
 2009-03,Watford Town Hall,45.17782842449743,,27.314068100358423,,,Watford
 2009-04,Oxford High St,54.6199275362319,,26.034129336846732,,,Oxford
 2009-04,Oxford St Ebbes (Cal Club),,58.063095238095244,,,,Oxford
-2009-04,Reading - Caversham Road,46.0453170036624,,31.132916666666656,,,Reading
-2009-04,Reading - Kings Road,54.986012282992974,,23.14558982683983,,,Reading
-2009-04,Reading - Oxford Road,38.51199926588994,,30.763870772946856,,,Reading
+2009-04,Reading - Caversham Road,46.0453170036624,,31.132916666666656,,,Reading - Caversham Road
+2009-04,Reading - Kings Road,54.986012282992974,,23.14558982683983,,,Reading - Kings Road
+2009-04,Reading - Oxford Road,38.51199926588994,,30.763870772946856,,,Reading - Oxford Road
 2009-04,Reading Caversham Road,46.0453170036624,,31.132916666666656,,,Reading
 2009-04,Reading Kings Road,54.986012282992974,,23.14558982683983,,,Reading
 2009-04,Reading Oxford Road,38.51199926588994,,30.763870772946856,,,Reading
 2009-04,Watford Town Hall,41.74785353535354,,29.49662698412698,,,Watford
 2009-05,Oxford High St,44.941444600280505,,23.627666921671125,,,Oxford
 2009-05,Oxford St Ebbes (Cal Club),,64.08064516129032,,,,Oxford
-2009-05,Reading - Caversham Road,34.50580455252028,,27.034199134199135,,,Reading
-2009-05,Reading - Kings Road,39.00374803434061,,18.284870266479665,,,Reading
-2009-05,Reading - Oxford Road,27.078288495048675,,24.54257213638144,,,Reading
+2009-05,Reading - Caversham Road,34.50580455252028,,27.034199134199135,,,Reading - Caversham Road
+2009-05,Reading - Kings Road,39.00374803434061,,18.284870266479665,,,Reading - Kings Road
+2009-05,Reading - Oxford Road,27.078288495048675,,24.54257213638144,,,Reading - Oxford Road
 2009-05,Reading Caversham Road,34.50580455252028,,27.034199134199135,,,Reading
 2009-05,Reading Kings Road,39.00374803434061,,18.284870266479665,,,Reading
 2009-05,Reading Oxford Road,27.078288495048675,,24.54257213638144,,,Reading
 2009-05,Watford Town Hall,26.82883356708742,,20.523093841642225,,,Watford
 2009-06,Oxford High St,58.86668313570489,,27.33596837944664,,,Oxford
 2009-06,Oxford St Ebbes (Cal Club),,58.48174603174603,,,,Oxford
-2009-06,Reading - Caversham Road,48.37149930986888,,26.632083333333323,,,Reading
-2009-06,Reading - Kings Road,51.80740491326883,,19.514767973856213,,,Reading
-2009-06,Reading - Oxford Road,32.68298309178744,,22.898354700854707,,,Reading
+2009-06,Reading - Caversham Road,48.37149930986888,,26.632083333333323,,,Reading - Caversham Road
+2009-06,Reading - Kings Road,51.80740491326883,,19.514767973856213,,,Reading - Kings Road
+2009-06,Reading - Oxford Road,32.68298309178744,,22.898354700854707,,,Reading - Oxford Road
 2009-06,Reading Caversham Road,48.37149930986888,,26.632083333333323,,,Reading
 2009-06,Reading Kings Road,51.80740491326883,,19.514767973856213,,,Reading
 2009-06,Reading Oxford Road,32.68298309178744,,22.898354700854707,,,Reading
 2009-06,Watford Town Hall,35.13876009256444,,20.208845029239757,,,Watford
 2009-07,Oxford High St,45.466908212560384,,22.305001275022317,,,Oxford
 2009-07,Oxford St Ebbes (Cal Club),,47.97726574500768,,,,Oxford
-2009-07,Reading - Caversham Road,32.70085317438055,,26.86862003780719,,,Reading
-2009-07,Reading - Kings Road,31.051413702239792,,19.216931782209556,,,Reading
-2009-07,Reading - Oxford Road,22.548556568489943,,19.601478494623656,,,Reading
+2009-07,Reading - Caversham Road,32.70085317438055,,26.86862003780719,,,Reading - Caversham Road
+2009-07,Reading - Kings Road,31.051413702239792,,19.216931782209556,,,Reading - Kings Road
+2009-07,Reading - Oxford Road,22.548556568489943,,19.601478494623656,,,Reading - Oxford Road
 2009-07,Reading Caversham Road,32.70085317438055,,26.86862003780719,,,Reading
 2009-07,Reading Kings Road,31.051413702239792,,19.216931782209556,,,Reading
 2009-07,Reading Oxford Road,22.548556568489943,,19.601478494623656,,,Reading
 2009-07,Watford Town Hall,23.793426197458462,,15.672200111716238,,,Watford
 2009-08,Oxford High St,,,22.987034996326724,,,Oxford
 2009-08,Oxford St Ebbes (Cal Club),,45.76344086021506,,,,Oxford
-2009-08,Reading - Caversham Road,34.66890486208508,,31.527698412698417,,,Reading
-2009-08,Reading - Kings Road,37.01724106981082,,17.355779569892473,,,Reading
-2009-08,Reading - Oxford Road,28.593776297335204,,20.139209788144974,,,Reading
+2009-08,Reading - Caversham Road,34.66890486208508,,31.527698412698417,,,Reading - Caversham Road
+2009-08,Reading - Kings Road,37.01724106981082,,17.355779569892473,,,Reading - Kings Road
+2009-08,Reading - Oxford Road,28.593776297335204,,20.139209788144974,,,Reading - Oxford Road
 2009-08,Reading Caversham Road,34.66890486208508,,31.527698412698417,,,Reading
 2009-08,Reading Kings Road,37.01724106981082,,17.355779569892473,,,Reading
 2009-08,Reading Oxford Road,28.593776297335204,,20.139209788144974,,,Reading
 2009-08,Watford Town Hall,29.434139784946233,,16.689760508308897,,,Watford
 2009-09,Oxford High St,60.04931561996779,,28.9990110734676,,,Oxford
 2009-09,Oxford St Ebbes (Cal Club),,42.0548309178744,,,,Oxford
-2009-09,Reading - Caversham Road,41.34616955266956,,29.462837615283267,,,Reading
-2009-09,Reading - Kings Road,49.40097998619737,,22.40892240012979,,,Reading
-2009-09,Reading - Oxford Road,30.303775581906017,,22.89359903381643,,,Reading
+2009-09,Reading - Caversham Road,41.34616955266956,,29.462837615283267,,,Reading - Caversham Road
+2009-09,Reading - Kings Road,49.40097998619737,,22.40892240012979,,,Reading - Kings Road
+2009-09,Reading - Oxford Road,30.303775581906017,,22.89359903381643,,,Reading - Oxford Road
 2009-09,Reading Caversham Road,41.34616955266956,,29.462837615283267,,,Reading
 2009-09,Reading Kings Road,49.40097998619737,,22.40892240012979,,,Reading
 2009-09,Reading Oxford Road,30.303775581906017,,22.89359903381643,,,Reading
 2009-09,Watford Town Hall,33.55573671497584,,20.20916666666666,,,Watford
 2009-10,Oxford High St,61.22802711547453,,33.241866420162346,,,Oxford
 2009-10,Oxford St Ebbes (Cal Club),,28.21935483870968,,,,Oxford
-2009-10,Reading - Caversham Road,56.5924497025479,,29.77100661625709,,,Reading
-2009-10,Reading - Kings Road,52.41150177844362,,26.654569892473116,,,Reading
-2009-10,Reading - Oxford Road,39.80752688172043,,26.055691912108458,,,Reading
+2009-10,Reading - Caversham Road,56.5924497025479,,29.77100661625709,,,Reading - Caversham Road
+2009-10,Reading - Kings Road,52.41150177844362,,26.654569892473116,,,Reading - Kings Road
+2009-10,Reading - Oxford Road,39.80752688172043,,26.055691912108458,,,Reading - Oxford Road
 2009-10,Reading Caversham Road,56.5924497025479,,29.77100661625709,,,Reading
 2009-10,Reading Kings Road,52.41150177844362,,26.654569892473116,,,Reading
 2009-10,Reading Oxford Road,39.80752688172043,,26.055691912108458,,,Reading
 2009-10,Watford Town Hall,48.28500467508182,,22.90475583322708,,,Watford
 2009-11,Oxford High St,36.94196859903382,,18.755555555555556,,,Oxford
 2009-11,Oxford St Ebbes (Cal Club),,49.40821256038647,,,,Oxford
-2009-11,Reading - Caversham Road,46.08558576328503,,23.14902329192547,,,Reading
-2009-11,Reading - Kings Road,47.352276570048296,,23.328867173556088,,,Reading
-2009-11,Reading - Oxford Road,32.91847222222222,,22.109170875420876,,,Reading
+2009-11,Reading - Caversham Road,46.08558576328503,,23.14902329192547,,,Reading - Caversham Road
+2009-11,Reading - Kings Road,47.352276570048296,,23.328867173556088,,,Reading - Kings Road
+2009-11,Reading - Oxford Road,32.91847222222222,,22.109170875420876,,,Reading - Oxford Road
 2009-11,Reading Caversham Road,46.08558576328503,,23.14902329192547,,,Reading
 2009-11,Reading Kings Road,47.352276570048296,,23.328867173556088,,,Reading
 2009-11,Reading Oxford Road,32.91847222222222,,22.109170875420876,,,Reading
 2009-11,Watford Town Hall,36.93888888888888,,18.5559146961607,,,Watford
 2009-12,Oxford High St,57.004374540840175,,18.630153215181263,,,Oxford
 2009-12,Oxford St Ebbes (Cal Club),,44.233333333333334,,,,Oxford
-2009-12,Reading - Caversham Road,55.38788437959539,,21.349126221001217,,,Reading
-2009-12,Reading - Kings Road,64.52176485104248,,24.658393613554907,,,Reading
-2009-12,Reading - Oxford Road,49.716109903381636,,22.658139866405996,,,Reading
+2009-12,Reading - Caversham Road,55.38788437959539,,21.349126221001217,,,Reading - Caversham Road
+2009-12,Reading - Kings Road,64.52176485104248,,24.658393613554907,,,Reading - Kings Road
+2009-12,Reading - Oxford Road,49.716109903381636,,22.658139866405996,,,Reading - Oxford Road
 2009-12,Reading Caversham Road,56.203869414470795,,21.488202380952377,,,Reading
 2009-12,Reading Kings Road,65.14082367941056,,24.865525252525252,,,Reading
 2009-12,Reading Oxford Road,49.716109903381636,,22.776744528619528,,,Reading
 2009-12,Watford Town Hall,47.6236559139785,,19.333717357910906,,,Watford
 2010-01,Oxford High St,66.75388031790557,,25.20173509286413,,,Oxford
-2010-01,Reading - Caversham Road,51.86154437077648,,26.30172393641889,,,Reading
-2010-01,Reading - Kings Road,63.71702948930043,,27.90040707587383,,,Reading
-2010-01,Reading - Oxford Road,48.129210662525885,,28.55615726729165,,,Reading
+2010-01,Reading - Caversham Road,51.86154437077648,,26.30172393641889,,,Reading - Caversham Road
+2010-01,Reading - Kings Road,63.71702948930043,,27.90040707587383,,,Reading - Kings Road
+2010-01,Reading - Oxford Road,48.129210662525885,,28.55615726729165,,,Reading - Oxford Road
 2010-01,Reading Caversham Road,51.86154437077648,,26.30172393641889,,,Reading
 2010-01,Reading Kings Road,63.71702948930043,,27.90040707587383,,,Reading
 2010-01,Reading Oxford Road,48.129210662525885,,28.55615726729165,,,Reading
 2010-01,Watford Town Hall,50.94232649071357,,27.609831029185866,,,Watford
 2010-02,Oxford High St,65.74853801169591,,26.06630024737168,,,Oxford
-2010-02,Reading - Caversham Road,53.17289312394128,,21.88115942028986,,,Reading
-2010-02,Reading - Kings Road,68.31482638864243,,26.075148809523807,,,Reading
-2010-02,Reading - Oxford Road,46.463994565217384,,25.64233630952381,,,Reading
+2010-02,Reading - Caversham Road,53.17289312394128,,21.88115942028986,,,Reading - Caversham Road
+2010-02,Reading - Kings Road,68.31482638864243,,26.075148809523807,,,Reading - Kings Road
+2010-02,Reading - Oxford Road,46.463994565217384,,25.64233630952381,,,Reading - Oxford Road
 2010-02,Reading Caversham Road,53.17289312394128,,21.88115942028986,,,Reading
 2010-02,Reading Kings Road,68.31482638864243,,26.075148809523807,,,Reading
 2010-02,Reading Oxford Road,46.463994565217384,,25.64233630952381,,,Reading
 2010-02,Watford Town Hall,47.11500850340136,,20.81891704310183,,,Watford
 2010-03,Oxford High St,73.29468599033815,,26.83160522273426,,,Oxford
 2010-03,Oxford St Ebbes (Cal Club),,51.266650062008026,,,,Oxford
-2010-03,Reading - Caversham Road,44.192150670767994,,26.493105629348516,,,Reading
-2010-03,Reading - Kings Road,59.2493045822177,,25.078436574120307,,,Reading
-2010-03,Reading - Oxford Road,42.28568256194484,,27.142741935483876,,,Reading
+2010-03,Reading - Caversham Road,44.192150670767994,,26.493105629348516,,,Reading - Caversham Road
+2010-03,Reading - Kings Road,59.2493045822177,,25.078436574120307,,,Reading - Kings Road
+2010-03,Reading - Oxford Road,42.28568256194484,,27.142741935483876,,,Reading - Oxford Road
 2010-03,Reading Caversham Road,44.192150670767994,,26.493105629348516,,,Reading
 2010-03,Reading Kings Road,59.2493045822177,,25.078436574120307,,,Reading
 2010-03,Reading Oxford Road,42.28568256194484,,27.142741935483876,,,Reading
 2010-03,Watford Town Hall,42.536757830762035,,22.704178885630498,,,Watford
 2010-04,Oxford High St,68.76721014492753,,35.44616776741777,,,Oxford
 2010-04,Oxford St Ebbes (Cal Club),,57.26544391281234,,,,Oxford
-2010-04,Reading - Caversham Road,42.27796618357489,,28.785682916117697,,,Reading
-2010-04,Reading - Kings Road,60.57883080463385,,28.90882333184057,,,Reading
-2010-04,Reading - Oxford Road,39.88348484848485,,27.729288499025333,,,Reading
+2010-04,Reading - Caversham Road,42.27796618357489,,28.785682916117697,,,Reading - Caversham Road
+2010-04,Reading - Kings Road,60.57883080463385,,28.90882333184057,,,Reading - Kings Road
+2010-04,Reading - Oxford Road,39.88348484848485,,27.729288499025333,,,Reading - Oxford Road
 2010-04,Reading Caversham Road,42.27796618357489,,28.785682916117697,,,Reading
 2010-04,Reading Kings Road,60.57883080463385,,28.90882333184057,,,Reading
 2010-04,Reading Oxford Road,39.88348484848485,,27.729288499025333,,,Reading
 2010-04,Watford Town Hall,45.00694444444444,,29.034595959595958,,,Watford
 2010-05,Oxford High St,54.91243253006927,,24.32988084692797,,,Oxford
 2010-05,Oxford St Ebbes (Cal Club),,61.69546850998465,,,,Oxford
-2010-05,Reading - Caversham Road,45.336728107238244,,25.7000525946704,,,Reading
-2010-05,Reading - Kings Road,52.11944940286454,,23.36688172043011,,,Reading
-2010-05,Reading - Oxford Road,33.554643620268614,,21.866551401497052,,,Reading
+2010-05,Reading - Caversham Road,45.336728107238244,,25.7000525946704,,,Reading - Caversham Road
+2010-05,Reading - Kings Road,52.11944940286454,,23.36688172043011,,,Reading - Kings Road
+2010-05,Reading - Oxford Road,33.554643620268614,,21.866551401497052,,,Reading - Oxford Road
 2010-05,Reading Caversham Road,45.336728107238244,,25.7000525946704,,,Reading
 2010-05,Reading Kings Road,52.11944940286454,,23.36688172043011,,,Reading
 2010-05,Reading Oxford Road,33.554643620268614,,21.866551401497052,,,Reading
 2010-05,Watford Town Hall,34.79185867895545,,22.754382889200564,,,Watford
 2010-06,Oxford High St,53.593871246195086,,23.413482219928998,,,Oxford
 2010-06,Oxford St Ebbes (Cal Club),,59.24616820377692,,,,Oxford
-2010-06,Reading - Caversham Road,52.43141426400322,,27.50834771629336,,,Reading
-2010-06,Reading - Kings Road,51.95865791634513,,25.560372915046237,,,Reading
-2010-06,Reading - Oxford Road,33.077222222222225,,23.842579600351332,,,Reading
+2010-06,Reading - Caversham Road,52.43141426400322,,27.50834771629336,,,Reading - Caversham Road
+2010-06,Reading - Kings Road,51.95865791634513,,25.560372915046237,,,Reading - Kings Road
+2010-06,Reading - Oxford Road,33.077222222222225,,23.842579600351332,,,Reading - Oxford Road
 2010-06,Reading Caversham Road,52.43141426400322,,27.50834771629336,,,Reading
 2010-06,Reading Kings Road,51.95865791634513,,25.560372915046237,,,Reading
 2010-06,Reading Oxford Road,33.077222222222225,,23.842579600351332,,,Reading
 2010-06,Watford Town Hall,34.5824494949495,,21.684411663216007,,,Watford
 2010-07,Oxford High St,40.72206638616175,,18.094220430107526,,,Oxford
 2010-07,Oxford St Ebbes (Cal Club),,53.17187148989393,,,,Oxford
-2010-07,Reading - Caversham Road,27.813288564551755,,21.927822580645163,,,Reading
-2010-07,Reading - Kings Road,34.50688513298982,,24.58982638446173,,,Reading
-2010-07,Reading - Oxford Road,25.78293010752688,,20.219241652518388,,,Reading
+2010-07,Reading - Caversham Road,27.813288564551755,,21.927822580645163,,,Reading - Caversham Road
+2010-07,Reading - Kings Road,34.50688513298982,,24.58982638446173,,,Reading - Kings Road
+2010-07,Reading - Oxford Road,25.78293010752688,,20.219241652518388,,,Reading - Oxford Road
 2010-07,Reading Caversham Road,27.813288564551755,,21.927822580645163,,,Reading
 2010-07,Reading Kings Road,34.50688513298982,,24.58982638446173,,,Reading
 2010-07,Reading Oxford Road,25.78293010752688,,20.219241652518388,,,Reading
 2010-07,Watford Town Hall,27.399521158286937,,16.244214586255264,,,Watford
 2010-08,Oxford High St,48.04280449907874,,15.505171809256664,,,Oxford
 2010-08,Oxford St Ebbes (Cal Club),,44.761093301275615,,,,Oxford
-2010-08,Reading - Caversham Road,33.85187163994433,,26.34722557644759,,,Reading
-2010-08,Reading - Kings Road,32.094580775699285,,18.44713010204082,,,Reading
-2010-08,Reading - Oxford Road,27.480481533426836,,18.560835117246135,,,Reading
+2010-08,Reading - Caversham Road,33.85187163994433,,26.34722557644759,,,Reading - Caversham Road
+2010-08,Reading - Kings Road,32.094580775699285,,18.44713010204082,,,Reading - Kings Road
+2010-08,Reading - Oxford Road,27.480481533426836,,18.560835117246135,,,Reading - Oxford Road
 2010-08,Reading Caversham Road,33.85187163994433,,26.34722557644759,,,Reading
 2010-08,Reading Kings Road,32.094580775699285,,18.44713010204082,,,Reading
 2010-08,Reading Oxford Road,27.480481533426836,,18.560835117246135,,,Reading
 2010-08,Watford Town Hall,26.35580737246235,,14.919786096256685,,,Watford
 2010-09,Oxford High St,55.55018115942029,,19.48723429951691,,,Oxford
 2010-09,Oxford St Ebbes (Cal Club),,46.8395790200138,,,,Oxford
-2010-09,Reading - Caversham Road,45.193925120772946,,26.63591011042098,,,Reading
-2010-09,Reading - Kings Road,38.81505584728633,,25.554049889883498,,,Reading
-2010-09,Reading - Oxford Road,34.91650362318841,,23.259067460317457,,,Reading
+2010-09,Reading - Caversham Road,45.193925120772946,,26.63591011042098,,,Reading - Caversham Road
+2010-09,Reading - Kings Road,38.81505584728633,,25.554049889883498,,,Reading - Kings Road
+2010-09,Reading - Oxford Road,34.91650362318841,,23.259067460317457,,,Reading - Oxford Road
 2010-09,Reading Caversham Road,45.193925120772946,,26.63591011042098,,,Reading
 2010-09,Reading Kings Road,38.81505584728633,,25.554049889883498,,,Reading
 2010-09,Reading Oxford Road,34.91650362318841,,23.259067460317457,,,Reading
 2010-09,Watford Town Hall,32.322767575839414,,21.25438392192515,,,Watford
 2010-10,Oxford High St,60.46750818139318,,22.447170740666532,,,Oxford
 2010-10,Oxford St Ebbes (Cal Club),,44.60444364594562,,,,Oxford
-2010-10,Reading - Caversham Road,57.194225238322936,,29.92981320450885,,,Reading
-2010-10,Reading - Kings Road,56.031168465723134,,26.180794659061448,,,Reading
-2010-10,Reading - Oxford Road,39.54358929406265,,26.477969348659006,,,Reading
+2010-10,Reading - Caversham Road,57.194225238322936,,29.92981320450885,,,Reading - Caversham Road
+2010-10,Reading - Kings Road,56.031168465723134,,26.180794659061448,,,Reading - Kings Road
+2010-10,Reading - Oxford Road,39.54358929406265,,26.477969348659006,,,Reading - Oxford Road
 2010-10,Reading Caversham Road,57.194225238322936,,29.92981320450885,,,Reading
 2010-10,Reading Kings Road,56.031168465723134,,26.180794659061448,,,Reading
 2010-10,Reading Oxford Road,39.54358929406265,,26.477969348659006,,,Reading
 2010-10,Watford Town Hall,37.27431112365895,,22.87585554542076,,,Watford
 2010-11,Oxford High St,64.3596618357488,,23.42832321663843,,,Oxford
-2010-11,Reading - Caversham Road,60.838229375722335,,28.575917874396136,,,Reading
-2010-11,Reading - Kings Road,57.35272122019104,,29.095957792207795,,,Reading
-2010-11,Reading - Oxford Road,46.24781353126161,,25.868683862433862,,,Reading
+2010-11,Reading - Caversham Road,60.838229375722335,,28.575917874396136,,,Reading - Caversham Road
+2010-11,Reading - Kings Road,57.35272122019104,,29.095957792207795,,,Reading - Kings Road
+2010-11,Reading - Oxford Road,46.24781353126161,,25.868683862433862,,,Reading - Oxford Road
 2010-11,Reading Caversham Road,60.838229375722335,,28.575917874396136,,,Reading
 2010-11,Reading Kings Road,57.35272122019104,,29.095957792207795,,,Reading
 2010-11,Reading Oxford Road,46.24781353126161,,25.868683862433862,,,Reading
 2010-11,Watford Town Hall,39.345833333333324,,27.316968599033817,,,Watford
 2010-12,Oxford High St,70.90411604524509,,23.319124590930343,,,Oxford
 2010-12,Oxford St Ebbes (Cal Club),,28.246959109730845,,,,Oxford
-2010-12,Reading - Caversham Road,66.40439882697947,,29.002031222043296,,,Reading
-2010-12,Reading - Kings Road,65.91355849446428,,25.783450635386128,,,Reading
-2010-12,Reading - Oxford Road,52.813137300909176,,25.06524259122943,,,Reading
+2010-12,Reading - Caversham Road,66.40439882697947,,29.002031222043296,,,Reading - Caversham Road
+2010-12,Reading - Kings Road,65.91355849446428,,25.783450635386128,,,Reading - Kings Road
+2010-12,Reading - Oxford Road,52.813137300909176,,25.06524259122943,,,Reading - Oxford Road
 2010-12,Reading Caversham Road,66.51801767676767,,29.002031222043296,,,Reading
 2010-12,Reading Kings Road,65.94248266650197,,25.888898989899,,,Reading
 2010-12,Reading Oxford Road,52.887047433161705,,25.004082374068762,,,Reading
 2010-12,Watford Town Hall,47.81849829693448,,25.400868431864225,,,Watford
 2011-01,Oxford High St,60.506109481915935,,23.151024985590755,,,Oxford
 2011-01,Oxford St Ebbes (Cal Club),,32.93333333333333,,,,Oxford
-2011-01,Reading - Caversham Road,56.74659302010286,,28.561576354679804,,,Reading
-2011-01,Reading - Kings Road,59.52712131837306,,27.18614172176585,,,Reading
-2011-01,Reading - Oxford Road,45.86003975163627,,25.44587614762426,,,Reading
+2011-01,Reading - Caversham Road,56.74659302010286,,28.561576354679804,,,Reading - Caversham Road
+2011-01,Reading - Kings Road,59.52712131837306,,27.18614172176585,,,Reading - Kings Road
+2011-01,Reading - Oxford Road,45.86003975163627,,25.44587614762426,,,Reading - Oxford Road
 2011-01,Reading Caversham Road,56.74659302010286,,28.561576354679804,,,Reading
 2011-01,Reading Kings Road,59.52712131837306,,27.18614172176585,,,Reading
 2011-01,Reading Oxford Road,45.86003975163627,,25.44587614762426,,,Reading
 2011-01,Watford Town Hall,40.920515873015866,,21.46831797235024,,,Watford
 2011-02,Oxford High St,54.756133876475495,,24.114947552447553,,,Oxford
 2011-02,Oxford St Ebbes (Cal Club),,43.477004517221914,,,,Oxford
-2011-02,Reading - Caversham Road,53.96458330357143,,36.73193333333333,,,Reading
-2011-02,Reading - Kings Road,53.87914074140081,,34.14061883629192,,,Reading
-2011-02,Reading - Oxford Road,41.495833348214276,,29.694942496229267,,,Reading
+2011-02,Reading - Caversham Road,53.96458330357143,,36.73193333333333,,,Reading - Caversham Road
+2011-02,Reading - Kings Road,53.87914074140081,,34.14061883629192,,,Reading - Kings Road
+2011-02,Reading - Oxford Road,41.495833348214276,,29.694942496229267,,,Reading - Oxford Road
 2011-02,Reading Caversham Road,53.96458330357143,,36.73193333333333,,,Reading
 2011-02,Reading Kings Road,53.87914074140081,,34.14061883629192,,,Reading
 2011-02,Reading Oxford Road,41.495833348214276,,29.694942496229267,,,Reading
 2011-02,Watford Town Hall,45.608436853002054,,30.226978637304722,,,Watford
 2011-03,Oxford High St,66.46091555709368,,38.491728701406124,,,Oxford
 2011-03,Oxford St Ebbes (Cal Club),,42.0321709379914,,,,Oxford
-2011-03,Reading - Caversham Road,61.7607709022149,,48.17633682361372,,,Reading
-2011-03,Reading - Kings Road,67.79738569019183,,47.18538689968741,,,Reading
-2011-03,Reading - Oxford Road,51.28747076729779,,46.647516325536074,,,Reading
+2011-03,Reading - Caversham Road,61.7607709022149,,48.17633682361372,,,Reading - Caversham Road
+2011-03,Reading - Kings Road,67.79738569019183,,47.18538689968741,,,Reading - Kings Road
+2011-03,Reading - Oxford Road,51.28747076729779,,46.647516325536074,,,Reading - Oxford Road
 2011-03,Reading Caversham Road,61.7607709022149,,48.17633682361372,,,Reading
 2011-03,Reading Kings Road,67.79738569019183,,47.18538689968741,,,Reading
 2011-03,Reading Oxford Road,51.28747076729779,,46.647516325536074,,,Reading
 2011-03,Watford Town Hall,53.08579458176232,,41.66053972908812,,,Watford
 2011-04,Oxford High St,58.84420289855072,,32.2242997893284,,,Oxford
 2011-04,Oxford St Ebbes (Cal Club),,45.54444444444445,,,,Oxford
-2011-04,Reading - Caversham Road,49.981671228825526,,44.74724489795919,,,Reading
-2011-04,Reading - Kings Road,62.13087339410408,,39.112234848484846,,,Reading
-2011-04,Reading - Oxford Road,51.271792888623274,,36.160202798663335,,,Reading
+2011-04,Reading - Caversham Road,49.981671228825526,,44.74724489795919,,,Reading - Caversham Road
+2011-04,Reading - Kings Road,62.13087339410408,,39.112234848484846,,,Reading - Kings Road
+2011-04,Reading - Oxford Road,51.271792888623274,,36.160202798663335,,,Reading - Oxford Road
 2011-04,Reading Caversham Road,49.981671228825526,,44.74724489795919,,,Reading
 2011-04,Reading Kings Road,62.13087339410408,,39.112234848484846,,,Reading
 2011-04,Reading Oxford Road,51.271792888623274,,36.160202798663335,,,Reading
 2011-04,Watford Town Hall,43.798731884057965,,36.041934092477554,,,Watford
 2011-05,Oxford High St,43.50753856942496,,20.929389264312125,,,Oxford
 2011-05,Oxford St Ebbes (Cal Club),,53.036231884057976,,,,Oxford
-2011-05,Reading - Caversham Road,36.93994486872583,,31.601688113870292,,,Reading
-2011-05,Reading - Kings Road,41.27176091206596,,23.736827956989245,,,Reading
-2011-05,Reading - Oxford Road,26.52648083216457,,24.650295366188644,,,Reading
+2011-05,Reading - Caversham Road,36.93994486872583,,31.601688113870292,,,Reading - Caversham Road
+2011-05,Reading - Kings Road,41.27176091206596,,23.736827956989245,,,Reading - Kings Road
+2011-05,Reading - Oxford Road,26.52648083216457,,24.650295366188644,,,Reading - Oxford Road
 2011-05,Reading Caversham Road,36.93994486872583,,31.601688113870292,,,Reading
 2011-05,Reading Kings Road,41.27176091206596,,23.736827956989245,,,Reading
 2011-05,Reading Oxford Road,26.52648083216457,,24.650295366188644,,,Reading
 2011-05,Watford Town Hall,30.822580645161285,,21.354546517064048,,,Watford
 2011-06,Oxford High St,45.17376639061422,,18.064002415458944,,,Oxford
 2011-06,Oxford St Ebbes (Cal Club),,42.92846947738253,,,,Oxford
-2011-06,Reading - Caversham Road,37.94527173913044,,26.870261818495514,,,Reading
-2011-06,Reading - Kings Road,38.52419571622017,,18.84561649659864,,,Reading
-2011-06,Reading - Oxford Road,25.102603519668737,,17.193840934924694,,,Reading
+2011-06,Reading - Caversham Road,37.94527173913044,,26.870261818495514,,,Reading - Caversham Road
+2011-06,Reading - Kings Road,38.52419571622017,,18.84561649659864,,,Reading - Kings Road
+2011-06,Reading - Oxford Road,25.102603519668737,,17.193840934924694,,,Reading - Oxford Road
 2011-06,Reading Caversham Road,37.94527173913044,,26.870261818495514,,,Reading
 2011-06,Reading Kings Road,38.52419571622017,,18.84561649659864,,,Reading
 2011-06,Reading Oxford Road,25.102603519668737,,17.193840934924694,,,Reading
 2011-06,Watford Town Hall,26.776734738691257,,19.20368357487922,,,Watford
 2011-07,Oxford High St,54.84266012155213,,20.44127387144568,,,Oxford
 2011-07,Oxford St Ebbes (Cal Club),,41.244071146245055,,,,Oxford
-2011-07,Reading - Caversham Road,38.897971652003896,,25.491931410883016,,,Reading
-2011-07,Reading - Kings Road,,,20.936927302477795,,,Reading
-2011-07,Reading - Oxford Road,28.240469599665364,,19.103158774028543,,,Reading
+2011-07,Reading - Caversham Road,38.897971652003896,,25.491931410883016,,,Reading - Caversham Road
+2011-07,Reading - Kings Road,,,20.936927302477795,,,Reading - Kings Road
+2011-07,Reading - Oxford Road,28.240469599665364,,19.103158774028543,,,Reading - Oxford Road
 2011-07,Reading Caversham Road,38.897971652003896,,25.491931410883016,,,Reading
 2011-07,Reading Kings Road,,,20.936927302477795,,,Reading
 2011-07,Reading Oxford Road,28.240469599665364,,19.103158774028543,,,Reading
 2011-07,Watford Town Hall,30.091806919121076,,20.018817204301076,,,Watford
 2011-08,Oxford High St,48.78021271622253,,15.955388031790559,,,Oxford
 2011-08,Oxford St Ebbes (Cal Club),,31.69614852188485,,,,Oxford
-2011-08,Reading - Caversham Road,35.67433296600548,,27.205962127363545,,,Reading
-2011-08,Reading - Kings Road,48.0651273971127,,26.78635038166739,,,Reading
-2011-08,Reading - Oxford Road,29.84426277650649,,16.9008064516129,,,Reading
+2011-08,Reading - Caversham Road,35.67433296600548,,27.205962127363545,,,Reading - Caversham Road
+2011-08,Reading - Kings Road,48.0651273971127,,26.78635038166739,,,Reading - Kings Road
+2011-08,Reading - Oxford Road,29.84426277650649,,16.9008064516129,,,Reading - Oxford Road
 2011-08,Reading Caversham Road,35.67433296600548,,27.205962127363545,,,Reading
 2011-08,Reading Kings Road,48.0651273971127,,26.78635038166739,,,Reading
 2011-08,Reading Oxford Road,29.84426277650649,,16.9008064516129,,,Reading
 2011-08,Watford Town Hall,31.643888888888892,,16.818792270531404,,,Watford
 2011-09,Oxford High St,47.490244839701354,,20.967125286041192,,,Oxford
 2011-09,Oxford St Ebbes (Cal Club),,32.6425340360123,,,,Oxford
-2011-09,Reading - Caversham Road,43.68893619175421,,28.444123303167412,,,Reading
-2011-09,Reading - Kings Road,47.449358131487514,,37.9384894837555,,,Reading
-2011-09,Reading - Oxford Road,33.72796837499422,,21.604902641218434,,,Reading
+2011-09,Reading - Caversham Road,43.68893619175421,,28.444123303167412,,,Reading - Caversham Road
+2011-09,Reading - Kings Road,47.449358131487514,,37.9384894837555,,,Reading - Kings Road
+2011-09,Reading - Oxford Road,33.72796837499422,,21.604902641218434,,,Reading - Oxford Road
 2011-09,Reading Caversham Road,43.68893619175421,,28.444123303167412,,,Reading
 2011-09,Reading Kings Road,47.449358131487514,,37.9384894837555,,,Reading
 2011-09,Reading Oxford Road,33.72796837499422,,21.604902641218434,,,Reading
@@ -757,9 +757,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2011-10,H&F Shepherd's Bush,73.93891304347827,,32.7,,,Hammersmith and Fulham
 2011-10,Oxford High St,54.03473752754959,,20.237604126822216,,,Oxford
 2011-10,Oxford St Ebbes (Cal Club),,35.49682306940371,,,,Oxford
-2011-10,Reading - Caversham Road,47.10475106533427,,24.847603470991782,,,Reading
-2011-10,Reading - Kings Road,49.671280081495176,,31.822453016439685,,,Reading
-2011-10,Reading - Oxford Road,39.13719255618249,,20.4760752688172,,,Reading
+2011-10,Reading - Caversham Road,47.10475106533427,,24.847603470991782,,,Reading - Caversham Road
+2011-10,Reading - Kings Road,49.671280081495176,,31.822453016439685,,,Reading - Kings Road
+2011-10,Reading - Oxford Road,39.13719255618249,,20.4760752688172,,,Reading - Oxford Road
 2011-10,Reading Caversham Road,47.10475106533427,,24.847603470991782,,,Reading
 2011-10,Reading Kings Road,49.671280081495176,,31.822453016439685,,,Reading
 2011-10,Reading Oxford Road,39.13719255618249,,20.4760752688172,,,Reading
@@ -767,9 +767,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2011-11,H&F Shepherd's Bush,82.34138352272728,,38.93555555555555,,,Hammersmith and Fulham
 2011-11,Oxford High St,46.55305675805675,,26.033115271068166,,,Oxford
 2011-11,Oxford St Ebbes (Cal Club),,22.604629629629624,,,,Oxford
-2011-11,Reading - Caversham Road,66.58953196743578,,42.87771529066172,,,Reading
-2011-11,Reading - Kings Road,59.85027219219368,,41.43839646464646,,,Reading
-2011-11,Reading - Oxford Road,46.053804922660184,,30.22339555291024,,,Reading
+2011-11,Reading - Caversham Road,66.58953196743578,,42.87771529066172,,,Reading - Caversham Road
+2011-11,Reading - Kings Road,59.85027219219368,,41.43839646464646,,,Reading - Kings Road
+2011-11,Reading - Oxford Road,46.053804922660184,,30.22339555291024,,,Reading - Oxford Road
 2011-11,Reading Caversham Road,66.58953196743578,,42.87771529066172,,,Reading
 2011-11,Reading Kings Road,59.85027219219368,,41.43839646464646,,,Reading
 2011-11,Reading Oxford Road,46.053804922660184,,30.22339555291024,,,Reading
@@ -777,9 +777,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2011-12,H&F Shepherd's Bush,94.66665766636523,,26.681586021505375,,,Hammersmith and Fulham
 2011-12,Oxford High St,49.6866263296923,,14.35103021978022,,,Oxford
 2011-12,Oxford St Ebbes (Cal Club),,39.66129032258064,,,,Oxford
-2011-12,Reading - Caversham Road,39.54786964963449,,19.701534914360998,,,Reading
-2011-12,Reading - Kings Road,48.59756705660857,,20.319422196796335,,,Reading
-2011-12,Reading - Oxford Road,35.263452547919584,,15.215953716690047,,,Reading
+2011-12,Reading - Caversham Road,39.54786964963449,,19.701534914360998,,,Reading - Caversham Road
+2011-12,Reading - Kings Road,48.59756705660857,,20.319422196796335,,,Reading - Kings Road
+2011-12,Reading - Oxford Road,35.263452547919584,,15.215953716690047,,,Reading - Oxford Road
 2011-12,Reading Caversham Road,40.39640974906675,,20.1866742230489,,,Reading
 2011-12,Reading Kings Road,49.667490884701046,,20.729964114832534,,,Reading
 2011-12,Reading Oxford Road,35.82681763285024,,15.465791062801937,,,Reading
@@ -787,9 +787,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-01,H&F Shepherd's Bush,86.8064286283492,,31.159755504352276,,,Hammersmith and Fulham
 2012-01,Oxford High St,58.48687789536318,,20.098370627735985,,,Oxford
 2012-01,Oxford St Ebbes (Cal Club),,34.93305111342195,,,,Oxford
-2012-01,Reading - Caversham Road,43.019652875175304,,30.252815573082056,,,Reading
-2012-01,Reading - Kings Road,57.76837308438523,,30.78346160761186,,,Reading
-2012-01,Reading - Oxford Road,43.69807146154746,,22.623118279569894,,,Reading
+2012-01,Reading - Caversham Road,43.019652875175304,,30.252815573082056,,,Reading - Caversham Road
+2012-01,Reading - Kings Road,57.76837308438523,,30.78346160761186,,,Reading - Kings Road
+2012-01,Reading - Oxford Road,43.69807146154746,,22.623118279569894,,,Reading - Oxford Road
 2012-01,Reading Caversham Road,43.019652875175304,,30.252815573082056,,,Reading
 2012-01,Reading Kings Road,57.76837308438523,,30.78346160761186,,,Reading
 2012-01,Reading Oxford Road,43.69807146154746,,22.623118279569894,,,Reading
@@ -797,9 +797,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-02,H&F Shepherd's Bush,87.01658756559219,,40.33678160919539,,,Hammersmith and Fulham
 2012-02,Oxford High St,67.16310594702648,,29.56364942528735,,,Oxford
 2012-02,Oxford St Ebbes (Cal Club),,28.594756193331904,,,,Oxford
-2012-02,Reading - Caversham Road,48.20189114425741,,39.151332425545476,,,Reading
-2012-02,Reading - Kings Road,60.94899026322067,,39.4242344898979,,,Reading
-2012-02,Reading - Oxford Road,45.78612568715642,,26.478353593850844,,,Reading
+2012-02,Reading - Caversham Road,48.20189114425741,,39.151332425545476,,,Reading - Caversham Road
+2012-02,Reading - Kings Road,60.94899026322067,,39.4242344898979,,,Reading - Kings Road
+2012-02,Reading - Oxford Road,45.78612568715642,,26.478353593850844,,,Reading - Oxford Road
 2012-02,Reading Caversham Road,48.20189114425741,,39.151332425545476,,,Reading
 2012-02,Reading Kings Road,60.94899026322067,,39.4242344898979,,,Reading
 2012-02,Reading Oxford Road,45.78612568715642,,26.478353593850844,,,Reading
@@ -807,9 +807,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-03,H&F Shepherd's Bush,92.83878747370267,,49.830673986751066,,,Hammersmith and Fulham
 2012-03,Oxford High St,72.27968676951845,,37.06237090399082,,,Oxford
 2012-03,Oxford St Ebbes (Cal Club),,28.526531089294064,,,,Oxford
-2012-03,Reading - Caversham Road,56.978090418419825,,51.26378205128205,,,Reading
-2012-03,Reading - Kings Road,76.38331784669704,,42.45808315656412,,,Reading
-2012-03,Reading - Oxford Road,52.911962352150525,,37.940456989247316,,,Reading
+2012-03,Reading - Caversham Road,56.978090418419825,,51.26378205128205,,,Reading - Caversham Road
+2012-03,Reading - Kings Road,76.38331784669704,,42.45808315656412,,,Reading - Kings Road
+2012-03,Reading - Oxford Road,52.911962352150525,,37.940456989247316,,,Reading - Oxford Road
 2012-03,Reading Caversham Road,56.978090418419825,,51.26378205128205,,,Reading
 2012-03,Reading Kings Road,76.38331784669704,,42.45808315656412,,,Reading
 2012-03,Reading Oxford Road,52.911962352150525,,37.940456989247316,,,Reading
@@ -817,9 +817,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-04,H&F Shepherd's Bush,87.17084918478261,,28.43078623188406,,,Hammersmith and Fulham
 2012-04,Oxford High St,53.38403601229688,,17.02720410628019,,,Oxford
 2012-04,Oxford St Ebbes (Cal Club),,49.10833333333334,,,,Oxford
-2012-04,Reading - Caversham Road,38.40579365079365,,28.798194444444437,,,Reading
-2012-04,Reading - Kings Road,46.60015865173474,,24.530879723179698,,,Reading
-2012-04,Reading - Oxford Road,32.23221234079929,,19.13012254901961,,,Reading
+2012-04,Reading - Caversham Road,38.40579365079365,,28.798194444444437,,,Reading - Caversham Road
+2012-04,Reading - Kings Road,46.60015865173474,,24.530879723179698,,,Reading - Kings Road
+2012-04,Reading - Oxford Road,32.23221234079929,,19.13012254901961,,,Reading - Oxford Road
 2012-04,Reading Caversham Road,38.40579365079365,,28.798194444444437,,,Reading
 2012-04,Reading Kings Road,46.60015865173474,,24.530879723179698,,,Reading
 2012-04,Reading Oxford Road,32.23221234079929,,19.13012254901961,,,Reading
@@ -827,9 +827,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-05,H&F Shepherd's Bush,91.15447534128097,,42.73363721365125,,,Hammersmith and Fulham
 2012-05,Oxford High St,67.00414281059442,,23.228763440860213,,,Oxford
 2012-05,Oxford St Ebbes (Cal Club),,52.20698924731183,,,,Oxford
-2012-05,Reading - Caversham Road,51.81122288075354,,34.4684456992283,,,Reading
-2012-05,Reading - Kings Road,52.700780585136584,,31.338054862388656,,,Reading
-2012-05,Reading - Oxford Road,34.52392473118281,,27.775534446852824,,,Reading
+2012-05,Reading - Caversham Road,51.81122288075354,,34.4684456992283,,,Reading - Caversham Road
+2012-05,Reading - Kings Road,52.700780585136584,,31.338054862388656,,,Reading - Kings Road
+2012-05,Reading - Oxford Road,34.52392473118281,,27.775534446852824,,,Reading - Oxford Road
 2012-05,Reading Caversham Road,51.81122288075354,,34.4684456992283,,,Reading
 2012-05,Reading Kings Road,52.700780585136584,,31.338054862388656,,,Reading
 2012-05,Reading Oxford Road,34.52392473118281,,27.775534446852824,,,Reading
@@ -837,9 +837,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-06,H&F Shepherd's Bush,78.93440587944662,,39.49301810676423,,,Hammersmith and Fulham
 2012-06,Oxford High St,40.201992753623195,,14.737699275362319,,,Oxford
 2012-06,Oxford St Ebbes (Cal Club),,44.577777777777776,,,,Oxford
-2012-06,Reading - Caversham Road,40.29728271489743,,27.556174429019254,,,Reading
-2012-06,Reading - Kings Road,41.037740996925784,,25.104333333333336,,,Reading
-2012-06,Reading - Oxford Road,24.398198059187187,,20.772814012910167,,,Reading
+2012-06,Reading - Caversham Road,40.29728271489743,,27.556174429019254,,,Reading - Caversham Road
+2012-06,Reading - Kings Road,41.037740996925784,,25.104333333333336,,,Reading - Kings Road
+2012-06,Reading - Oxford Road,24.398198059187187,,20.772814012910167,,,Reading - Oxford Road
 2012-06,Reading Caversham Road,40.29728271489743,,27.556174429019254,,,Reading
 2012-06,Reading Kings Road,41.037740996925784,,25.104333333333336,,,Reading
 2012-06,Reading Oxford Road,24.398198059187187,,20.772814012910167,,,Reading
@@ -847,9 +847,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-07,H&F Shepherd's Bush,100.43884702021975,,50.57633685457055,,,Hammersmith and Fulham
 2012-07,Oxford High St,43.06257627365622,,16.4674853372434,,,Oxford
 2012-07,Oxford St Ebbes (Cal Club),,37.79032258064515,,,,Oxford
-2012-07,Reading - Caversham Road,32.73091852139407,,27.666236559139783,,,Reading
-2012-07,Reading - Kings Road,39.13936845238853,,23.124743815654607,,,Reading
-2012-07,Reading - Oxford Road,26.073872134809633,,16.36897435897436,,,Reading
+2012-07,Reading - Caversham Road,32.73091852139407,,27.666236559139783,,,Reading - Caversham Road
+2012-07,Reading - Kings Road,39.13936845238853,,23.124743815654607,,,Reading - Kings Road
+2012-07,Reading - Oxford Road,26.073872134809633,,16.36897435897436,,,Reading - Oxford Road
 2012-07,Reading Caversham Road,32.73091852139407,,27.666236559139783,,,Reading
 2012-07,Reading Kings Road,39.13936845238853,,23.124743815654607,,,Reading
 2012-07,Reading Oxford Road,26.073872134809633,,16.36897435897436,,,Reading
@@ -857,9 +857,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-08,H&F Shepherd's Bush,97.61329812412342,,41.254937825995285,,,Hammersmith and Fulham
 2012-08,Oxford High St,44.48842917251052,,18.659858578775125,,,Oxford
 2012-08,Oxford St Ebbes (Cal Club),,33.43273039490519,,,,Oxford
-2012-08,Reading - Caversham Road,47.393912892038834,,32.00038402457757,,,Reading
-2012-08,Reading - Kings Road,39.91370664165195,,25.09541619359291,,,Reading
-2012-08,Reading - Oxford Road,28.27649071358749,,21.19872742200328,,,Reading
+2012-08,Reading - Caversham Road,47.393912892038834,,32.00038402457757,,,Reading - Caversham Road
+2012-08,Reading - Kings Road,39.91370664165195,,25.09541619359291,,,Reading - Kings Road
+2012-08,Reading - Oxford Road,28.27649071358749,,21.19872742200328,,,Reading - Oxford Road
 2012-08,Reading Caversham Road,47.393912892038834,,32.00038402457757,,,Reading
 2012-08,Reading Kings Road,39.91370664165195,,25.09541619359291,,,Reading
 2012-08,Reading Oxford Road,28.27649071358749,,21.19872742200328,,,Reading
@@ -867,9 +867,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-09,H&F Shepherd's Bush,107.40918752777776,,47.14548395445135,,,Hammersmith and Fulham
 2012-09,Oxford High St,50.830615942028984,,17.63626811594203,,,Oxford
 2012-09,Oxford St Ebbes (Cal Club),,31.577777777777786,,,,Oxford
-2012-09,Reading - Caversham Road,42.73019653052261,,26.905927197802196,,,Reading
-2012-09,Reading - Kings Road,45.42334076972364,,24.00734482169541,,,Reading
-2012-09,Reading - Oxford Road,32.63473429951691,,18.968160933111918,,,Reading
+2012-09,Reading - Caversham Road,42.73019653052261,,26.905927197802196,,,Reading - Caversham Road
+2012-09,Reading - Kings Road,45.42334076972364,,24.00734482169541,,,Reading - Kings Road
+2012-09,Reading - Oxford Road,32.63473429951691,,18.968160933111918,,,Reading - Oxford Road
 2012-09,Reading Caversham Road,42.73019653052261,,26.905927197802196,,,Reading
 2012-09,Reading Kings Road,45.42334076972364,,24.00734482169541,,,Reading
 2012-09,Reading Oxford Road,32.63473429951691,,18.968160933111918,,,Reading
@@ -877,9 +877,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-10,H&F Shepherd's Bush,83.50577853260869,,26.362310299564857,,,Hammersmith and Fulham
 2012-10,Oxford High St,63.26771739130435,,17.00248948106592,,,Oxford
 2012-10,Oxford St Ebbes (Cal Club),,27.606349206349204,,,,Oxford
-2012-10,Reading - Caversham Road,53.30641653634876,,34.689247311827955,,,Reading
-2012-10,Reading - Kings Road,51.93366152161578,,25.80111467236468,,,Reading
-2012-10,Reading - Oxford Road,42.432310659186534,,23.40497628186877,,,Reading
+2012-10,Reading - Caversham Road,53.30641653634876,,34.689247311827955,,,Reading - Caversham Road
+2012-10,Reading - Kings Road,51.93366152161578,,25.80111467236468,,,Reading - Kings Road
+2012-10,Reading - Oxford Road,42.432310659186534,,23.40497628186877,,,Reading - Oxford Road
 2012-10,Reading Caversham Road,53.30641653634876,,34.689247311827955,,,Reading
 2012-10,Reading Kings Road,51.93366152161578,,25.80111467236468,,,Reading
 2012-10,Reading Oxford Road,42.432310659186534,,23.40497628186877,,,Reading
@@ -887,9 +887,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-11,H&F Shepherd's Bush,94.04020865683229,,29.9096492704826,,,Hammersmith and Fulham
 2012-11,Oxford High St,73.225422705314,,18.666944444444447,,,Oxford
 2012-11,Oxford St Ebbes (Cal Club),,27.540686366773322,,,,Oxford
-2012-11,Reading - Caversham Road,54.861874740667545,,33.70616071428572,,,Reading
-2012-11,Reading - Kings Road,65.37305257682415,,27.760358511220574,,,Reading
-2012-11,Reading - Oxford Road,54.74976851851852,,27.810104159239458,,,Reading
+2012-11,Reading - Caversham Road,54.861874740667545,,33.70616071428572,,,Reading - Caversham Road
+2012-11,Reading - Kings Road,65.37305257682415,,27.760358511220574,,,Reading - Kings Road
+2012-11,Reading - Oxford Road,54.74976851851852,,27.810104159239458,,,Reading - Oxford Road
 2012-11,Reading Caversham Road,54.861874740667545,,33.70616071428572,,,Reading
 2012-11,Reading Kings Road,65.37305257682415,,27.760358511220574,,,Reading
 2012-11,Reading Oxford Road,54.74976851851852,,27.810104159239458,,,Reading
@@ -897,9 +897,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2012-12,H&F Shepherd's Bush,97.56988911290324,,25.276604811738054,,,Hammersmith and Fulham
 2012-12,Oxford High St,61.488436002987186,,15.988319308087895,,,Oxford
 2012-12,Oxford St Ebbes (Cal Club),,25.304937091893613,,,,Oxford
-2012-12,Reading - Caversham Road,49.319902022929156,,26.33219962599346,,,Reading
-2012-12,Reading - Kings Road,64.66912123915229,,23.92344819159336,,,Reading
-2012-12,Reading - Oxford Road,43.18916225205579,,19.435215053763446,,,Reading
+2012-12,Reading - Caversham Road,49.319902022929156,,26.33219962599346,,,Reading - Caversham Road
+2012-12,Reading - Kings Road,64.66912123915229,,23.92344819159336,,,Reading - Kings Road
+2012-12,Reading - Oxford Road,43.18916225205579,,19.435215053763446,,,Reading - Oxford Road
 2012-12,Reading Caversham Road,50.03348209036013,,26.336328502415466,,,Reading
 2012-12,Reading Kings Road,64.66912123915229,,24.103813131313135,,,Reading
 2012-12,Reading Oxford Road,44.05172161820064,,19.416805555555563,,,Reading
@@ -907,9 +907,9 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2013-01,H&F Shepherd's Bush,86.60488911290322,,26.357417683702003,,,Hammersmith and Fulham
 2013-01,Oxford High St,57.740793072416714,,21.674801309022907,,,Oxford
 2013-01,Oxford St Ebbes (Cal Club),,28.323619474747478,,,,Oxford
-2013-01,Reading - Caversham Road,50.94625462317778,,32.78279569892473,,,Reading
-2013-01,Reading - Kings Road,63.2459959524783,,29.87744379276638,,,Reading
-2013-01,Reading - Oxford Road,52.60860213709678,,23.09515395894428,,,Reading
+2013-01,Reading - Caversham Road,50.94625462317778,,32.78279569892473,,,Reading - Caversham Road
+2013-01,Reading - Kings Road,63.2459959524783,,29.87744379276638,,,Reading - Kings Road
+2013-01,Reading - Oxford Road,52.60860213709678,,23.09515395894428,,,Reading - Oxford Road
 2013-01,Reading Caversham Road,50.94625462317778,,32.78279569892473,,,Reading
 2013-01,Reading Kings Road,63.2459959524783,,29.87744379276638,,,Reading
 2013-01,Reading Oxford Road,52.60860213709678,,23.09515395894428,,,Reading
@@ -917,16 +917,16 @@ Date,Location,Nitrogen dioxide,Ozone,PM10 particulate matter (Hourly measured),P
 2013-02,H&F Shepherd's Bush,71.7603137131211,,26.41264880952381,,,Hammersmith and Fulham
 2013-02,Oxford High St,68.38587228260872,,26.54360119047619,,,Oxford
 2013-02,Oxford St Ebbes (Cal Club),,33.96550729166667,,,,Oxford
-2013-02,Reading - Caversham Road,54.8745260407592,,35.217475414078685,,,Reading
-2013-02,Reading - Kings Road,64.96785786545348,,33.17127573987434,,,Reading
+2013-02,Reading - Caversham Road,54.8745260407592,,35.217475414078685,,,Reading - Caversham Road
+2013-02,Reading - Kings Road,64.96785786545348,,33.17127573987434,,,Reading - Kings Road
 2013-02,Reading Caversham Road,54.8745260407592,,35.217475414078685,,,Reading
 2013-02,Reading Kings Road,64.96785786545348,,33.17127573987434,,,Reading
 2013-02,Watford Town Hall,43.47036749482402,,26.017857142857146,,,Watford
 2013-03,H&F Shepherd's Bush,65.93136580788602,,25.279941674734808,,,Hammersmith and Fulham
 2013-03,Oxford High St,79.25139204545454,,34.88538011695907,,,Oxford
 2013-03,Oxford St Ebbes (Cal Club),,42.23158709677419,,,,Oxford
-2013-03,Reading - Caversham Road,69.0986708020953,,44.55329354553493,,,Reading
-2013-03,Reading - Kings Road,68.73057636297091,,38.23520139522313,,,Reading
+2013-03,Reading - Caversham Road,69.0986708020953,,44.55329354553493,,,Reading - Caversham Road
+2013-03,Reading - Kings Road,68.73057636297091,,38.23520139522313,,,Reading - Kings Road
 2013-03,Reading Caversham Road,69.0986708020953,,44.55329354553493,,,Reading
 2013-03,Reading Kings Road,68.73057636297091,,38.23520139522313,,,Reading
 2013-03,Watford Town Hall,41.98135811126695,,30.890518084066475,,,Watford
