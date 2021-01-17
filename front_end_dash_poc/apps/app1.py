@@ -1,0 +1,170 @@
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import pandas as pd
+import plotly.express as px
+import os
+
+from app import app
+
+# print('LOOK HERE JOE', os.path.abspath(__file__)) # the absolute path of the current executed script file
+# print('AND LOOK HEREEEEEEEEEEEEEEEEEEEE', os.getcwd()) # the absolute path of the working directory
+
+
+# df = pd.read_csv('country_indicators.csv').dropna()
+# print(df.head)
+
+# print('JOE,. LOOK HERE FOR THE INDICATORSSS!!!!!!!!!!!!!!!!!!!!!!!!!!', available_indicators)
+#
+# print(df[df['Indicator Name'] == 'Respiratory Tract Admissions U1yr']['Value'])
+
+# df = pd.read_csv('https://plotly.github.io/datasets/country_indicators.csv')
+df = pd.read_csv('admission_pollution_melt.csv')
+
+available_indicators = df['Indicator Name'].unique()
+
+
+layout = html.Div([
+    # THIS IS WITH THE ORIGINAL
+    html.H3('App 1'),
+    # dcc.Dropdown(
+    #     id='app-1-dropdown',
+    #     options=[
+    #         {'label': 'App 1 - {}'.format(i), 'value': i} for i in [
+    #             'NYC', 'MTL', 'LA'
+    #         ]
+    #     ]
+    # ),
+    # # THIS IS WITH THE ORIGINAL
+    # html.Div(id='app-1-display-value'),
+
+    # html.Div([
+    #     dcc.Dropdown(
+    #         id='xaxis-column',
+    #         options=[{'label': i, 'value': i} for i in available_indicators],
+    #         # value='Fertility rate, total (births per woman)',
+    #         value='Asthma Admissions Over 19yr',
+    #     ),
+    #     dcc.RadioItems(
+    #         id='xaxis-type',
+    #         options=[{'label': i, 'value': i} for i in ['Linear', 'Log']],
+    #         value='Linear',
+    #         labelStyle={'display': 'inline-block'}
+    #     )
+    # ],
+    #     style={'width': '48%', 'display': 'inline-block'}),
+    #
+    # html.Div([
+    #     dcc.Dropdown(
+    #         id='yaxis-column',
+    #         options=[{'label': i, 'value': i} for i in available_indicators],
+    #         value='Asthma Admissions Over 19yr',
+    #     ),
+    #     dcc.RadioItems(
+    #         id='yaxis-type',
+    #         options=[{'label': i, 'value': i} for i in ['Linear', 'Log']],
+    #         value='Linear',
+    #         labelStyle={'display': 'inline-block'}
+    #     )
+    # ], style={'width': '48%', 'float': 'right', 'display': 'inline-block'}),
+    #
+    # dcc.Graph(id='indicator-graphic'),
+    #
+    # html.Div([
+    #     dcc.Graph(id='x-time-series'),
+    #     dcc.Graph(id='y-time-series'),
+    # ], style={'display': 'inline-block', 'width': '49%'}),
+
+    # working, but we dont need for the correlation graph
+    # dcc.Slider(
+    #     id='year--slider',
+    #     min=df['Year'].min(),
+    #     max=df['Year'].max(),
+    #     value=df['Year'].max(),
+    #     marks={str(year): str(year) for year in df['Year'].unique()},
+    #     step=None
+    # ),
+
+        # DONT DELETE, WE WANT THIS...
+        dcc.Link('Go to App 2', href='/apps/app2')
+    ]),
+
+# THIS IS TO REMAIN
+@app.callback(
+    Output('app-1-display-value', 'children'),
+    Input('app-1-dropdown', 'value'))
+def display_value(value):
+    return 'You have selected "{}"'.format(value)
+
+# THIS IS THE CALL BACK FOR THE SCATTER AND THE INTERACTIVE OPTIONS...
+@app.callback(
+    Output('indicator-graphic', 'figure'),
+    Input('xaxis-column', 'value'),
+    Input('yaxis-column', 'value'),
+    Input('xaxis-type', 'value'),
+    Input('yaxis-type', 'value'),
+    # Input('year--slider', 'value')
+)
+def update_graph(xaxis_column_name, yaxis_column_name,
+                 xaxis_type, yaxis_type,
+                 # year_value
+                 ):
+    # dff = df[df['Year'] == year_value]
+    dff = df
+
+    fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
+                     y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
+                     hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+
+    fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
+
+    fig.update_xaxes(title=xaxis_column_name,
+                     type='linear' if xaxis_type == 'Linear' else 'log')
+
+    fig.update_yaxes(title=yaxis_column_name,
+                     type='linear' if yaxis_type == 'Linear' else 'log')
+
+    return fig
+
+
+# def create_time_series(dff, axis_type, title):
+#
+#     fig = px.scatter(dff, x='Year', y='Value')
+#
+#     fig.update_traces(mode='lines+markers')
+#
+#     fig.update_xaxes(showgrid=False)
+#
+#     fig.update_yaxes(type='linear' if axis_type == 'Linear' else 'log')
+#
+#     fig.add_annotation(x=0, y=0.85, xanchor='left', yanchor='bottom',
+#                        xref='paper', yref='paper', showarrow=False, align='left',
+#                        bgcolor='rgba(255, 255, 255, 0.5)', text=title)
+#
+#     fig.update_layout(height=225, margin={'l': 20, 'b': 30, 'r': 10, 't': 10})
+#
+#     return fig
+
+# @app.callback(
+#     dash.dependencies.Output('x-time-series', 'figure'),
+#     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData'),
+#      dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
+#      dash.dependencies.Input('crossfilter-xaxis-type', 'value')])
+# def update_y_timeseries(hoverData, xaxis_column_name, axis_type):
+#     country_name = hoverData['points'][0]['customdata']
+#     dff = df[df['Country Name'] == country_name]
+#     dff = dff[dff['Indicator Name'] == xaxis_column_name]
+#     title = '<b>{}</b><br>{}'.format(country_name, xaxis_column_name)
+#     return create_time_series(dff, axis_type, title)
+#
+#
+# @app.callback(
+#     dash.dependencies.Output('y-time-series', 'figure'),
+#     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData'),
+#      dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
+#      dash.dependencies.Input('crossfilter-yaxis-type', 'value')])
+# def update_x_timeseries(hoverData, yaxis_column_name, axis_type):
+#     dff = df[df['Country Name'] == hoverData['points'][0]['customdata']]
+#     dff = dff[dff['Indicator Name'] == yaxis_column_name]
+#     return create_time_series(dff, axis_type, yaxis_column_name)
