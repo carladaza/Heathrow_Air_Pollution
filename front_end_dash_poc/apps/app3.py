@@ -17,16 +17,6 @@ available_indicators = df['Indicator Name'].unique()
 layout = html.Div([
     # THIS IS WITH THE ORIGINAL
     html.H3('App 1'),
-    # dcc.Dropdown(
-    #     id='app-1-dropdown',
-    #     options=[
-    #         {'label': 'App 1 - {}'.format(i), 'value': i} for i in [
-    #             'NYC', 'MTL', 'LA'
-    #         ]
-    #     ]
-    # ),
-    # # THIS IS WITH THE ORIGINAL
-    # html.Div(id='app-1-display-value'),
 
     html.Div([
         dcc.Dropdown(
@@ -107,5 +97,4 @@ def update_graph(xaxis_column_name, yaxis_column_name,
 
     fig.update_yaxes(title=yaxis_column_name,
                      type='linear' if yaxis_type == 'Linear' else 'log')
-
     return fig
