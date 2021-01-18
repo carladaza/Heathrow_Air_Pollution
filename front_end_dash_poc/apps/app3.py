@@ -2,99 +2,74 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import pandas as pd
+import dash
 import plotly.express as px
-import os
 
 from app import app
 
-# THIS IS A backup of app ONE, JUST IN CASE WE BREAK IT GOING FORWARDS...
-
 df = pd.read_csv('admission_pollution_melt.csv')
-
 available_indicators = df['Indicator Name'].unique()
 
-
 layout = html.Div([
-    # THIS IS WITH THE ORIGINAL
-    html.H3('App 1'),
+    html.H3('App 3 - Kayli'),
 
+    # container for the two drop down options, (check how the id, correlates to the callback below)
     html.Div([
-        dcc.Dropdown(
-            id='xaxis-column',
-            options=[{'label': i, 'value': i} for i in available_indicators],
-            # value='Fertility rate, total (births per woman)',
-            value='Asthma Admissions Over 19yr',
-        ),
-        dcc.RadioItems(
-            id='xaxis-type',
-            options=[{'label': i, 'value': i} for i in ['Linear', 'Log']],
-            value='Linear',
-            labelStyle={'display': 'inline-block'}
+            html.Div([
+                dcc.Dropdown(
+                    id='crossfilter-xaxis-column3',
+                    options=[{'label': i, 'value': i} for i in available_indicators],
+                    value='Asthma Admissions Over 19yr',
+                ),
+            ], style={'width': '49%', 'display': 'inline-block'}
+            ),
+            html.Div([
+                dcc.Dropdown(
+                    id='crossfilter-yaxis-column3',
+                    options=[{'label': i, 'value': i} for i in available_indicators],
+                    value='Asthma Admissions Over 19yr',
+                ),
+            ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'})
+        ], style={
+            'borderBottom': 'thin lightgrey solid',
+            'backgroundColor': 'rgb(250, 250, 250)',
+            'padding': '10px 5px'
+        }),
+
+    # container for the graph (check how the id, correlates to the callback below)
+    html.Div([
+        dcc.Graph(
+            id='crossfilter-indicator-scatter3',
+            hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
         )
     ],
-        style={'width': '48%', 'display': 'inline-block'}),
-
-    html.Div([
-        dcc.Dropdown(
-            id='yaxis-column',
-            options=[{'label': i, 'value': i} for i in available_indicators],
-            value='Asthma Admissions Over 19yr',
-            # value='Life expectancy at birth, total (years)'
-        ),
-        dcc.RadioItems(
-            id='yaxis-type',
-            options=[{'label': i, 'value': i} for i in ['Linear', 'Log']],
-            value='Linear',
-            labelStyle={'display': 'inline-block'}
-        )
-    ], style={'width': '48%', 'float': 'right', 'display': 'inline-block'}),
-
-    dcc.Graph(id='indicator-graphic'),
-
-    # working, but we dont want for the correlation graph
-    dcc.Slider(
-        id='year--slider',
-        min=df['Year'].min(),
-        max=df['Year'].max(),
-        value=df['Year'].max(),
-        marks={str(year): str(year) for year in df['Year'].unique()},
-        step=None
+        # style={'width': '49%', 'display': 'inline-block', 'padding': '0 20'}   ---> commented out, you can edit the graph style via html this way
     ),
 
+    # Navigation Tree - Don't Delete
+    html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
+    html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
+    html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
+    html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
+    html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
 
-        # DONT DELETE, WE WANT THIS...
-        dcc.Link('Go to App 2', href='/apps/app2')
-    ]),
+])
 
-# THIS IS TO REMAIN
+# this call back enables interactivity via the drop down options, everytime the drop down is changed the df is rebuilt (see dff code below)
 @app.callback(
-    Output('app-1-display-value', 'children'),
-    Input('app-1-dropdown', 'value'))
-def display_value(value):
-    return 'You have selected "{}"'.format(value)
-
-# THIS IS THE CALL BACK FOR THE SCATTER AND THE INTERACTIVE OPTIONS...
-@app.callback(
-    Output('indicator-graphic', 'figure'),
-    Input('xaxis-column', 'value'),
-    Input('yaxis-column', 'value'),
-    Input('xaxis-type', 'value'),
-    Input('yaxis-type', 'value'),
-    Input('year--slider', 'value'))
-def update_graph(xaxis_column_name, yaxis_column_name,
-                 xaxis_type, yaxis_type,
-                 year_value):
-    dff = df[df['Year'] == year_value]
+    dash.dependencies.Output('crossfilter-indicator-scatter3', 'figure'),
+    [dash.dependencies.Input('crossfilter-xaxis-column3', 'value'),
+     dash.dependencies.Input('crossfilter-yaxis-column3', 'value'),
+     ])
+def update_graph(xaxis_column_name, yaxis_column_name,):
+    dff = df
 
     fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
-                     y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
-                     hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-
+            y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
+            hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
+            )
+    fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
 
-    fig.update_xaxes(title=xaxis_column_name,
-                     type='linear' if xaxis_type == 'Linear' else 'log')
-
-    fig.update_yaxes(title=yaxis_column_name,
-                     type='linear' if yaxis_type == 'Linear' else 'log')
     return fig
+

@@ -2,98 +2,74 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import pandas as pd
-import plotly.graph_objects as go
-import plotly.express as px
 import dash
+import plotly.express as px
 
 from app import app
 
-# mapbox styles that do not require a token: open-street-map, white-bg, carto-positron, carto-darkmatter, stamen-terrain, stamen-toner, stamen-watercolor
-# color scale informaiton: https://plotly.com/python/builtin-colorscales/
-
-df = pd.read_csv('admission_pollution_melt.csv').fillna(0)
-df = df[df['Indicator Name'] != 'heathrow_distance']
+df = pd.read_csv('admission_pollution_melt.csv')
 available_indicators = df['Indicator Name'].unique()
 
-available_locations = list(df['Area Name'].unique())
-available_locations.append('All CCGs')
-
-print('JOE LOOK HERE MATEEEEEEE', available_locations)
-
 layout = html.Div([
-    html.H3('DS4A Team 27 - Air Pollution and Health Ailments around Heathrow Airport'),
+    html.H3('App 1 - Carla'),
+
+    # container for the two drop down options, (check how the id, correlates to the callback below)
     html.Div([
-
-        html.Div([
-            dcc.Dropdown(
-                id='indicator-column',
-                options=[{'label': i, 'value': i} for i in available_indicators],
-                value='Heart Failure Admissions',
+            html.Div([
+                dcc.Dropdown(
+                    id='crossfilter-xaxis-column1',
+                    options=[{'label': i, 'value': i} for i in available_indicators],
+                    value='Asthma Admissions Over 19yr',
+                ),
+            ], style={'width': '49%', 'display': 'inline-block'}
             ),
-        ],
-            style={'width': '48%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Dropdown(
+                    id='crossfilter-yaxis-column1',
+                    options=[{'label': i, 'value': i} for i in available_indicators],
+                    value='Asthma Admissions Over 19yr',
+                ),
+            ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'})
+        ], style={
+            'borderBottom': 'thin lightgrey solid',
+            'backgroundColor': 'rgb(250, 250, 250)',
+            'padding': '10px 5px'
+        }),
 
-        html.Div([
-            dcc.Dropdown(
-                id='ccg-column',
-                options=[{'label': i, 'value': i} for i in available_locations],
-                value='All CCGs',
-            ),
-        ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'}),
-    ], style={
-        'borderBottom': 'thin lightgrey solid',
-        'backgroundColor': 'rgb(250, 250, 250)',
-        'padding': '10px 5px'
-    }),
-
+    # container for the graph (check how the id, correlates to the callback below)
     html.Div([
         dcc.Graph(
-            id='crossfilter-indicator-scattermap')
-    ]),
+            id='crossfilter-indicator-scatter1',
+            hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
+        )
+    ],
+        # style={'width': '49%', 'display': 'inline-block', 'padding': '0 20'}   ---> commented out, you can edit the graph style via html this way
+    ),
 
-    html.Div(dcc.Slider(
-        id='crossfilter-year-slider',
-        min=df['Year'].min(),
-        max=df['Year'].max(),
-        value=df['Year'].max(),
-        marks={str(year): str(year) for year in df['Year'].unique()},
-        step=None
-    ), style={'width': '49%', 'padding': '0px 20px 20px 20px'}),
+    # Navigation Tree - Don't Delete
+    html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
+    html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
+    html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
+    html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
+    html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
 
-    html.Div(id='app-1-display-value'),
-    dcc.Link('Go to App 2', href='/apps/app2'),
 ])
 
+# this call back enables interactivity via the drop down options, everytime the drop down is changed the df is rebuilt (see dff code below)
 @app.callback(
-    dash.dependencies.Output('crossfilter-indicator-scattermap', 'figure'),
-    [dash.dependencies.Input('indicator-column', 'value'),
-    dash.dependencies.Input('ccg-column', 'value'),
-     dash.dependencies.Input('crossfilter-year-slider', 'value')
+    dash.dependencies.Output('crossfilter-indicator-scatter1', 'figure'),
+    [dash.dependencies.Input('crossfilter-xaxis-column1', 'value'),
+     dash.dependencies.Input('crossfilter-yaxis-column1', 'value'),
      ])
-def update_graph(indicator_name, ccg_name,
-                 year_value):
+def update_graph(xaxis_column_name, yaxis_column_name,):
+    dff = df
 
-    if ccg_name == 'All CCGs':
-        dff = df
-    else:
-        dff = df[df['Area Name'] == ccg_name]
-
-    dff = dff[dff['Indicator Name'] == indicator_name]
-    dff = dff[dff['Year'] == year_value]
-
-    fig = px.scatter_mapbox(dff, lat="LAT", lon="LONG", color="Value", size="Value",
-                            color_continuous_scale=px.colors.diverging.Portland, size_max=30, zoom=7.5,
-                            hover_name='Area Name', hover_data=['Indicator Name', 'Value', 'LAT', 'LONG'])
-
-    fig.update_layout(mapbox_style="carto-positron")
+    fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
+            y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
+            hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
+            )
+    fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+    fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
 
     return fig
 
-
-#### Density heatmap example ### -- disregarded in favour of the scatter mapbox
-
-# quakes = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv')
-# fig = go.Figure(go.Densitymapbox(lat=df.LAT, lon=df.LONG, z=df.Value,
-#                                  radius=10))
-# fig.update_layout(mapbox_style="stamen-terrain", mapbox_center_lon=180)
-# fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
