@@ -15,25 +15,41 @@ df = pd.read_csv('admission_pollution_melt.csv').fillna(0)
 df = df[df['Indicator Name'] != 'heathrow_distance']
 available_indicators = df['Indicator Name'].unique()
 
-layout = html.Div([
-    html.H3('App 1'),
+available_locations = list(df['Area Name'].unique())
+available_locations.append('All CCGs')
 
+print('JOE LOOK HERE MATEEEEEEE', available_locations)
+
+layout = html.Div([
+    html.H3('DS4A Team 27 - Air Pollution and Health Ailments around Heathrow Airport'),
     html.Div([
-        dcc.Dropdown(
-            id='indicator-column',
-            options=[{'label': i, 'value': i} for i in available_indicators],
-            value='Heart Failure Admissions',
-        ),
-    ],
-        style={'width': '48%', 'display': 'inline-block'}),
+
+        html.Div([
+            dcc.Dropdown(
+                id='indicator-column',
+                options=[{'label': i, 'value': i} for i in available_indicators],
+                value='Heart Failure Admissions',
+            ),
+        ],
+            style={'width': '48%', 'display': 'inline-block'}),
+
+        html.Div([
+            dcc.Dropdown(
+                id='ccg-column',
+                options=[{'label': i, 'value': i} for i in available_locations],
+                value='All CCGs',
+            ),
+        ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'}),
+    ], style={
+        'borderBottom': 'thin lightgrey solid',
+        'backgroundColor': 'rgb(250, 250, 250)',
+        'padding': '10px 5px'
+    }),
 
     html.Div([
         dcc.Graph(
             id='crossfilter-indicator-scattermap')
     ]),
-
-    html.Div(id='app-1-display-value'),
-    dcc.Link('Go to App 2', href='/apps/app2'),
 
     html.Div(dcc.Slider(
         id='crossfilter-year-slider',
@@ -43,20 +59,30 @@ layout = html.Div([
         marks={str(year): str(year) for year in df['Year'].unique()},
         step=None
     ), style={'width': '49%', 'padding': '0px 20px 20px 20px'}),
+
+    html.Div(id='app-1-display-value'),
+    dcc.Link('Go to App 2', href='/apps/app2'),
 ])
 
 @app.callback(
     dash.dependencies.Output('crossfilter-indicator-scattermap', 'figure'),
     [dash.dependencies.Input('indicator-column', 'value'),
+    dash.dependencies.Input('ccg-column', 'value'),
      dash.dependencies.Input('crossfilter-year-slider', 'value')
      ])
-def update_graph(indicator_name,
+def update_graph(indicator_name, ccg_name,
                  year_value):
-    dff = df[df['Indicator Name'] == indicator_name]
+
+    if ccg_name == 'All CCGs':
+        dff = df
+    else:
+        dff = df[df['Area Name'] == ccg_name]
+
+    dff = dff[dff['Indicator Name'] == indicator_name]
     dff = dff[dff['Year'] == year_value]
 
     fig = px.scatter_mapbox(dff, lat="LAT", lon="LONG", color="Value", size="Value",
-                            color_continuous_scale=px.colors.diverging.Portland, size_max=30, zoom=7,
+                            color_continuous_scale=px.colors.diverging.Portland, size_max=30, zoom=7.5,
                             hover_name='Area Name', hover_data=['Indicator Name', 'Value', 'LAT', 'LONG'])
 
     fig.update_layout(mapbox_style="carto-positron")
