@@ -62,7 +62,7 @@ layout = html.Div([
             ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20', 'text-align': 'center'}),
 
             html.Div([
-                html.H4('Interactive Line Graphs Showing Indicators Over time For Selected CCG'),
+                html.H4('Interactive Line Graphs Showing Indicators Value Over Time for Selected NHS CCG'),
                 dcc.Graph(id='x-time-series'),
                 dcc.Graph(id='y-time-series'),
             ], style={'display': 'inline-block', 'width': '49%', 'float': 'right', 'text-align': 'center'}),
@@ -138,8 +138,9 @@ def update_graph2(xaxis_column_name, yaxis_column_name,
     return fig
 
 
-def create_time_series(dff, title):
+def create_time_series(dff, title, column_name):
     fig = px.scatter(dff, x='Year', y='Value')
+    fig.update_yaxes(title=column_name)
     fig.update_traces(mode='lines+markers')
     fig.update_xaxes(showgrid=False)
     fig.add_annotation(x=0, y=0.85, xanchor='left', yanchor='bottom',
@@ -159,7 +160,7 @@ def update_y_timeseries(hoverData, xaxis_column_name,):
     dff = df[df['Area Name'] == country_name]
     dff = dff[dff['Indicator Name'] == xaxis_column_name]
     title = '<b>{}</b><br>{}'.format(country_name, xaxis_column_name)
-    return create_time_series(dff, title)
+    return create_time_series(dff, title, xaxis_column_name)
 
 
 @app.callback(
@@ -167,7 +168,9 @@ def update_y_timeseries(hoverData, xaxis_column_name,):
     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData'),
      dash.dependencies.Input('crossfilter-yaxis-column', 'value'),])
 def update_x_timeseries(hoverData, yaxis_column_name):
+    country_name = hoverData['points'][0]['customdata']
+    title = '<b>{}</b><br>{}'.format(country_name, yaxis_column_name)
     dff = df[df['Area Name'] == hoverData['points'][0]['customdata']]
     dff = dff[dff['Indicator Name'] == yaxis_column_name]
-    return create_time_series(dff, yaxis_column_name)
+    return create_time_series(dff, title=title, column_name=yaxis_column_name)
 
