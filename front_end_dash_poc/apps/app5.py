@@ -31,12 +31,6 @@ layout = html.Div([
                     options=[{'label': i, 'value': i} for i in available_indicators],
                     value='Asthma Admissions Over 19yr',
                 ),
-                dcc.RadioItems(
-                    id='crossfilter-xaxis-type',
-                    options=[{'label': i, 'value': i} for i in ['Linear', 'Log']],
-                    value='Linear',
-                    labelStyle={'display': 'inline-block'}
-                )
             ],
             style={'width': '49%', 'display': 'inline-block'}),
 
@@ -44,15 +38,10 @@ layout = html.Div([
                 dcc.Dropdown(
                     id='crossfilter-yaxis-column',
                     options=[{'label': i, 'value': i} for i in available_indicators],
-                    value='Asthma Admissions Over 19yr',
+                    value='PM10',
                 ),
-                dcc.RadioItems(
-                    id='crossfilter-yaxis-type',
-                    options=[{'label': i, 'value': i} for i in ['Linear', 'Log']],
-                    value='Linear',
-                    labelStyle={'display': 'inline-block'}
-                )
-            ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'})
+            ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'}
+            )
         ], style={
             'borderBottom': 'thin lightgrey solid',
             'backgroundColor': 'rgb(250, 250, 250)',
@@ -62,19 +51,20 @@ layout = html.Div([
     dcc.Markdown(children=markdown_text),
 
     html.Div([
+    html.Div([
         html.H4('Correlation Scatter Plot - Aggregated Across Years - Select Indicators'),
-        # html.P('This plot is interactive, please select indicators from the drop down menus'),
         dcc.Graph(
             id='crossfilter-indicator-scatter',
             hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
         )
     ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20', 'text-align': 'center'}),
+
     html.Div([
         html.H4('Interactive Line Graphs Showing Indicators Over time For Selected CCG'),
-        # html.P('This plot is interactive, please hover over the CCGs on the Scatter to see indicators over time'),
         dcc.Graph(id='x-time-series'),
         dcc.Graph(id='y-time-series'),
     ], style={'display': 'inline-block', 'width': '49%', 'float': 'right', 'text-align': 'center'}),
+        ]),
 
     html.Div([
         html.H4('Correlation Scatter Plot - Year by Year Breakdown'),
@@ -90,7 +80,6 @@ layout = html.Div([
         max=df['Year'].max(),
         value=2018,     # default value of the slider
         marks={str(year): str(year) for year in df['Year'].unique()},
-        # marks=slider_values_formatted,
         step=None
     ), style={'width': '49%', 'padding': '0px 20px 20px 20px','margin-left': 'auto','margin-right': 'auto' }),
 
@@ -106,23 +95,20 @@ layout = html.Div([
 @app.callback(
     dash.dependencies.Output('crossfilter-indicator-scatter', 'figure'),
     [dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
-     dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
-     dash.dependencies.Input('crossfilter-xaxis-type', 'value'),
-     dash.dependencies.Input('crossfilter-yaxis-type', 'value'),
-     ])
-def update_graph(xaxis_column_name, yaxis_column_name,
-                 xaxis_type, yaxis_type,
-                 ):
-    dff = df
+     dash.dependencies.Input('crossfilter-yaxis-column', 'value')])
+def update_graph(xaxis_column_name, yaxis_column_name):
+    dff = df.copy()
+    x_vars = dff[dff['Indicator Name'] == xaxis_column_name]['Value']
+    y_vars = dff[dff['Indicator Name'] == yaxis_column_name]['Value']
+    hover_n = dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
 
-    fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
-            y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
-            hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
-            )
+    fig = px.scatter(
+        x=x_vars,
+        y=y_vars,
+        hover_name=hover_n
+    )
 
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-    fig.update_xaxes(title=xaxis_column_name, type='linear' if xaxis_type == 'Linear' else 'log')
-    fig.update_yaxes(title=yaxis_column_name, type='linear' if yaxis_type == 'Linear' else 'log')
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
 
@@ -131,14 +117,10 @@ def update_graph(xaxis_column_name, yaxis_column_name,
     dash.dependencies.Output('crossfilter-indicator-scatter5', 'figure'),
     [dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
      dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
-     dash.dependencies.Input('crossfilter-xaxis-type', 'value'),
-     dash.dependencies.Input('crossfilter-yaxis-type', 'value'),
      dash.dependencies.Input('crossfilter-year--slider5', 'value')
      ])
 def update_graph2(xaxis_column_name, yaxis_column_name,
-                 xaxis_type, yaxis_type,
-                 year_value
-                 ):
+                 year_value):
     dff = df[df['Year'] == year_value]
 
     fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
@@ -147,18 +129,14 @@ def update_graph2(xaxis_column_name, yaxis_column_name,
             )
 
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-    fig.update_xaxes(title=xaxis_column_name, type='linear' if xaxis_type == 'Linear' else 'log')
-    fig.update_yaxes(title=yaxis_column_name, type='linear' if yaxis_type == 'Linear' else 'log')
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
 
 
-def create_time_series(dff, axis_type, title):
-
+def create_time_series(dff, title):
     fig = px.scatter(dff, x='Year', y='Value')
     fig.update_traces(mode='lines+markers')
     fig.update_xaxes(showgrid=False)
-    fig.update_yaxes(type='linear' if axis_type == 'Linear' else 'log')
     fig.add_annotation(x=0, y=0.85, xanchor='left', yanchor='bottom',
                        xref='paper', yref='paper', showarrow=False, align='left',
                        bgcolor='rgba(255, 255, 255, 0.5)', text=title)
@@ -170,29 +148,21 @@ def create_time_series(dff, axis_type, title):
 @app.callback(
     dash.dependencies.Output('x-time-series', 'figure'),
     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData'),
-     dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
-     dash.dependencies.Input('crossfilter-xaxis-type', 'value')])
-def update_y_timeseries(hoverData, xaxis_column_name, axis_type):
+     dash.dependencies.Input('crossfilter-xaxis-column', 'value')])
+def update_y_timeseries(hoverData, xaxis_column_name,):
     country_name = hoverData['points'][0]['customdata']
     dff = df[df['Area Name'] == country_name]
     dff = dff[dff['Indicator Name'] == xaxis_column_name]
     title = '<b>{}</b><br>{}'.format(country_name, xaxis_column_name)
-    return create_time_series(dff, axis_type, title)
+    return create_time_series(dff, title)
 
 
 @app.callback(
     dash.dependencies.Output('y-time-series', 'figure'),
     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData'),
-     dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
-     dash.dependencies.Input('crossfilter-yaxis-type', 'value')])
-def update_x_timeseries(hoverData, yaxis_column_name, axis_type):
+     dash.dependencies.Input('crossfilter-yaxis-column', 'value'),])
+def update_x_timeseries(hoverData, yaxis_column_name):
     dff = df[df['Area Name'] == hoverData['points'][0]['customdata']]
     dff = dff[dff['Indicator Name'] == yaxis_column_name]
-    return create_time_series(dff, axis_type, yaxis_column_name)
+    return create_time_series(dff, yaxis_column_name)
 
-
-@app.callback(
-    Output('app-2-display-value', 'children'),
-    Input('app-2-dropdown', 'value'))
-def display_value(value):
-    return 'You have selected "{}"'.format(value)
