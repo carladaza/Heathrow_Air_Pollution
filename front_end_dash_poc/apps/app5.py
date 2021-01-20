@@ -30,6 +30,7 @@ layout = html.Div([
                     id='crossfilter-xaxis-column',
                     options=[{'label': i, 'value': i} for i in available_indicators],
                     value='Asthma Admissions Over 19yr',
+                    clearable=False
                 ),
             ],
             style={'width': '49%', 'display': 'inline-block'}),
@@ -39,6 +40,7 @@ layout = html.Div([
                     id='crossfilter-yaxis-column',
                     options=[{'label': i, 'value': i} for i in available_indicators],
                     value='PM10',
+                    clearable=False
                 ),
             ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'}
             )
@@ -51,20 +53,21 @@ layout = html.Div([
     dcc.Markdown(children=markdown_text),
 
     html.Div([
-    html.Div([
-        html.H4('Correlation Scatter Plot - Aggregated Across Years - Select Indicators'),
-        dcc.Graph(
-            id='crossfilter-indicator-scatter',
-            hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
-        )
-    ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20', 'text-align': 'center'}),
+            html.Div([
+                html.H4('Correlation Scatter Plot - Aggregated Across Years - Select Indicators'),
+                dcc.Graph(
+                    id='crossfilter-indicator-scatter',
+                    hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
+                )
+            ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20', 'text-align': 'center'}),
 
-    html.Div([
-        html.H4('Interactive Line Graphs Showing Indicators Over time For Selected CCG'),
-        dcc.Graph(id='x-time-series'),
-        dcc.Graph(id='y-time-series'),
-    ], style={'display': 'inline-block', 'width': '49%', 'float': 'right', 'text-align': 'center'}),
-        ]),
+            html.Div([
+                html.H4('Interactive Line Graphs Showing Indicators Over time For Selected CCG'),
+                dcc.Graph(id='x-time-series'),
+                dcc.Graph(id='y-time-series'),
+            ], style={'display': 'inline-block', 'width': '49%', 'float': 'right', 'text-align': 'center'}),
+        ], style={'padding': '5px 5px'}
+    ),
 
     html.Div([
         html.H4('Correlation Scatter Plot - Year by Year Breakdown'),
@@ -102,13 +105,13 @@ def update_graph(xaxis_column_name, yaxis_column_name):
     y_vars = dff[dff['Indicator Name'] == yaxis_column_name]['Value']
     hover_n = dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
 
-    fig = px.scatter(
-        x=x_vars,
-        y=y_vars,
-        hover_name=hover_n
+    fig = px.scatter(x=x_vars, y=y_vars, hover_name=hover_n
     )
 
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+    fig.update_xaxes(title=xaxis_column_name, type='linear')
+
+    fig.update_yaxes(title=yaxis_column_name, type='linear')
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
 
@@ -129,6 +132,8 @@ def update_graph2(xaxis_column_name, yaxis_column_name,
             )
 
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+    fig.update_xaxes(title=xaxis_column_name, type='linear')
+    fig.update_yaxes(title=yaxis_column_name, type='linear')
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
 
