@@ -12,11 +12,19 @@ df = pd.read_csv('admission_pollution_melt.csv')
 
 available_indicators = df['Indicator Name'].unique()
 
+markdown_text = """
+This is an interactive dashboard visualising the correlation between selected health indicators and air pollutants.
+Select different indicators from the drop downs to see if they are correlated with each other.
+Hover over points (CCGs) on the aggregated correlation graph to generate line plots showing indicators over time for the selected NHS CCGs.
+
+Please note that for the year by year correlation graph, only selected years are available for some indicators. 
+
+"""
+
 layout = html.Div([
     html.H3('App 5 - Joseph/Sheetal?'),
 
     html.Div([
-
             html.Div([
                 dcc.Dropdown(
                     id='crossfilter-xaxis-column',
@@ -51,26 +59,40 @@ layout = html.Div([
             'padding': '10px 5px'
         }),
 
+    dcc.Markdown(children=markdown_text),
+
     html.Div([
+        html.H4('Correlation Scatter Plot - Aggregated Across Years - Select Indicators'),
+        # html.P('This plot is interactive, please select indicators from the drop down menus'),
         dcc.Graph(
             id='crossfilter-indicator-scatter',
             hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
         )
-    ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20'}),
+    ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20', 'text-align': 'center'}),
     html.Div([
+        html.H4('Interactive Line Graphs Showing Indicators Over time For Selected CCG'),
+        # html.P('This plot is interactive, please hover over the CCGs on the Scatter to see indicators over time'),
         dcc.Graph(id='x-time-series'),
         dcc.Graph(id='y-time-series'),
-    ], style={'display': 'inline-block', 'width': '49%'}),
+    ], style={'display': 'inline-block', 'width': '49%', 'float': 'right', 'text-align': 'center'}),
 
-    ### JG:  REMOVE SLIDER FOR NOW - data is annual and I don't think we need correlation by year graphs...
-    # html.Div(dcc.Slider(
-    #     id='crossfilter-year--slider',
-    #     min=df['Year'].min(),
-    #     max=df['Year'].max(),
-    #     value=df['Year'].max(),
-    #     marks={str(year): str(year) for year in df['Year'].unique()},
-    #     step=None
-    # ), style={'width': '49%', 'padding': '0px 20px 20px 20px'}),
+    html.Div([
+        html.H4('Correlation Scatter Plot - Year by Year Breakdown'),
+        dcc.Graph(
+            id='crossfilter-indicator-scatter5',
+            hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
+        )
+    ], style={'width': '49%', 'display': 'block', 'padding': '0 20', 'margin-left': 'auto','margin-right': 'auto', 'text-align': 'center'}),
+
+    html.Div(dcc.Slider(
+        id='crossfilter-year--slider5',
+        min=df['Year'].min(),
+        max=df['Year'].max(),
+        value=2018,     # default value of the slider
+        marks={str(year): str(year) for year in df['Year'].unique()},
+        # marks=slider_values_formatted,
+        step=None
+    ), style={'width': '49%', 'padding': '0px 20px 20px 20px','margin-left': 'auto','margin-right': 'auto' }),
 
     # Navigation Tree - Don't Delete
     html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
@@ -87,13 +109,10 @@ layout = html.Div([
      dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
      dash.dependencies.Input('crossfilter-xaxis-type', 'value'),
      dash.dependencies.Input('crossfilter-yaxis-type', 'value'),
-     # dash.dependencies.Input('crossfilter-year--slider', 'value')    ---> JG: remove year slider
      ])
 def update_graph(xaxis_column_name, yaxis_column_name,
                  xaxis_type, yaxis_type,
-                 # year_value                                          ---> JG: remove year slider
                  ):
-    # dff = df[df['Year'] == year_value]                               ----> JG: remove year slider
     dff = df
 
     fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
@@ -102,32 +121,49 @@ def update_graph(xaxis_column_name, yaxis_column_name,
             )
 
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-
     fig.update_xaxes(title=xaxis_column_name, type='linear' if xaxis_type == 'Linear' else 'log')
-
     fig.update_yaxes(title=yaxis_column_name, type='linear' if yaxis_type == 'Linear' else 'log')
-
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
+    return fig
 
+
+@app.callback(
+    dash.dependencies.Output('crossfilter-indicator-scatter5', 'figure'),
+    [dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
+     dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
+     dash.dependencies.Input('crossfilter-xaxis-type', 'value'),
+     dash.dependencies.Input('crossfilter-yaxis-type', 'value'),
+     dash.dependencies.Input('crossfilter-year--slider5', 'value')
+     ])
+def update_graph2(xaxis_column_name, yaxis_column_name,
+                 xaxis_type, yaxis_type,
+                 year_value
+                 ):
+    dff = df[df['Year'] == year_value]
+
+    fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
+            y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
+            hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
+            )
+
+    fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+    fig.update_xaxes(title=xaxis_column_name, type='linear' if xaxis_type == 'Linear' else 'log')
+    fig.update_yaxes(title=yaxis_column_name, type='linear' if yaxis_type == 'Linear' else 'log')
+    fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
 
 
 def create_time_series(dff, axis_type, title):
 
     fig = px.scatter(dff, x='Year', y='Value')
-
     fig.update_traces(mode='lines+markers')
-
     fig.update_xaxes(showgrid=False)
-
     fig.update_yaxes(type='linear' if axis_type == 'Linear' else 'log')
-
     fig.add_annotation(x=0, y=0.85, xanchor='left', yanchor='bottom',
                        xref='paper', yref='paper', showarrow=False, align='left',
                        bgcolor='rgba(255, 255, 255, 0.5)', text=title)
 
     fig.update_layout(height=225, margin={'l': 20, 'b': 30, 'r': 10, 't': 10})
-
     return fig
 
 
