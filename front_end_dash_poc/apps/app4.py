@@ -15,6 +15,7 @@ df = pd.read_csv('admission_pollution_melt.csv').fillna(0)
 df = df[df['Indicator Name'] != 'heathrow_distance']
 available_indicators = df['Indicator Name'].unique()
 
+
 available_locations = list(df['Area Name'].unique())
 available_locations.append('All CCGs')
 
