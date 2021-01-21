@@ -18,6 +18,9 @@ available_indicators = df['Indicator Name'].unique()
 available_locations = list(df['Area Name'].unique())
 available_locations.append('All CCGs')
 
+# get pollution indicators
+pollution_indicators = df[df['Indicator Type'] == 'Air Pollutant']['Indicator Name'].unique()
+health_indicators = df[df['Indicator Type'] != 'Air Pollutant']['Indicator Name'].unique()
 
 # do a groupby to get the correct format for line plots
 df_f = df.groupby(['Year', 'Radius Location', 'Indicator Name']).sum('Value').reset_index()
@@ -82,7 +85,7 @@ layout = html.Div([
         html.Div([
             html.Div([dcc.Dropdown(
                 id='indicator-health-dropdown',
-                options=[{'label': i, 'value': i} for i in available_indicators],
+                options=[{'label': i, 'value': i} for i in health_indicators],
                 value='Heart Failure Admissions',
                 clearable=False
             )]),
@@ -110,7 +113,7 @@ layout = html.Div([
                 ],style={'width': '49%', 'display': 'inline-block', 'float': 'right'})
 
 
-            ],style={'padding': '20px 20px 20px 20px'}),
+            ],style={'padding': '5px 5px 5px 5px'}),
 
             html.Div([dcc.Graph(figure=fig122, id='crossfilter-line-health')]),
 
@@ -118,13 +121,25 @@ layout = html.Div([
 
         html.Div([
             html.Div([dcc.Dropdown(
-                id='indicator-column435',
-                options=[{'label': i, 'value': i} for i in available_indicators],
-                value='Heart Failure Admissions',
+                id='indicator-poll-dropdown',
+                options=[{'label': i, 'value': i} for i in pollution_indicators],
+                value='Nitrogen dioxide',
                 clearable=False
             )]),
 
-            html.Div([dcc.Graph(figure=fig122)]),
+
+            html.Div([
+                dcc.RadioItems(
+                    id='radius-nonradius1',
+                    options=[{'label': i, 'value': i} for i in ['Inner/Outer CCG Breakdown', 'All CCGs']],
+                    value='Inner/Outer CCG Breakdown',
+                    labelStyle={'display': 'inline-block'}
+                ),
+
+            ],style={'padding': '5px 5px 5px 5px'}),
+
+            html.Div([dcc.Graph(figure=fig122, id='crossfilter-line-poll')]),
+
 
         ], style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
 
@@ -210,6 +225,36 @@ def update_health_line(indicator_name, avg_sum, radius_toggle):
             dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).sum('Value').reset_index()
         else:
             dff = df.groupby(['Year', 'Indicator Name']).sum('Value').reset_index()
+
+    title = '{0} Across Time for NHS CCGs Regions'.format(indicator_name)
+
+    dff = dff[dff['Indicator Name'] == indicator_name]
+
+    # remove 0 at this point we wouldn't expect an average of 0 or sum of 0 ? (maybe though, double check)
+    dff = dff[dff['Value'] != 0]
+
+    fig122 = px.line(dff,
+                     x='Year',
+                     y='Value',
+                     color='Radius Location' if radius_toggle == 'Inner/Outer CCG Breakdown' else None,
+                     title=title)
+    fig122.update_yaxes(title=indicator_name)
+
+    return fig122
+
+
+
+@app.callback(
+    dash.dependencies.Output('crossfilter-line-poll', 'figure'),
+    [dash.dependencies.Input('indicator-poll-dropdown', 'value'),
+    # dash.dependencies.Input('crossfilter-avg-sum1', 'value'),
+    dash.dependencies.Input('radius-nonradius1', 'value'),
+     ])
+def update_poll_line(indicator_name, radius_toggle):
+    if radius_toggle == 'Inner/Outer CCG Breakdown':
+        dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).mean('Value').reset_index()
+    else:
+        dff = df.groupby(['Year', 'Indicator Name']).mean('Value').reset_index()
 
     title = '{0} Across Time for NHS CCGs Regions'.format(indicator_name)
 
