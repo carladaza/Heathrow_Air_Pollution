@@ -78,7 +78,9 @@ layout = html.Div([
         value=df['Year'].max(),
         marks={str(year): str(year) for year in df['Year'].unique()},
         step=None
-    ), style={'width': '49%', 'padding': '0px 20px 20px 20px'}),
+    ), style={'width': '49%', 'margin-left': 'auto','margin-right': 'auto',}),
+
+    html.H4('Health Indicators and Air Pollutants Over Time'),
 
     html.Div([
 
@@ -126,8 +128,6 @@ layout = html.Div([
                 value='Nitrogen dioxide',
                 clearable=False
             )]),
-
-
             html.Div([
                 dcc.RadioItems(
                     id='radius-nonradius1',
@@ -142,8 +142,6 @@ layout = html.Div([
 
 
         ], style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
-
-
     ]),
 
     # Navigation Tree - Don't Delete
@@ -256,7 +254,7 @@ def update_poll_line(indicator_name, radius_toggle):
     else:
         dff = df.groupby(['Year', 'Indicator Name']).mean('Value').reset_index()
 
-    title = '{0} Across Time for NHS CCGs Regions'.format(indicator_name)
+    title = 'Average {0} Across Time for NHS CCGs Regions'.format(indicator_name)
 
     dff = dff[dff['Indicator Name'] == indicator_name]
 
