@@ -198,11 +198,10 @@ def update_density_graph(indicator_name, ccg_name,
     dff = dff[dff['Indicator Name'] == indicator_name]
     dff = dff[dff['Year'] == year_value]
 
-    fig_f = px.density_mapbox(dff, lat='LAT', lon='LONG', z='Value', radius=40, zoom=7, center=dict(lat=51.47, lon=0),
+    fig_f = px.density_mapbox(dff, lat='LAT', lon='LONG', z='Value', radius=40, zoom=7,
                               mapbox_style="open-street-map", hover_name='Area Name',
                               hover_data=['Indicator Name', 'Value', 'LAT', 'LONG'])
     return fig_f
-
 
 
 @app.callback(
