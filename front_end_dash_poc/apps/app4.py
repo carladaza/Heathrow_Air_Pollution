@@ -34,7 +34,7 @@ layout = html.Div([
             dcc.Dropdown(
                 id='indicator-column',
                 options=[{'label': i, 'value': i} for i in available_indicators],
-                value='Heart Failure Admissions',
+                value='COPD Admissions',
                 clearable=False
             ),
         ],
@@ -70,11 +70,11 @@ layout = html.Div([
 
     html.Div(dcc.Slider(
         id='crossfilter-year-slider',
-        min=df['Year'].min(),
-        max=df['Year'].max(),
-        value=df['Year'].max(),
-        marks={str(year): str(year) for year in df['Year'].unique()},
-        step=None
+        # min=df['Year'].min(),
+        # max=df['Year'].max(),
+        # value=df['Year'].max(),
+        # marks={str(year): str(year) for year in df['Year'].unique()},
+        # step=None
     ), style={'width': '49%', 'margin-left': 'auto','margin-right': 'auto',}),
 
     html.H4('Health Indicators and Air Pollutants Over Time'),
@@ -149,6 +149,29 @@ layout = html.Div([
     html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
 
 ])
+
+
+@app.callback(
+    [dash.dependencies.Output('crossfilter-year-slider', 'marks'),
+    dash.dependencies.Output('crossfilter-year-slider', 'min'),
+    dash.dependencies.Output('crossfilter-year-slider', 'max'),
+    dash.dependencies.Output('crossfilter-year-slider', 'value'),
+     ],
+    [dash.dependencies.Input('indicator-column', 'value'),
+     ])
+def update_slider(indicator_name):
+    tmp = df.copy()
+
+    # Only display values that have a reading, Filter the NaNs/0 values (I had 0 in df for this, as had to change nans to 0 for map originally)
+    tmp = tmp[(tmp['Indicator Name'] == indicator_name) & (~tmp['Value'].isnull())]
+    tmp = tmp[tmp['Value'] != 0]
+
+    # return the new marks, new min and new max
+    new_marks = {str(year): str(year) for year in tmp['Year'].unique()}
+    new_min = tmp['Year'].min()
+    new_max = tmp['Year'].max()
+    return new_marks, new_min, new_max, new_max
+
 
 @app.callback(
     dash.dependencies.Output('crossfilter-indicator-scattermap', 'figure'),
@@ -267,3 +290,4 @@ def update_poll_line(indicator_name, radius_toggle):
                      title=title)
     fig12223.update_yaxes(title=indicator_name)
     return fig12223
+
