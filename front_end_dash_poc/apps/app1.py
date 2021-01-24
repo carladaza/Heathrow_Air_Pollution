@@ -25,16 +25,16 @@ for row in df['lat/long']:
         # contains ' '
         if row[1] == "'":
             split = row.split("'")
-            print(split[1])
-            print(split[3])
+            #print(split[1])
+            #print(split[3])
             lat.append(split[1])
             lon.append(split[3])
         # doesn't contain ' '
         else:
             split = row.split(',')
             lat.append(split[0][1:])#(row[1:10])
-            print(split[0][1:])
-            print(split[1][:-1])
+            #print(split[0][1:])
+            #print(split[1][:-1])
             lon.append(split[1][:-1])#(row[12:-1])
     except:
         lat.append(np.NaN)
