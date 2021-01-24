@@ -162,7 +162,6 @@ layout = html.Div([
 def update_slider(indicator_name):
     tmp = df.copy()
 
-
     # Only display values that have a reading, Filter the NaNs/0 values (I had 0 in df for this, as had to change nans to 0 for map originally)
     tmp = tmp[(tmp['Indicator Name'] == indicator_name) & (~tmp['Value'].isnull())]
     tmp = tmp[tmp['Value'] != 0]
