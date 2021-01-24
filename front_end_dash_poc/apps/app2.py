@@ -73,12 +73,15 @@ layout = html.Div([
      ])
 def update_graph(xaxis, yaxis,):
     dff = df
+    dff = dff[dff['Date'] == yaxis]
 #ERROR
-    fig = px.scatter(x=dff[dff['Pollutant' == xaxis]]['Indicator Value (R µg/m3)'],
+    fig = px.scatter(x=dff[dff['Pollutant'] == xaxis]['Indicator Value (R µg/m3)'],
             y=dff[dff['Pollutant'] == xaxis]["distance_from_LHR"],
             hover_name=dff[dff['Pollutant'] == xaxis]['Location']
             )
     #fig.update_traces(customdata=dff[dff['Pollutant'] == yaxis]['Location'])
+    fig.update_xaxes(title=xaxis)
+    fig.update_yaxes(title='Distance From Heathrow')
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
 
     return fig
