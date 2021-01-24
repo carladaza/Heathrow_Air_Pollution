@@ -29,12 +29,6 @@ for row in df['lat/long']:
             print(split[3])
             lat.append(split[1])
             lon.append(split[3])
-            #if row.contains('51.532212'):
-            #    lat.append(row[2:11])
-            #else:
-            #    lat.append(row[2:12])
-            #print(row[16:-2])
-            #lon.append(row[16:-2])
         # doesn't contain ' '
         else:
             split = row.split(',')
