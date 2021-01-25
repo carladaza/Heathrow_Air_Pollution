@@ -5,6 +5,8 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 import dash
+import dash_bootstrap_components as dbc
+
 
 from app import app
 
@@ -22,12 +24,26 @@ available_locations.append('All CCGs')
 pollution_indicators = df[df['Indicator Type'] == 'Air Pollutant']['Indicator Name'].unique()
 health_indicators = df[df['Indicator Type'] != 'Air Pollutant']['Indicator Name'].unique()
 
+
+
 # do a groupby to get the correct format for line plots
 df_f = df.groupby(['Year', 'Radius Location', 'Indicator Name']).sum('Value').reset_index()
 df_f = df_f[df_f['Indicator Name'] == 'COPD Admissions']
 
 layout = html.Div([
-    html.H3('Heathrow Airport Study: Air Pollution and Health Ailments Study For Select NHS CCGs Regions'),
+    # Navigation Tree - Don't Delete
+    html.Div([
+        html.Div([
+            dcc.Link('Air Pollution and Distance', href='/apps/app1'),
+            dcc.Link('Air Pollution/Distance Relationship', href='/apps/app2', style={"margin-left": "30px"}),
+            dcc.Link('Health and Distance', href='/apps/app3', style={"margin-left": "30px"}),
+            dcc.Link('Health/Distance Over Time', href='/apps/app4', style={"margin-left": "30px"}),
+            dcc.Link('Health and Air Pollution', href='/apps/app5', style={"margin-left": "30px"})]),
+    ]),
+
+    html.H3('Heathrow Airport Study: Air Pollution and Health Ailments Analysis For Select NHS CCGs Regions'),
+
+
     html.Div([
 
         html.Div([
@@ -54,9 +70,7 @@ layout = html.Div([
         'padding': '10px 5px'
     }),
 
-    html.Div(dcc.Slider(
-        id='crossfilter-year-slider',
-    ), style={'width': '49%', 'margin-left': 'auto', 'margin-right': 'auto','padding': '30px'}),
+    html.H4('Geographical Visualisation of Health and Pollution Indicators Over Time'),
 
     html.Div([
         html.Div([
@@ -69,7 +83,12 @@ layout = html.Div([
                 id='crossfilter-indicator-density-mapbox'
             )
         ], style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
+
+        html.Div(dcc.Slider(
+                id='crossfilter-year-slider',
+            ), style={'width': '49%', 'margin-left': 'auto', 'margin-right': 'auto',}),
     ]),
+
 
     html.H4('Health Indicator and Air Pollutant Visualisations Over Time'),
 
@@ -124,14 +143,9 @@ layout = html.Div([
         ], style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
     ]),
 
-    # Navigation Tree - Don't Delete
-    html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
-    html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
-    html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
-    html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
-    html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
 
-])
+
+    ])
 
 
 @app.callback(
@@ -237,7 +251,7 @@ def update_health_line(indicator_name,
                      color='CCG Distance' if radius_toggle == 'Inner/Outer CCG Breakdown' else None,
                      title=title)
 
-    fig12245.update_yaxes(title='Average ' + indicator_name )
+    fig12245.update_yaxes(title='Indicator Value, Per 100,000 Population')
     return fig12245
 
 
@@ -249,6 +263,10 @@ def update_health_line(indicator_name,
 def update_poll_line(indicator_name, radius_toggle):
     if radius_toggle == 'Inner/Outer CCG Breakdown':
         dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).mean('Value').reset_index()
+
+        #rename the radius location and values appropriately
+        dff = dff.rename(columns={'Radius Location': 'CCG Distance'})
+        dff['CCG Distance'] = dff['CCG Distance'].apply(lambda x: '<15km' if x == 'Inner' else '>15km')
     else:
         dff = df.groupby(['Year', 'Indicator Name']).mean('Value').reset_index()
 
@@ -262,7 +280,8 @@ def update_poll_line(indicator_name, radius_toggle):
     fig12223 = px.line(dff,
                      x='Year',
                      y='Value',
-                     color='Radius Location' if radius_toggle == 'Inner/Outer CCG Breakdown' else None,
+                     color='CCG Distance' if radius_toggle == 'Inner/Outer CCG Breakdown' else None,
                      title=title)
-    fig12223.update_yaxes(title=indicator_name)
+
+    fig12223.update_yaxes(title='Indicator Value (R µg/m3)')
     return fig12223

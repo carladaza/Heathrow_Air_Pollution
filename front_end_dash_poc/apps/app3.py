@@ -13,7 +13,17 @@ df = pd.read_csv('health_data_final.csv')
 available_indicators = df['Indicator Name'].unique()
 
 layout = html.Div([
-    html.H3('App 3 - Kayli - Health Indicators vs Distance from Airport'),
+    # Navigation Tree - Don't Delete
+    html.Div([
+        html.Div([
+            dcc.Link('Go to Page 1', href='/apps/app1'),
+            dcc.Link('Go to Page 2', href='/apps/app2', style={"margin-left": "30px"}),
+            dcc.Link('Go to Page 3', href='/apps/app3', style={"margin-left": "30px"}),
+            dcc.Link('Go to Page 4', href='/apps/app4', style={"margin-left": "30px"}),
+            dcc.Link('Go to Page 5', href='/apps/app5', style={"margin-left": "30px"})]),
+    ]),
+
+    html.H3('Health Indicators vs Distance from Airport'),
 
     html.Div([
         dcc.Dropdown(

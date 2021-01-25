@@ -13,12 +13,21 @@ df = pd.read_csv('health_pollution_final.csv')
 available_indicators = df['Indicator Name'].unique()
 
 markdown_text = """
-This is an interactive dashboard visualising the correlation between selected health indicators and air pollutants.
+This is an interactive dashboard visualising the relationship between selected health indicators and air pollutants.
 Select different indicators from the drop downs to see if they are correlated with each other.
-Hover over points (CCGs) on the aggregated correlation graph to generate line plots on thr right, showing indicators over time for the selected NHS CCGs.
+Hover over points (CCGs) on the left scatter graph to regenerate line plots on thr right, showing both indicators over time for the selected NHS CCG.
+**Please note that all Health Indicators are standaridised rates per 100,000 population and pollution indicators are measured in (R µg/m3)**
 """
 
 layout = html.Div([
+    html.Div([
+        html.Div([
+            dcc.Link('Go to Page 1', href='/apps/app1'),
+            dcc.Link('Go to Page 2', href='/apps/app2', style={"margin-left": "30px"}),
+            dcc.Link('Go to Page 3', href='/apps/app3', style={"margin-left": "30px"}),
+            dcc.Link('Go to Page 4', href='/apps/app4', style={"margin-left": "30px"}),
+            dcc.Link('Go to Page 5', href='/apps/app5', style={"margin-left": "30px"})]),
+    ]),
     html.H3('Heathrow Study: Air Pollutants and Health Indicator Analysis in Select UK NHS CCG Regions'),
 
     html.Div([
@@ -51,7 +60,7 @@ layout = html.Div([
 
     html.Div([
             html.Div([
-                html.H4('Correlation Scatter Plot - Aggregated Across Years - Select Indicators'),
+                html.H4('Relationship Between Selected Health and Pollution Indicators'),
                 dcc.Graph(
                     id='crossfilter-indicator-scatter',
                     hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
@@ -59,7 +68,7 @@ layout = html.Div([
             ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20', 'text-align': 'center'}),
 
             html.Div([
-                html.H4('Interactive Line Graphs Showing Indicators Value Over Time for Selected NHS CCG'),
+                html.H4('Health and Pollution Indicators Over Time For Selected NHS CCG'),
                 dcc.Graph(id='x-time-series'),
                 dcc.Graph(id='y-time-series'),
             ], style={'display': 'inline-block', 'width': '49%', 'float': 'right', 'text-align': 'center'}),
@@ -67,7 +76,7 @@ layout = html.Div([
     ),
 
     html.Div([
-        html.H4('Correlation Scatter Plot - Year by Year Breakdown'),
+        html.H4('Annual Relationship Between Selected Health and Pollution Indicators'),
         dcc.Graph(
             id='crossfilter-indicator-scatter5',
             hoverData={'points': [{'customdata': 'NHS Richmond CCG'}]}
@@ -84,11 +93,11 @@ layout = html.Div([
     ), style={'width': '49%', 'padding': '0px 20px 20px 20px','margin-left': 'auto','margin-right': 'auto' }),
 
     # Navigation Tree - Don't Delete
-    html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
-    html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
-    html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
-    html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
-    html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
+    # html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
+    # html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
+    # html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
+    # html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
+    # html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
 
 ])
 
@@ -179,18 +188,6 @@ def update_graph2(xaxis_column_name, yaxis_column_name,
 
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
-
-
-    # fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
-    #         y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
-    #         hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
-    #         )
-    #
-    # fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-    # fig.update_xaxes(title=xaxis_column_name, type='linear')
-    # fig.update_yaxes(title=yaxis_column_name, type='linear')
-    # fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
-    # return fig
 
 
 def create_time_series(dff, title, column_name):
