@@ -8,8 +8,8 @@ import plotly.express as px
 
 from app import app
 
-df = pd.read_csv('admission_pollution_melt.csv')
-
+# df = pd.read_csv('admission_pollution_melt.csv')
+df = pd.read_csv('health_pollution_final.csv')
 available_indicators = df['Indicator Name'].unique()
 
 markdown_text = """
@@ -79,11 +79,11 @@ layout = html.Div([
 
     html.Div(dcc.Slider(
         id='crossfilter-year--slider5',
-        min=df['Year'].min(),
-        max=df['Year'].max(),
-        value=2018,     # default value of the slider
-        marks={str(year): str(year) for year in df['Year'].unique()},
-        step=None
+        # min=df['Year'].min(),
+        # max=df['Year'].max(),
+        # value=2018,     # default value of the slider
+        # marks={str(year): str(year) for year in df['Year'].unique()},
+        step=None,
     ), style={'width': '49%', 'padding': '0px 20px 20px 20px','margin-left': 'auto','margin-right': 'auto' }),
 
     # Navigation Tree - Don't Delete
@@ -95,19 +95,50 @@ layout = html.Div([
 
 ])
 
+
+@app.callback(
+    [dash.dependencies.Output('crossfilter-year--slider5', 'marks'),
+    dash.dependencies.Output('crossfilter-year--slider5', 'min'),
+    dash.dependencies.Output('crossfilter-year--slider5', 'max'),
+    dash.dependencies.Output('crossfilter-year--slider5', 'value'),
+     ],
+    [dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
+    dash.dependencies.Input('crossfilter-yaxis-column', 'value'),
+
+     ])
+def update_slider(indicator_xaxis_name, indicator_y_axis_name):
+    tmp = df.copy()
+    tmp2 = df.copy()
+
+    # Only display values that have a reading, Filter the NaNs/0 values (I had 0 in df for this, as had to change nans to 0 for map originally)
+    indicator1_years = tmp[(tmp['Indicator Name'] == indicator_xaxis_name) & (~tmp['Value'].isnull())]
+    indicator1_years = indicator1_years[indicator1_years['Value'] != 0]['Year'].unique()
+
+    indicator2_years = tmp2[(tmp2['Indicator Name'] == indicator_y_axis_name) & (~tmp2['Value'].isnull())]
+    indicator2_years = indicator2_years[indicator2_years['Value'] != 0]['Year'].unique()
+
+    both = sorted(list(set(indicator1_years) & set(indicator2_years)))
+
+    # return the new marks, new min and new max
+    new_marks = {str(year): str(year) for year in both}
+    new_min = min(both)
+    new_max = max(both)
+    return new_marks, new_min, new_max, new_max
+
+
 @app.callback(
     dash.dependencies.Output('crossfilter-indicator-scatter', 'figure'),
     [dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
      dash.dependencies.Input('crossfilter-yaxis-column', 'value')])
 def update_graph(xaxis_column_name, yaxis_column_name):
     dff = df.copy()
+
     x_vars = dff[dff['Indicator Name'] == xaxis_column_name]['Value']
     y_vars = dff[dff['Indicator Name'] == yaxis_column_name]['Value']
+
     hover_n = dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
 
-    fig = px.scatter(x=x_vars, y=y_vars, hover_name=hover_n
-    )
-
+    fig = px.scatter(x=x_vars, y=y_vars, hover_name=hover_n)
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
     fig.update_xaxes(title=xaxis_column_name, type='linear')
 
