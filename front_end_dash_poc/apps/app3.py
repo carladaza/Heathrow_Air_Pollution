@@ -52,7 +52,7 @@ def update_graph(indicator_name):
     temp_df = df[df["Indicator Name"] == indicator_name]
 
     fig = px.scatter(temp_df, x="heathrow_distance", y="Value", trendline="ols",
-        labels=dict(heathrow_distance="Distance from Heathrow Airport",
+        labels=dict(heathrow_distance="Distance from Heathrow Airport (m)",
             Value="Rate of Health Indicator per 100k People"))
 
     return fig
