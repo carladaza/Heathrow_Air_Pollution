@@ -15,14 +15,11 @@ available_indicators = df['Indicator Name'].unique()
 markdown_text = """
 This is an interactive dashboard visualising the correlation between selected health indicators and air pollutants.
 Select different indicators from the drop downs to see if they are correlated with each other.
-Hover over points (CCGs) on the aggregated correlation graph to generate line plots showing indicators over time for the selected NHS CCGs.
-
-Please note that for the year by year correlation graph, only selected years are available for some indicators. 
-
+Hover over points (CCGs) on the aggregated correlation graph to generate line plots on thr right, showing indicators over time for the selected NHS CCGs.
 """
 
 layout = html.Div([
-    html.H3('App 5 - Joseph/Sheetal?'),
+    html.H3('Heathrow Study: Air Pollutants and Health Indicator Analysis in Select UK NHS CCG Regions'),
 
     html.Div([
             html.Div([
@@ -133,16 +130,22 @@ def update_slider(indicator_xaxis_name, indicator_y_axis_name):
 def update_graph(xaxis_column_name, yaxis_column_name):
     dff = df.copy()
 
-    x_vars = dff[dff['Indicator Name'] == xaxis_column_name]['Value']
-    y_vars = dff[dff['Indicator Name'] == yaxis_column_name]['Value']
+    dff = dff.dropna()
 
-    hover_n = dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
+    joined_cols = ['Area Name', 'Year', 'Indicator Name', 'Value']
+    x = dff[(dff['Indicator Name'] == xaxis_column_name)]
+    y = dff[(dff['Indicator Name'] == yaxis_column_name)]
+    joined = pd.merge(x[joined_cols], y[joined_cols], how='inner', on=['Year', 'Area Name'], suffixes=('_x', '_y'))
 
-    fig = px.scatter(x=x_vars, y=y_vars, hover_name=hover_n)
-    fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-    fig.update_xaxes(title=xaxis_column_name, type='linear')
+    hover_n = joined['Area Name']
+    fig = px.scatter(x=joined['Value_x'], y=joined['Value_y'], hover_name=hover_n,)
 
-    fig.update_yaxes(title=yaxis_column_name, type='linear')
+    # fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+    fig.update_traces(customdata=joined['Area Name'])
+
+    fig.update_xaxes(title=xaxis_column_name)
+    fig.update_yaxes(title=yaxis_column_name)
+
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
 
