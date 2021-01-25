@@ -18,7 +18,7 @@ df = pd.read_csv('pollution.csv').fillna(0)
 # Create two lists for the loop results to be placed
 lat = []
 lon = []
-# ERROR: THE ABOVE CREATES LISTS BUT APPEND BELOW IS APPENDING TO A SINGLE STRING OBJECT
+
 # For each row in a varible,
 for row in df['lat/long']:
     try:
@@ -44,8 +44,8 @@ for row in df['lat/long']:
 df['Lat'] = lat
 df['Long'] = lon
 
-#convert object columns to float
-df[["Lat"]] = pd.to_numeric(df["Lat"], errors='coerce')
+#convert object columns to float (pd.to_numeric can be done in one line, but with the errors argument I had an error)
+df["Lat"] = pd.to_numeric(df["Lat"], errors='coerce')
 df["Long"] = pd.to_numeric(df["Long"], errors='coerce')
 
 #create lists
@@ -54,6 +54,16 @@ locations = list(df['Location'].unique())
 locations.append('All Monitoring Sites')
 
 layout = html.Div([
+    
+    html.Div([
+        html.Div([
+            dcc.Link('Air Pollution and Distance', href='/apps/app1'),
+            dcc.Link('Air Pollution/Distance Relationship', href='/apps/app2', style={"margin-left": "30px"}),
+            dcc.Link('Health and Distance', href='/apps/app3', style={"margin-left": "30px"}),
+            dcc.Link('Health/Distance Over Time', href='/apps/app4', style={"margin-left": "30px"}),
+            dcc.Link('Health and Air Pollution', href='/apps/app5', style={"margin-left": "30px"})]),
+    ]),
+
     html.H3('(DS4A Team 27 - Air Pollution and Health Ailments around Heathrow Airport - Pollution Levels by Monitoring Sites'),
     html.Div([
 
@@ -62,6 +72,7 @@ layout = html.Div([
                 id='indicatorDropdown',
                 options=[{'label': i, 'value': i} for i in indicators],
                 value='Carbon monoxide',
+                clearable=False
             ),
         ],
             style={'width': '48%', 'display': 'inline-block'}),
@@ -71,6 +82,7 @@ layout = html.Div([
                 id='monitoringSiteDropdown',
                 options=[{'label': i, 'value': i} for i in locations],
                 value='All Monitoring Sites',
+                clearable=False
             ),
         ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'}),
     ], style={
@@ -86,22 +98,9 @@ layout = html.Div([
 
     html.Div(dcc.Slider(
         id='yearSlider',
-        min=df['Date'].min(),
-        max=df['Date'].max(),
-        value=df['Date'].max(),
-        marks={str(year): str(year) for year in df['Date'].unique()},
-        step=None
-    ), style={'width': '49%', 'padding': '0px 20px 20px 20px'}),
+    ), style={'width': '49%', 'margin-left': 'auto', 'margin-right': 'auto',}),
 
     html.Div(id='app-1-display-value'),
-
-    # Navigation Tree - Don't Delete
-    html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
-    html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
-    html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
-    html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
-    html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
-
 ])
 
 @app.callback(
@@ -121,6 +120,8 @@ def update_graph(indicator_val, monitoringsite_val,
     dff = dff[dff['Pollutant'] == indicator_val]
     dff = dff[dff['Date'] == year_val]
 
+    dff = dff[dff['Indicator Value (R µg/m3)'] != 0]
+
     fig = px.scatter_mapbox(dff, lat="Lat", lon = "Long", color="Indicator Value (R µg/m3)", size="Indicator Value (R µg/m3)",
                             color_continuous_scale=px.colors.diverging.Portland, size_max=30, zoom=7.5,
                             hover_name='Location', hover_data=['Pollutant', 'Indicator Value (R µg/m3)', 'Lat', 'Long'])
@@ -128,3 +129,22 @@ def update_graph(indicator_val, monitoringsite_val,
     fig.update_layout(mapbox_style="carto-positron")
 
     return fig
+
+@app.callback(
+    [dash.dependencies.Output('yearSlider', 'marks'),
+    dash.dependencies.Output('yearSlider', 'min'),
+    dash.dependencies.Output('yearSlider', 'max'),
+    dash.dependencies.Output('yearSlider', 'value'),
+     ],
+    [dash.dependencies.Input('indicatorDropdown', 'value'),
+     ])
+def update_slider(indicator_name):
+    tmp = df.copy()
+    # Only display values that have a reading, Filter the NaNs/0 values (I had 0 in df for this, as had to change nans to 0 for map originally)
+    tmp = tmp[(tmp['Pollutant'] == indicator_name) & (~tmp['Indicator Value (R µg/m3)'].isnull())]
+    tmp = tmp[tmp['Indicator Value (R µg/m3)'] != 0]
+    # return the new marks, new min and new max
+    new_marks = {str(year): str(year) for year in tmp['Date'].unique()}
+    new_min = tmp['Date'].min()
+    new_max = tmp['Date'].max()
+    return new_marks, new_min, new_max, new_max

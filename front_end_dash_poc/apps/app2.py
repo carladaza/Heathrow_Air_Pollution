@@ -8,6 +8,9 @@ import math
 
 from app import app
 
+#TO DO
+# Remove nulls/zeros from scatter plot
+
 #read file
 df = pd.read_csv('complete_pollution.csv').fillna(0)
 
@@ -74,7 +77,9 @@ layout = html.Div([
 def update_graph(xaxis, yaxis,):
     dff = df
     dff = dff[dff['Date'] == yaxis]
-#ERROR
+
+    
+
     fig = px.scatter(x=dff[dff['Pollutant'] == xaxis]['Indicator Value (R µg/m3)'],
             y=dff[dff['Pollutant'] == xaxis]["distance_from_LHR"],
             hover_name=dff[dff['Pollutant'] == xaxis]['Location']
