@@ -41,13 +41,6 @@ layout = html.Div([
         )
     ]),
 
-    # Navigation Tree - Don't Delete
-    html.Div(dcc.Link('Go to App 1', href='/apps/app1')),
-    html.Div(dcc.Link('Go to App 2', href='/apps/app2')),
-    html.Div(dcc.Link('Go to App 3', href='/apps/app3')),
-    html.Div(dcc.Link('Go to App 4', href='/apps/app4')),
-    html.Div(dcc.Link('Go to App 5', href='/apps/app5')),
-
 ])
 
 # this call back enables interactivity via the drop down options, everytime the drop down is changed the df is rebuilt (see dff code below)
