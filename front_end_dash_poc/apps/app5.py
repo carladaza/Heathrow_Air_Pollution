@@ -138,7 +138,7 @@ def update_graph(xaxis_column_name, yaxis_column_name):
     joined = pd.merge(x[joined_cols], y[joined_cols], how='inner', on=['Year', 'Area Name'], suffixes=('_x', '_y'))
 
     hover_n = joined['Area Name']
-    fig = px.scatter(x=joined['Value_x'], y=joined['Value_y'], hover_name=hover_n,)
+    fig = px.scatter(x=joined['Value_x'], y=joined['Value_y'], hover_name=hover_n, trendline="ols")
 
     # fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
     fig.update_traces(customdata=joined['Area Name'])
@@ -158,18 +158,39 @@ def update_graph(xaxis_column_name, yaxis_column_name):
      ])
 def update_graph2(xaxis_column_name, yaxis_column_name,
                  year_value):
+
     dff = df[df['Year'] == year_value]
 
-    fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
-            y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
-            hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
-            )
+    dff = dff.dropna()
 
-    fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
-    fig.update_xaxes(title=xaxis_column_name, type='linear')
-    fig.update_yaxes(title=yaxis_column_name, type='linear')
+    joined_cols = ['Area Name', 'Year', 'Indicator Name', 'Value']
+    x = dff[(dff['Indicator Name'] == xaxis_column_name)]
+    y = dff[(dff['Indicator Name'] == yaxis_column_name)]
+
+    joined = pd.merge(x[joined_cols], y[joined_cols], how='inner', on=['Year', 'Area Name'], suffixes=('_x', '_y'))
+
+    hover_n = joined['Area Name']
+    fig = px.scatter(x=joined['Value_x'], y=joined['Value_y'], hover_name=hover_n,)
+
+    fig.update_traces(customdata=joined['Area Name'])
+
+    fig.update_xaxes(title=xaxis_column_name)
+    fig.update_yaxes(title=yaxis_column_name)
+
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
     return fig
+
+
+    # fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
+    #         y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
+    #         hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name']
+    #         )
+    #
+    # fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['Area Name'])
+    # fig.update_xaxes(title=xaxis_column_name, type='linear')
+    # fig.update_yaxes(title=yaxis_column_name, type='linear')
+    # fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
+    # return fig
 
 
 def create_time_series(dff, title, column_name):
