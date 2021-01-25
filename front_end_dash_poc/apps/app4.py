@@ -27,7 +27,7 @@ df_f = df.groupby(['Year', 'Radius Location', 'Indicator Name']).sum('Value').re
 df_f = df_f[df_f['Indicator Name'] == 'COPD Admissions']
 
 layout = html.Div([
-    html.H3('(Inspired By Seb Joseph - DS4A Team 27 - Air Pollution and Health Ailments around Heathrow Airport'),
+    html.H3('Heathrow Airport Study: Air Pollution and Health Ailments Study For Select NHS CCGs Regions'),
     html.Div([
 
         html.Div([
@@ -54,6 +54,10 @@ layout = html.Div([
         'padding': '10px 5px'
     }),
 
+    html.Div(dcc.Slider(
+        id='crossfilter-year-slider',
+    ), style={'width': '49%', 'margin-left': 'auto', 'margin-right': 'auto','padding': '30px'}),
+
     html.Div([
         html.Div([
             dcc.Graph(
@@ -67,17 +71,7 @@ layout = html.Div([
         ], style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
     ]),
 
-
-    html.Div(dcc.Slider(
-        id='crossfilter-year-slider',
-        # min=df['Year'].min(),
-        # max=df['Year'].max(),
-        # value=df['Year'].max(),
-        # marks={str(year): str(year) for year in df['Year'].unique()},
-        # step=None
-    ), style={'width': '49%', 'margin-left': 'auto','margin-right': 'auto',}),
-
-    html.H4('Health Indicators and Air Pollutants Over Time'),
+    html.H4('Health Indicator and Air Pollutant Visualisations Over Time'),
 
     html.Div([
 
@@ -90,17 +84,6 @@ layout = html.Div([
             )]),
 
             html.Div([
-
-                html.Div([
-                    dcc.RadioItems(
-                        id='crossfilter-avg-sum',
-                        options=[{'label': i, 'value': i} for i in ['Average', 'Total']],
-                        value='Average',
-                        labelStyle={'display': 'inline-block'}
-                    ),
-
-                ],style={'width': '49%', 'display': 'inline-block'}),
-
                 html.Div([
                     dcc.RadioItems(
                         id='radius-nonradius',
@@ -109,7 +92,7 @@ layout = html.Div([
                         labelStyle={'display': 'inline-block'}
                     ),
 
-                ],style={'width': '49%', 'display': 'inline-block', 'float': 'right'})
+                ],style={'width': '49%', 'display': 'inline-block',})
 
 
             ],style={'padding': '5px 5px 5px 5px'}),
@@ -227,41 +210,34 @@ def update_density_graph(indicator_name, ccg_name,
 @app.callback(
     dash.dependencies.Output('crossfilter-line-health', 'figure'),
     [dash.dependencies.Input('indicator-health-dropdown', 'value'),
-    dash.dependencies.Input('crossfilter-avg-sum', 'value'),
+    # dash.dependencies.Input('crossfilter-avg-sum', 'value'),
     dash.dependencies.Input('radius-nonradius', 'value'),
      ])
-def update_health_line(indicator_name, avg_sum, radius_toggle):
-    # hack to make sure that graph does not compute a total for prevalence, because it is a % statistic
-    if avg_sum == 'Average':
-        if radius_toggle == 'Inner/Outer CCG Breakdown':
-            dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).mean('Value').reset_index()
-        else:
-            dff = df.groupby(['Year', 'Indicator Name']).mean('Value').reset_index()
-    else:
-        if radius_toggle == 'Inner/Outer CCG Breakdown':
-            if 'prevalence' in indicator_name.lower():
-                dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).mean('Value').reset_index()
-            else:
-                dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).sum('Value').reset_index()
-        else:
-            if 'prevalence' in indicator_name.lower():
-                dff = df.groupby(['Year', 'Indicator Name']).mean('Value').reset_index()
-            else:
-                dff = df.groupby(['Year', 'Indicator Name']).sum('Value').reset_index()
+def update_health_line(indicator_name,
+                       radius_toggle):
+    if radius_toggle == 'Inner/Outer CCG Breakdown':
+        dff = df.groupby(['Year', 'Radius Location', 'Indicator Name']).mean('Value').reset_index()
 
-    title = '{0} Across Time for NHS CCGs Regions'.format(indicator_name)
+        #rename the radius location and values appropriately
+        dff = dff.rename(columns={'Radius Location': 'CCG Distance'})
+        dff['CCG Distance'] = dff['CCG Distance'].apply(lambda x: '<15km' if x == 'Inner' else '>15km')
+
+    else:
+        dff = df.groupby(['Year', 'Indicator Name']).mean('Value').reset_index()
+
+    title = 'Average {0} Across Time for NHS CCGs Regions'.format(indicator_name)
     dff = dff[dff['Indicator Name'] == indicator_name]
 
-    # remove 0 at this point we wouldn't expect an average of 0 or sum of 0 ? (maybe though, double check)
+    # remove 0 at this point we wouldn't expect an average of 0, for visualisation purposes
     dff = dff[dff['Value'] != 0]
 
     fig12245 = px.line(dff,
                      x='Year',
                      y='Value',
-                     color='Radius Location' if radius_toggle == 'Inner/Outer CCG Breakdown' else None,
+                     color='CCG Distance' if radius_toggle == 'Inner/Outer CCG Breakdown' else None,
                      title=title)
 
-    fig12245.update_yaxes(title=avg_sum + ' ' + indicator_name if not 'prevalence' in indicator_name.lower() else 'Average' + ' ' + indicator_name)
+    fig12245.update_yaxes(title='Average ' + indicator_name )
     return fig12245
 
 
@@ -290,4 +266,3 @@ def update_poll_line(indicator_name, radius_toggle):
                      title=title)
     fig12223.update_yaxes(title=indicator_name)
     return fig12223
-
