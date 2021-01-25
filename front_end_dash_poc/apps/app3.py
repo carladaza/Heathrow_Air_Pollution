@@ -16,11 +16,11 @@ layout = html.Div([
     # Navigation Tree - Don't Delete
     html.Div([
         html.Div([
-            dcc.Link('Go to Page 1', href='/apps/app1'),
-            dcc.Link('Go to Page 2', href='/apps/app2', style={"margin-left": "30px"}),
-            dcc.Link('Go to Page 3', href='/apps/app3', style={"margin-left": "30px"}),
-            dcc.Link('Go to Page 4', href='/apps/app4', style={"margin-left": "30px"}),
-            dcc.Link('Go to Page 5', href='/apps/app5', style={"margin-left": "30px"})]),
+            dcc.Link('Air Pollution and Distance', href='/apps/app1'),
+            dcc.Link('Air Pollution/Distance Relationship', href='/apps/app2', style={"margin-left": "30px"}),
+            dcc.Link('Health and Distance', href='/apps/app3', style={"margin-left": "30px"}),
+            dcc.Link('Health/Distance Over Time', href='/apps/app4', style={"margin-left": "30px"}),
+            dcc.Link('Health and Air Pollution', href='/apps/app5', style={"margin-left": "30px"})]),
     ]),
 
     html.H3('Health Indicators vs Distance from Airport'),

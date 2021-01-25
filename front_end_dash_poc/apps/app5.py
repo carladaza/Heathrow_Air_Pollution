@@ -15,18 +15,19 @@ available_indicators = df['Indicator Name'].unique()
 markdown_text = """
 This is an interactive dashboard visualising the relationship between selected health indicators and air pollutants.
 Select different indicators from the drop downs to see if they are correlated with each other.
-Hover over points (CCGs) on the left scatter graph to regenerate line plots on thr right, showing both indicators over time for the selected NHS CCG.
-**Please note that all Health Indicators are standaridised rates per 100,000 population and pollution indicators are measured in (R µg/m3)**
+Hover over points (CCGs) on the left scatter graph to regenerate line plots on the right, which show both indicators over time for the selected NHS CCG.
+**Please note that all Health Indicators are standaridised rates per 100,000 population and pollution indicators are measured in (R µg/m3)**.
 """
 
 layout = html.Div([
+    # Navigation Tree - Don't Delete
     html.Div([
         html.Div([
-            dcc.Link('Go to Page 1', href='/apps/app1'),
-            dcc.Link('Go to Page 2', href='/apps/app2', style={"margin-left": "30px"}),
-            dcc.Link('Go to Page 3', href='/apps/app3', style={"margin-left": "30px"}),
-            dcc.Link('Go to Page 4', href='/apps/app4', style={"margin-left": "30px"}),
-            dcc.Link('Go to Page 5', href='/apps/app5', style={"margin-left": "30px"})]),
+            dcc.Link('Air Pollution and Distance', href='/apps/app1'),
+            dcc.Link('Air Pollution/Distance Relationship', href='/apps/app2', style={"margin-left": "30px"}),
+            dcc.Link('Health and Distance', href='/apps/app3', style={"margin-left": "30px"}),
+            dcc.Link('Health/Distance Over Time', href='/apps/app4', style={"margin-left": "30px"}),
+            dcc.Link('Health and Air Pollution', href='/apps/app5', style={"margin-left": "30px"})]),
     ]),
     html.H3('Heathrow Study: Air Pollutants and Health Indicator Analysis in Select UK NHS CCG Regions'),
 

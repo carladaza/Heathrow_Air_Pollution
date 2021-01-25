@@ -30,7 +30,7 @@ def display_page(pathname):
         return app5.layout
     else:
         # point then to the home page? or just page one (done for now)
-        return app1.layout
+        return app5.layout
 
 if __name__ == '__main__':
     app.run_server(debug=True)
