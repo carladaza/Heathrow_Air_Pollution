@@ -44,6 +44,10 @@ for row in df['lat/long']:
 df['Lat'] = lat
 df['Long'] = lon
 
+#convert object columns to float
+df[["Lat"]] = pd.to_numeric(df["Lat"], errors='coerce')
+df["Long"] = pd.to_numeric(df["Long"], errors='coerce')
+
 #create lists
 indicators = df['Pollutant'].unique()
 locations = list(df['Location'].unique())
