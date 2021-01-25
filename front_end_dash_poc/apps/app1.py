@@ -71,7 +71,7 @@ layout = html.Div([
             dcc.Dropdown(
                 id='indicatorDropdown',
                 options=[{'label': i, 'value': i} for i in indicators],
-                value='Carbon monoxide',
+                value='PM10 particulate matter (Hourly measured)',
                 clearable=False
             ),
         ],
