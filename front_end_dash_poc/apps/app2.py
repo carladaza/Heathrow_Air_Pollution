@@ -91,7 +91,7 @@ def update_graph(xaxis, yaxis,):
             )
     #fig.update_traces(customdata=dff[dff['Pollutant'] == yaxis]['Location'])
     fig.update_xaxes(title=xaxis)
-    fig.update_yaxes(title='Distance From Heathrow')
+    fig.update_yaxes(title='Distance From Heathrow (km)')
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
 
     return fig
