@@ -46,7 +46,7 @@ layout = html.Div([
                 dcc.Dropdown(
                     id='crossfilter-yaxis-column',
                     options=[{'label': i, 'value': i} for i in available_indicators],
-                    value='PM10',
+                    value='Nitrogen dioxide',
                     clearable=False
                 ),
             ], style={'width': '49%', 'float': 'right', 'display': 'inline-block'}
