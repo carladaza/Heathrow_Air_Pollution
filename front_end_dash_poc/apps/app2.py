@@ -87,7 +87,8 @@ def update_graph(xaxis, yaxis,):
 
     fig = px.scatter(x=dff[dff['Pollutant'] == xaxis]['Indicator Value (R µg/m3)'],
             y=dff[dff['Pollutant'] == xaxis]["distance_from_LHR"],
-            hover_name=dff[dff['Pollutant'] == xaxis]['Location']
+            hover_name=dff[dff['Pollutant'] == xaxis]['Location'],
+            trendline='ols'
             )
     #fig.update_traces(customdata=dff[dff['Pollutant'] == yaxis]['Location'])
     fig.update_xaxes(title=xaxis)
