@@ -9,7 +9,8 @@ import math
 from app import app
 
 #TO DO
-# Remove nulls/zeros from scatter plot
+# Remove nulls/zeros from drop down
+# Concatenate app 1 and app2 to one page (but separate drop downs)
 
 #read file
 df = pd.read_csv('complete_pollution.csv').fillna(0)
