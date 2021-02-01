@@ -34,1480 +34,1516 @@
 32,2018,East Berkshire,Carbon monoxide,
 33,2019,East Berkshire,Carbon monoxide,0.12560647991333332
 34,2020,East Berkshire,Carbon monoxide,
-35,2004,Hammersmith and Fulham,Carbon monoxide,
-36,2005,Hammersmith and Fulham,Carbon monoxide,
-37,2006,Hammersmith and Fulham,Carbon monoxide,
-38,2007,Hammersmith and Fulham,Carbon monoxide,
-39,2008,Hammersmith and Fulham,Carbon monoxide,
-40,2009,Hammersmith and Fulham,Carbon monoxide,
-41,2011,Hammersmith and Fulham,Carbon monoxide,
-42,2012,Hammersmith and Fulham,Carbon monoxide,
-43,2013,Hammersmith and Fulham,Carbon monoxide,
-44,2014,Hammersmith and Fulham,Carbon monoxide,
-45,2015,Hammersmith and Fulham,Carbon monoxide,
-46,2016,Hammersmith and Fulham,Carbon monoxide,
-47,2017,Hammersmith and Fulham,Carbon monoxide,
-48,2018,Hammersmith and Fulham,Carbon monoxide,
-49,2019,Hammersmith and Fulham,Carbon monoxide,
-50,2020,Hammersmith and Fulham,Carbon monoxide,
-51,2004,Hillingdon,Carbon monoxide,
-52,2005,Hillingdon,Carbon monoxide,
-53,2006,Hillingdon,Carbon monoxide,
-54,2007,Hillingdon,Carbon monoxide,
-55,2008,Hillingdon,Carbon monoxide,
-56,2009,Hillingdon,Carbon monoxide,
-57,2010,Hillingdon,Carbon monoxide,
-58,2011,Hillingdon,Carbon monoxide,
-59,2012,Hillingdon,Carbon monoxide,
-60,2013,Hillingdon,Carbon monoxide,
-61,2014,Hillingdon,Carbon monoxide,
-62,2015,Hillingdon,Carbon monoxide,
-63,2016,Hillingdon,Carbon monoxide,
-64,2017,Hillingdon,Carbon monoxide,
-65,2018,Hillingdon,Carbon monoxide,
-66,2019,Hillingdon,Carbon monoxide,
-67,2020,Hillingdon,Carbon monoxide,
-68,2004,Hounslow,Carbon monoxide,0.8174028579925703
-69,2005,Hounslow,Carbon monoxide,0.8392115285668963
-70,2006,Hounslow,Carbon monoxide,0.5013910806898613
-71,2007,Hounslow,Carbon monoxide,0.5391916818669604
-72,2008,Hounslow,Carbon monoxide,
-73,2009,Hounslow,Carbon monoxide,
-74,2010,Hounslow,Carbon monoxide,
-75,2011,Hounslow,Carbon monoxide,
-76,2012,Hounslow,Carbon monoxide,
-77,2013,Hounslow,Carbon monoxide,
-78,2014,Hounslow,Carbon monoxide,
-79,2015,Hounslow,Carbon monoxide,
-80,2016,Hounslow,Carbon monoxide,
-81,2017,Hounslow,Carbon monoxide,
-82,2018,Hounslow,Carbon monoxide,
-83,2019,Hounslow,Carbon monoxide,
-84,2020,Hounslow,Carbon monoxide,
-85,2004,Oxford,Carbon monoxide,
-86,2005,Oxford,Carbon monoxide,
-87,2006,Oxford,Carbon monoxide,
-88,2007,Oxford,Carbon monoxide,
-89,2008,Oxford,Carbon monoxide,
-90,2009,Oxford,Carbon monoxide,
-91,2010,Oxford,Carbon monoxide,
-92,2011,Oxford,Carbon monoxide,
-93,2012,Oxford,Carbon monoxide,
-94,2013,Oxford,Carbon monoxide,
-95,2014,Oxford,Carbon monoxide,
-96,2015,Oxford,Carbon monoxide,
-97,2016,Oxford,Carbon monoxide,
-98,2017,Oxford,Carbon monoxide,
-99,2018,Oxford,Carbon monoxide,
-100,2019,Oxford,Carbon monoxide,
-101,2020,Oxford,Carbon monoxide,
-102,2006,Reading,Carbon monoxide,
-103,2007,Reading,Carbon monoxide,
-104,2008,Reading,Carbon monoxide,
-105,2009,Reading,Carbon monoxide,
-106,2010,Reading,Carbon monoxide,
-107,2011,Reading,Carbon monoxide,
-108,2012,Reading,Carbon monoxide,
-109,2013,Reading,Carbon monoxide,
-110,2014,Reading,Carbon monoxide,
-111,2015,Reading,Carbon monoxide,
-112,2016,Reading,Carbon monoxide,
-113,2017,Reading,Carbon monoxide,
-114,2018,Reading,Carbon monoxide,
-115,2019,Reading,Carbon monoxide,
-116,2020,Reading,Carbon monoxide,
-117,2004,South West London,Carbon monoxide,
-118,2005,South West London,Carbon monoxide,
-119,2006,South West London,Carbon monoxide,
-120,2007,South West London,Carbon monoxide,
-121,2008,South West London,Carbon monoxide,
-122,2009,South West London,Carbon monoxide,
-123,2010,South West London,Carbon monoxide,
-124,2011,South West London,Carbon monoxide,
-125,2012,South West London,Carbon monoxide,
-126,2013,South West London,Carbon monoxide,
-127,2014,South West London,Carbon monoxide,
-128,2015,South West London,Carbon monoxide,
-129,2016,South West London,Carbon monoxide,
-130,2017,South West London,Carbon monoxide,
-131,2018,South West London,Carbon monoxide,
-132,2019,South West London,Carbon monoxide,
-133,2020,South West London,Carbon monoxide,
-134,2004,Surrey Heartlands,Carbon monoxide,0.19540337005191258
-135,2005,Surrey Heartlands,Carbon monoxide,0.24808829259807075
-136,2006,Surrey Heartlands,Carbon monoxide,0.3064918217269941
-137,2007,Surrey Heartlands,Carbon monoxide,0.28261814563173626
-138,2008,Surrey Heartlands,Carbon monoxide,0.2009010843354234
-139,2009,Surrey Heartlands,Carbon monoxide,0.28185296380769226
-140,2010,Surrey Heartlands,Carbon monoxide,
-141,2011,Surrey Heartlands,Carbon monoxide,
-142,2012,Surrey Heartlands,Carbon monoxide,
-143,2013,Surrey Heartlands,Carbon monoxide,
-144,2014,Surrey Heartlands,Carbon monoxide,
-145,2015,Surrey Heartlands,Carbon monoxide,
-146,2016,Surrey Heartlands,Carbon monoxide,
-147,2017,Surrey Heartlands,Carbon monoxide,
-148,2018,Surrey Heartlands,Carbon monoxide,
-149,2019,Surrey Heartlands,Carbon monoxide,
-150,2020,Surrey Heartlands,Carbon monoxide,
-151,2004,Watford,Carbon monoxide,
-152,2005,Watford,Carbon monoxide,
-153,2006,Watford,Carbon monoxide,
-154,2007,Watford,Carbon monoxide,
-155,2008,Watford,Carbon monoxide,
-156,2009,Watford,Carbon monoxide,
-157,2010,Watford,Carbon monoxide,
-158,2011,Watford,Carbon monoxide,
-159,2012,Watford,Carbon monoxide,
-160,2013,Watford,Carbon monoxide,
-161,2014,Watford,Carbon monoxide,
-162,2015,Watford,Carbon monoxide,
-163,2016,Watford,Carbon monoxide,
-164,2017,Watford,Carbon monoxide,
-165,2018,Watford,Carbon monoxide,
-166,2019,Watford,Carbon monoxide,
-167,2020,Watford,Carbon monoxide,
-168,2020,Buckinghamshire,Nitric Oxide,33.78152532786745
-169,2004,Ealing,Nitric Oxide,
-170,2005,Ealing,Nitric Oxide,
-171,2006,Ealing,Nitric Oxide,
-172,2007,Ealing,Nitric Oxide,
-173,2008,Ealing,Nitric Oxide,
-174,2009,Ealing,Nitric Oxide,
-175,2010,Ealing,Nitric Oxide,
-176,2011,Ealing,Nitric Oxide,
-177,2012,Ealing,Nitric Oxide,
-178,2013,Ealing,Nitric Oxide,
-179,2014,Ealing,Nitric Oxide,
-180,2015,Ealing,Nitric Oxide,
-181,2016,Ealing,Nitric Oxide,
-182,2017,Ealing,Nitric Oxide,
-183,2018,Ealing,Nitric Oxide,
-184,2019,Ealing,Nitric Oxide,
-185,2020,Ealing,Nitric Oxide,
-186,2004,East Berkshire,Nitric Oxide,
-187,2005,East Berkshire,Nitric Oxide,
-188,2006,East Berkshire,Nitric Oxide,
-189,2007,East Berkshire,Nitric Oxide,
-190,2008,East Berkshire,Nitric Oxide,
-191,2009,East Berkshire,Nitric Oxide,
-192,2010,East Berkshire,Nitric Oxide,
-193,2011,East Berkshire,Nitric Oxide,
-194,2012,East Berkshire,Nitric Oxide,
-195,2013,East Berkshire,Nitric Oxide,
-196,2014,East Berkshire,Nitric Oxide,
-197,2015,East Berkshire,Nitric Oxide,
-198,2016,East Berkshire,Nitric Oxide,
-199,2017,East Berkshire,Nitric Oxide,
-200,2018,East Berkshire,Nitric Oxide,
-201,2019,East Berkshire,Nitric Oxide,0.9558337831871841
-202,2020,East Berkshire,Nitric Oxide,
-203,2004,Hammersmith and Fulham,Nitric Oxide,
-204,2005,Hammersmith and Fulham,Nitric Oxide,
-205,2006,Hammersmith and Fulham,Nitric Oxide,
-206,2007,Hammersmith and Fulham,Nitric Oxide,
-207,2008,Hammersmith and Fulham,Nitric Oxide,
-208,2009,Hammersmith and Fulham,Nitric Oxide,
-209,2011,Hammersmith and Fulham,Nitric Oxide,
-210,2012,Hammersmith and Fulham,Nitric Oxide,
-211,2013,Hammersmith and Fulham,Nitric Oxide,
-212,2014,Hammersmith and Fulham,Nitric Oxide,
-213,2015,Hammersmith and Fulham,Nitric Oxide,
-214,2016,Hammersmith and Fulham,Nitric Oxide,
-215,2017,Hammersmith and Fulham,Nitric Oxide,
-216,2018,Hammersmith and Fulham,Nitric Oxide,
-217,2019,Hammersmith and Fulham,Nitric Oxide,
-218,2020,Hammersmith and Fulham,Nitric Oxide,
-219,2004,Hillingdon,Nitric Oxide,
-220,2005,Hillingdon,Nitric Oxide,
-221,2006,Hillingdon,Nitric Oxide,
-222,2007,Hillingdon,Nitric Oxide,
-223,2008,Hillingdon,Nitric Oxide,
-224,2009,Hillingdon,Nitric Oxide,
-225,2010,Hillingdon,Nitric Oxide,
-226,2011,Hillingdon,Nitric Oxide,
-227,2012,Hillingdon,Nitric Oxide,
-228,2013,Hillingdon,Nitric Oxide,
-229,2014,Hillingdon,Nitric Oxide,
-230,2015,Hillingdon,Nitric Oxide,
-231,2016,Hillingdon,Nitric Oxide,
-232,2017,Hillingdon,Nitric Oxide,
-233,2018,Hillingdon,Nitric Oxide,
-234,2019,Hillingdon,Nitric Oxide,
-235,2020,Hillingdon,Nitric Oxide,
-236,2004,Hounslow,Nitric Oxide,50.48542333803122
-237,2005,Hounslow,Nitric Oxide,49.43905751839656
-238,2006,Hounslow,Nitric Oxide,41.02734424345923
-239,2007,Hounslow,Nitric Oxide,45.72990925910205
-240,2008,Hounslow,Nitric Oxide,40.84054962699075
-241,2009,Hounslow,Nitric Oxide,38.042349701234194
-242,2010,Hounslow,Nitric Oxide,32.643407485623364
-243,2011,Hounslow,Nitric Oxide,34.46007316438599
-244,2012,Hounslow,Nitric Oxide,42.47640685450005
-245,2013,Hounslow,Nitric Oxide,42.81351359211836
-246,2014,Hounslow,Nitric Oxide,42.56400003794261
-247,2015,Hounslow,Nitric Oxide,35.804772522254936
-248,2016,Hounslow,Nitric Oxide,44.262821870941984
-249,2017,Hounslow,Nitric Oxide,39.159836481232226
-250,2018,Hounslow,Nitric Oxide,27.602065990598756
-251,2019,Hounslow,Nitric Oxide,24.366061161613917
-252,2020,Hounslow,Nitric Oxide,15.773699114808943
-253,2004,Oxford,Nitric Oxide,
-254,2005,Oxford,Nitric Oxide,
-255,2006,Oxford,Nitric Oxide,
-256,2007,Oxford,Nitric Oxide,
-257,2008,Oxford,Nitric Oxide,
-258,2009,Oxford,Nitric Oxide,
-259,2010,Oxford,Nitric Oxide,
-260,2011,Oxford,Nitric Oxide,
-261,2012,Oxford,Nitric Oxide,
-262,2013,Oxford,Nitric Oxide,
-263,2014,Oxford,Nitric Oxide,
-264,2015,Oxford,Nitric Oxide,
-265,2016,Oxford,Nitric Oxide,
-266,2017,Oxford,Nitric Oxide,
-267,2018,Oxford,Nitric Oxide,
-268,2019,Oxford,Nitric Oxide,
-269,2020,Oxford,Nitric Oxide,
-270,2006,Reading,Nitric Oxide,
-271,2007,Reading,Nitric Oxide,
-272,2008,Reading,Nitric Oxide,
-273,2009,Reading,Nitric Oxide,
-274,2010,Reading,Nitric Oxide,
-275,2011,Reading,Nitric Oxide,
-276,2012,Reading,Nitric Oxide,
-277,2013,Reading,Nitric Oxide,
-278,2014,Reading,Nitric Oxide,
-279,2015,Reading,Nitric Oxide,
-280,2016,Reading,Nitric Oxide,
-281,2017,Reading,Nitric Oxide,
-282,2018,Reading,Nitric Oxide,
-283,2019,Reading,Nitric Oxide,
-284,2020,Reading,Nitric Oxide,
-285,2004,South West London,Nitric Oxide,
-286,2005,South West London,Nitric Oxide,
-287,2006,South West London,Nitric Oxide,
-288,2007,South West London,Nitric Oxide,
-289,2008,South West London,Nitric Oxide,
-290,2009,South West London,Nitric Oxide,
-291,2010,South West London,Nitric Oxide,
-292,2011,South West London,Nitric Oxide,
-293,2012,South West London,Nitric Oxide,
-294,2013,South West London,Nitric Oxide,
-295,2014,South West London,Nitric Oxide,
-296,2015,South West London,Nitric Oxide,
-297,2016,South West London,Nitric Oxide,
-298,2017,South West London,Nitric Oxide,
-299,2018,South West London,Nitric Oxide,
-300,2019,South West London,Nitric Oxide,
-301,2020,South West London,Nitric Oxide,
-302,2004,Surrey Heartlands,Nitric Oxide,
-303,2005,Surrey Heartlands,Nitric Oxide,
-304,2006,Surrey Heartlands,Nitric Oxide,
-305,2007,Surrey Heartlands,Nitric Oxide,
-306,2008,Surrey Heartlands,Nitric Oxide,
-307,2009,Surrey Heartlands,Nitric Oxide,
-308,2010,Surrey Heartlands,Nitric Oxide,
-309,2011,Surrey Heartlands,Nitric Oxide,
-310,2012,Surrey Heartlands,Nitric Oxide,
-311,2013,Surrey Heartlands,Nitric Oxide,
-312,2014,Surrey Heartlands,Nitric Oxide,
-313,2015,Surrey Heartlands,Nitric Oxide,
-314,2016,Surrey Heartlands,Nitric Oxide,
-315,2017,Surrey Heartlands,Nitric Oxide,
-316,2018,Surrey Heartlands,Nitric Oxide,
-317,2019,Surrey Heartlands,Nitric Oxide,
-318,2020,Surrey Heartlands,Nitric Oxide,
-319,2004,Watford,Nitric Oxide,
-320,2005,Watford,Nitric Oxide,
-321,2006,Watford,Nitric Oxide,
-322,2007,Watford,Nitric Oxide,
-323,2008,Watford,Nitric Oxide,
-324,2009,Watford,Nitric Oxide,
-325,2010,Watford,Nitric Oxide,
-326,2011,Watford,Nitric Oxide,
-327,2012,Watford,Nitric Oxide,
-328,2013,Watford,Nitric Oxide,
-329,2014,Watford,Nitric Oxide,
-330,2015,Watford,Nitric Oxide,
-331,2016,Watford,Nitric Oxide,
-332,2017,Watford,Nitric Oxide,
-333,2018,Watford,Nitric Oxide,
-334,2019,Watford,Nitric Oxide,
-335,2020,Watford,Nitric Oxide,
-336,2020,Buckinghamshire,Nitrogen dioxide,33.04202959964874
-337,2004,Ealing,Nitrogen dioxide,57.882937645478684
-338,2005,Ealing,Nitrogen dioxide,52.86297396999513
-339,2006,Ealing,Nitrogen dioxide,55.03563466083658
-340,2007,Ealing,Nitrogen dioxide,54.24769082229276
-341,2008,Ealing,Nitrogen dioxide,58.84837107652069
-342,2009,Ealing,Nitrogen dioxide,56.8886387733401
-343,2010,Ealing,Nitrogen dioxide,57.182302664915824
-344,2011,Ealing,Nitrogen dioxide,50.39484565398761
-345,2012,Ealing,Nitrogen dioxide,55.933676193527425
-346,2013,Ealing,Nitrogen dioxide,51.82006763521714
-347,2014,Ealing,Nitrogen dioxide,48.731111831016875
-348,2015,Ealing,Nitrogen dioxide,57.43133182161743
-349,2016,Ealing,Nitrogen dioxide,56.98691878740693
-350,2017,Ealing,Nitrogen dioxide,54.559601376011564
-351,2018,Ealing,Nitrogen dioxide,50.027932519595026
-352,2019,Ealing,Nitrogen dioxide,46.56658076254765
-353,2020,Ealing,Nitrogen dioxide,33.29407531490893
-354,2004,East Berkshire,Nitrogen dioxide,32.56806589466603
-355,2005,East Berkshire,Nitrogen dioxide,37.418354508315105
-356,2006,East Berkshire,Nitrogen dioxide,37.77894482729974
-357,2007,East Berkshire,Nitrogen dioxide,38.38131620975304
-358,2008,East Berkshire,Nitrogen dioxide,37.39360419145878
-359,2009,East Berkshire,Nitrogen dioxide,34.64011599805646
-360,2010,East Berkshire,Nitrogen dioxide,35.734207306080094
-361,2011,East Berkshire,Nitrogen dioxide,36.02852741067302
-362,2012,East Berkshire,Nitrogen dioxide,34.224927861323145
-363,2013,East Berkshire,Nitrogen dioxide,33.90456884493743
-364,2014,East Berkshire,Nitrogen dioxide,34.18785703272831
-365,2015,East Berkshire,Nitrogen dioxide,31.191648440520858
-366,2016,East Berkshire,Nitrogen dioxide,33.08942676359658
-367,2017,East Berkshire,Nitrogen dioxide,33.94460608087713
-368,2018,East Berkshire,Nitrogen dioxide,33.03361569192257
-369,2019,East Berkshire,Nitrogen dioxide,29.479909068729604
-370,2020,East Berkshire,Nitrogen dioxide,21.927106381086343
-371,2004,Hammersmith and Fulham,Nitrogen dioxide,58.65570661839905
-372,2005,Hammersmith and Fulham,Nitrogen dioxide,52.32533658933799
-373,2006,Hammersmith and Fulham,Nitrogen dioxide,61.19915997779724
-374,2007,Hammersmith and Fulham,Nitrogen dioxide,60.16068460190748
-375,2008,Hammersmith and Fulham,Nitrogen dioxide,56.57683554398193
-376,2009,Hammersmith and Fulham,Nitrogen dioxide,50.33713471889953
-377,2011,Hammersmith and Fulham,Nitrogen dioxide,83.64898474419026
-378,2012,Hammersmith and Fulham,Nitrogen dioxide,92.04156192063498
-379,2013,Hammersmith and Fulham,Nitrogen dioxide,77.7979631649266
-380,2014,Hammersmith and Fulham,Nitrogen dioxide,80.75805644668205
-381,2015,Hammersmith and Fulham,Nitrogen dioxide,77.25785099746336
-382,2016,Hammersmith and Fulham,Nitrogen dioxide,74.93779640620328
-383,2017,Hammersmith and Fulham,Nitrogen dioxide,76.80877754472597
-384,2018,Hammersmith and Fulham,Nitrogen dioxide,71.46410514612711
-385,2019,Hammersmith and Fulham,Nitrogen dioxide,56.54904937743879
-386,2020,Hammersmith and Fulham,Nitrogen dioxide,38.66501663087102
-387,2004,Hillingdon,Nitrogen dioxide,44.52378546501192
-388,2005,Hillingdon,Nitrogen dioxide,42.36138838109275
-389,2006,Hillingdon,Nitrogen dioxide,43.41508920551854
-390,2007,Hillingdon,Nitrogen dioxide,43.447593285463974
-391,2008,Hillingdon,Nitrogen dioxide,41.98353462354277
-392,2009,Hillingdon,Nitrogen dioxide,43.668143552595566
-393,2010,Hillingdon,Nitrogen dioxide,42.322398716902576
-394,2011,Hillingdon,Nitrogen dioxide,41.2600780112149
-395,2012,Hillingdon,Nitrogen dioxide,41.39339736427314
-396,2013,Hillingdon,Nitrogen dioxide,39.89078003122446
-397,2014,Hillingdon,Nitrogen dioxide,40.06166650437836
-398,2015,Hillingdon,Nitrogen dioxide,38.133528245257864
-399,2016,Hillingdon,Nitrogen dioxide,39.215095752580055
-400,2017,Hillingdon,Nitrogen dioxide,38.54488049670582
-401,2018,Hillingdon,Nitrogen dioxide,34.64942881641135
-402,2019,Hillingdon,Nitrogen dioxide,35.369661686294464
-403,2020,Hillingdon,Nitrogen dioxide,24.16625393524079
-404,2004,Hounslow,Nitrogen dioxide,57.17140222562964
-405,2005,Hounslow,Nitrogen dioxide,52.833258304670075
-406,2006,Hounslow,Nitrogen dioxide,49.38876599045587
-407,2007,Hounslow,Nitrogen dioxide,49.496766115917474
-408,2008,Hounslow,Nitrogen dioxide,50.79522351374721
-409,2009,Hounslow,Nitrogen dioxide,49.28868693368281
-410,2010,Hounslow,Nitrogen dioxide,43.58286132882462
-411,2011,Hounslow,Nitrogen dioxide,44.513516593846674
-412,2012,Hounslow,Nitrogen dioxide,44.75177720684012
-413,2013,Hounslow,Nitrogen dioxide,48.00775854848623
-414,2014,Hounslow,Nitrogen dioxide,44.91178243490026
-415,2015,Hounslow,Nitrogen dioxide,41.635070595937705
-416,2016,Hounslow,Nitrogen dioxide,43.95647106732182
-417,2017,Hounslow,Nitrogen dioxide,42.94356382930549
-418,2018,Hounslow,Nitrogen dioxide,36.222803639731026
-419,2019,Hounslow,Nitrogen dioxide,32.22451477023915
-420,2020,Hounslow,Nitrogen dioxide,26.898692763687517
-421,2004,Oxford,Nitrogen dioxide,63.54589708734695
-422,2005,Oxford,Nitrogen dioxide,49.3628634655282
-423,2006,Oxford,Nitrogen dioxide,38.795507736608755
-424,2007,Oxford,Nitrogen dioxide,40.805458776223844
-425,2008,Oxford,Nitrogen dioxide,36.52990494796848
-426,2009,Oxford,Nitrogen dioxide,37.544290755191916
-427,2010,Oxford,Nitrogen dioxide,33.4132643723298
-428,2011,Oxford,Nitrogen dioxide,34.628377968064555
-429,2012,Oxford,Nitrogen dioxide,37.27513529916064
-430,2013,Oxford,Nitrogen dioxide,38.2677890411212
-431,2014,Oxford,Nitrogen dioxide,38.5703141679721
-432,2015,Oxford,Nitrogen dioxide,33.91476221103831
-433,2016,Oxford,Nitrogen dioxide,34.40279832571712
-434,2017,Oxford,Nitrogen dioxide,30.99640453252254
-435,2018,Oxford,Nitrogen dioxide,31.584018882645083
-436,2019,Oxford,Nitrogen dioxide,31.38528453776697
-437,2020,Oxford,Nitrogen dioxide,24.40934589249466
-438,2006,Reading,Nitrogen dioxide,39.60795710469079
-439,2007,Reading,Nitrogen dioxide,53.1707983734938
-440,2008,Reading,Nitrogen dioxide,43.44185020430232
-441,2009,Reading,Nitrogen dioxide,44.31432601127335
-442,2010,Reading,Nitrogen dioxide,46.98932919533532
-443,2011,Reading,Nitrogen dioxide,45.95638545298772
-444,2012,Reading,Nitrogen dioxide,46.206437227803576
-445,2013,Reading,Nitrogen dioxide,47.01425269888338
-446,2014,Reading,Nitrogen dioxide,41.87001978274143
-447,2015,Reading,Nitrogen dioxide,38.86213980675558
-448,2016,Reading,Nitrogen dioxide,36.666143844855114
-449,2017,Reading,Nitrogen dioxide,32.16093530989688
-450,2018,Reading,Nitrogen dioxide,34.20268062480706
-451,2019,Reading,Nitrogen dioxide,30.42589734789974
-452,2020,Reading,Nitrogen dioxide,22.33796048298362
-453,2004,South West London,Nitrogen dioxide,32.17711972637567
-454,2005,South West London,Nitrogen dioxide,32.569455642932425
-455,2006,South West London,Nitrogen dioxide,31.926839848196426
-456,2007,South West London,Nitrogen dioxide,34.15358041700518
-457,2008,South West London,Nitrogen dioxide,32.64468201507018
-458,2009,South West London,Nitrogen dioxide,32.07963126540219
-459,2010,South West London,Nitrogen dioxide,32.28260224442476
-460,2011,South West London,Nitrogen dioxide,28.879385197631738
-461,2012,South West London,Nitrogen dioxide,32.36548537618226
-462,2013,South West London,Nitrogen dioxide,28.02409971414673
-463,2014,South West London,Nitrogen dioxide,29.834611262268897
-464,2015,South West London,Nitrogen dioxide,35.243208453222444
-465,2016,South West London,Nitrogen dioxide,38.98231118585333
-466,2017,South West London,Nitrogen dioxide,34.39632396676987
-467,2018,South West London,Nitrogen dioxide,36.08289063549953
-468,2019,South West London,Nitrogen dioxide,34.0500938213921
-469,2020,South West London,Nitrogen dioxide,24.029461325226617
-470,2004,Surrey Heartlands,Nitrogen dioxide,30.98402547904986
-471,2005,Surrey Heartlands,Nitrogen dioxide,39.087608784575
-472,2006,Surrey Heartlands,Nitrogen dioxide,35.956973603434136
-473,2007,Surrey Heartlands,Nitrogen dioxide,35.235327710340194
-474,2008,Surrey Heartlands,Nitrogen dioxide,39.31548685452444
-475,2009,Surrey Heartlands,Nitrogen dioxide,41.75801812637368
-476,2010,Surrey Heartlands,Nitrogen dioxide,47.63208384522626
-477,2011,Surrey Heartlands,Nitrogen dioxide,41.291381805335384
-478,2012,Surrey Heartlands,Nitrogen dioxide,40.95292965944561
-479,2013,Surrey Heartlands,Nitrogen dioxide,38.897819534794785
-480,2014,Surrey Heartlands,Nitrogen dioxide,37.44271441538056
-481,2015,Surrey Heartlands,Nitrogen dioxide,31.98424121001736
-482,2016,Surrey Heartlands,Nitrogen dioxide,34.76534018316527
-483,2017,Surrey Heartlands,Nitrogen dioxide,34.2162207572931
-484,2018,Surrey Heartlands,Nitrogen dioxide,32.69663294196845
-485,2019,Surrey Heartlands,Nitrogen dioxide,32.366845333677134
-486,2020,Surrey Heartlands,Nitrogen dioxide,23.290149946984346
-487,2004,Watford,Nitrogen dioxide,38.83654703549304
-488,2005,Watford,Nitrogen dioxide,37.95879594066547
-489,2006,Watford,Nitrogen dioxide,37.26001478305594
-490,2007,Watford,Nitrogen dioxide,35.79176019233154
-491,2008,Watford,Nitrogen dioxide,33.70004099844073
-492,2009,Watford,Nitrogen dioxide,39.265491325625455
-493,2010,Watford,Nitrogen dioxide,38.79100702531181
-494,2011,Watford,Nitrogen dioxide,38.54786485792271
-495,2012,Watford,Nitrogen dioxide,38.5531932333797
-496,2013,Watford,Nitrogen dioxide,39.23086827290806
-497,2014,Watford,Nitrogen dioxide,39.91325294937453
-498,2015,Watford,Nitrogen dioxide,35.147554524912515
-499,2016,Watford,Nitrogen dioxide,35.56754625929749
-500,2017,Watford,Nitrogen dioxide,32.594032118045554
-501,2018,Watford,Nitrogen dioxide,31.861290743592768
-502,2019,Watford,Nitrogen dioxide,30.165464311389666
-503,2020,Watford,Nitrogen dioxide,20.81302206171813
-504,2020,Buckinghamshire,Oxides of Nitrogen,
-505,2004,Ealing,Oxides of Nitrogen,
-506,2005,Ealing,Oxides of Nitrogen,
-507,2006,Ealing,Oxides of Nitrogen,
-508,2007,Ealing,Oxides of Nitrogen,
-509,2008,Ealing,Oxides of Nitrogen,
-510,2009,Ealing,Oxides of Nitrogen,
-511,2010,Ealing,Oxides of Nitrogen,
-512,2011,Ealing,Oxides of Nitrogen,
-513,2012,Ealing,Oxides of Nitrogen,
-514,2013,Ealing,Oxides of Nitrogen,
-515,2014,Ealing,Oxides of Nitrogen,
-516,2015,Ealing,Oxides of Nitrogen,
-517,2016,Ealing,Oxides of Nitrogen,
-518,2017,Ealing,Oxides of Nitrogen,
-519,2018,Ealing,Oxides of Nitrogen,
-520,2019,Ealing,Oxides of Nitrogen,
-521,2020,Ealing,Oxides of Nitrogen,
-522,2004,East Berkshire,Oxides of Nitrogen,
-523,2005,East Berkshire,Oxides of Nitrogen,
-524,2006,East Berkshire,Oxides of Nitrogen,
-525,2007,East Berkshire,Oxides of Nitrogen,
-526,2008,East Berkshire,Oxides of Nitrogen,
-527,2009,East Berkshire,Oxides of Nitrogen,
-528,2010,East Berkshire,Oxides of Nitrogen,
-529,2011,East Berkshire,Oxides of Nitrogen,
-530,2012,East Berkshire,Oxides of Nitrogen,
-531,2013,East Berkshire,Oxides of Nitrogen,
-532,2014,East Berkshire,Oxides of Nitrogen,
-533,2015,East Berkshire,Oxides of Nitrogen,
-534,2016,East Berkshire,Oxides of Nitrogen,
-535,2017,East Berkshire,Oxides of Nitrogen,
-536,2018,East Berkshire,Oxides of Nitrogen,
-537,2019,East Berkshire,Oxides of Nitrogen,
-538,2020,East Berkshire,Oxides of Nitrogen,
-539,2004,Hammersmith and Fulham,Oxides of Nitrogen,
-540,2005,Hammersmith and Fulham,Oxides of Nitrogen,
-541,2006,Hammersmith and Fulham,Oxides of Nitrogen,
-542,2007,Hammersmith and Fulham,Oxides of Nitrogen,
-543,2008,Hammersmith and Fulham,Oxides of Nitrogen,
-544,2009,Hammersmith and Fulham,Oxides of Nitrogen,
-545,2011,Hammersmith and Fulham,Oxides of Nitrogen,
-546,2012,Hammersmith and Fulham,Oxides of Nitrogen,
-547,2013,Hammersmith and Fulham,Oxides of Nitrogen,
-548,2014,Hammersmith and Fulham,Oxides of Nitrogen,
-549,2015,Hammersmith and Fulham,Oxides of Nitrogen,
-550,2016,Hammersmith and Fulham,Oxides of Nitrogen,
-551,2017,Hammersmith and Fulham,Oxides of Nitrogen,
-552,2018,Hammersmith and Fulham,Oxides of Nitrogen,
-553,2019,Hammersmith and Fulham,Oxides of Nitrogen,
-554,2020,Hammersmith and Fulham,Oxides of Nitrogen,
-555,2004,Hillingdon,Oxides of Nitrogen,
-556,2005,Hillingdon,Oxides of Nitrogen,
-557,2006,Hillingdon,Oxides of Nitrogen,
-558,2007,Hillingdon,Oxides of Nitrogen,
-559,2008,Hillingdon,Oxides of Nitrogen,
-560,2009,Hillingdon,Oxides of Nitrogen,
-561,2010,Hillingdon,Oxides of Nitrogen,
-562,2011,Hillingdon,Oxides of Nitrogen,
-563,2012,Hillingdon,Oxides of Nitrogen,
-564,2013,Hillingdon,Oxides of Nitrogen,
-565,2014,Hillingdon,Oxides of Nitrogen,
-566,2015,Hillingdon,Oxides of Nitrogen,
-567,2016,Hillingdon,Oxides of Nitrogen,
-568,2017,Hillingdon,Oxides of Nitrogen,
-569,2018,Hillingdon,Oxides of Nitrogen,
-570,2019,Hillingdon,Oxides of Nitrogen,
-571,2020,Hillingdon,Oxides of Nitrogen,
-572,2004,Hounslow,Oxides of Nitrogen,134.37796484281202
-573,2005,Hounslow,Oxides of Nitrogen,128.40552216974433
-574,2006,Hounslow,Oxides of Nitrogen,112.24793947835276
-575,2007,Hounslow,Oxides of Nitrogen,119.45842789010976
-576,2008,Hounslow,Oxides of Nitrogen,113.19823591788318
-577,2009,Hounslow,Oxides of Nitrogen,106.6648953855113
-578,2010,Hounslow,Oxides of Nitrogen,92.88141709662345
-579,2011,Hounslow,Oxides of Nitrogen,97.3852312756964
-580,2012,Hounslow,Oxides of Nitrogen,109.84288661361906
-581,2013,Hounslow,Oxides of Nitrogen,113.76668817399523
-582,2014,Hounslow,Oxides of Nitrogen,110.27222042896581
-583,2015,Hounslow,Oxides of Nitrogen,96.64138423097539
-584,2016,Hounslow,Oxides of Nitrogen,111.93009771741049
-585,2017,Hounslow,Oxides of Nitrogen,102.99050494806009
-586,2018,Hounslow,Oxides of Nitrogen,78.53654282334979
-587,2019,Hounslow,Oxides of Nitrogen,69.68273823400304
-588,2020,Hounslow,Oxides of Nitrogen,51.08294914709443
-589,2004,Oxford,Oxides of Nitrogen,
-590,2005,Oxford,Oxides of Nitrogen,
-591,2006,Oxford,Oxides of Nitrogen,
-592,2007,Oxford,Oxides of Nitrogen,
-593,2008,Oxford,Oxides of Nitrogen,
-594,2009,Oxford,Oxides of Nitrogen,
-595,2010,Oxford,Oxides of Nitrogen,
-596,2011,Oxford,Oxides of Nitrogen,
-597,2012,Oxford,Oxides of Nitrogen,
-598,2013,Oxford,Oxides of Nitrogen,
-599,2014,Oxford,Oxides of Nitrogen,
-600,2015,Oxford,Oxides of Nitrogen,
-601,2016,Oxford,Oxides of Nitrogen,
-602,2017,Oxford,Oxides of Nitrogen,
-603,2018,Oxford,Oxides of Nitrogen,
-604,2019,Oxford,Oxides of Nitrogen,
-605,2020,Oxford,Oxides of Nitrogen,
-606,2006,Reading,Oxides of Nitrogen,
-607,2007,Reading,Oxides of Nitrogen,
-608,2008,Reading,Oxides of Nitrogen,
-609,2009,Reading,Oxides of Nitrogen,
-610,2010,Reading,Oxides of Nitrogen,
-611,2011,Reading,Oxides of Nitrogen,
-612,2012,Reading,Oxides of Nitrogen,
-613,2013,Reading,Oxides of Nitrogen,
-614,2014,Reading,Oxides of Nitrogen,
-615,2015,Reading,Oxides of Nitrogen,
-616,2016,Reading,Oxides of Nitrogen,
-617,2017,Reading,Oxides of Nitrogen,
-618,2018,Reading,Oxides of Nitrogen,
-619,2019,Reading,Oxides of Nitrogen,
-620,2020,Reading,Oxides of Nitrogen,
-621,2004,South West London,Oxides of Nitrogen,
-622,2005,South West London,Oxides of Nitrogen,
-623,2006,South West London,Oxides of Nitrogen,
-624,2007,South West London,Oxides of Nitrogen,
-625,2008,South West London,Oxides of Nitrogen,
-626,2009,South West London,Oxides of Nitrogen,
-627,2010,South West London,Oxides of Nitrogen,
-628,2011,South West London,Oxides of Nitrogen,
-629,2012,South West London,Oxides of Nitrogen,
-630,2013,South West London,Oxides of Nitrogen,
-631,2014,South West London,Oxides of Nitrogen,
-632,2015,South West London,Oxides of Nitrogen,
-633,2016,South West London,Oxides of Nitrogen,
-634,2017,South West London,Oxides of Nitrogen,
-635,2018,South West London,Oxides of Nitrogen,
-636,2019,South West London,Oxides of Nitrogen,
-637,2020,South West London,Oxides of Nitrogen,
-638,2004,Surrey Heartlands,Oxides of Nitrogen,
-639,2005,Surrey Heartlands,Oxides of Nitrogen,
-640,2006,Surrey Heartlands,Oxides of Nitrogen,
-641,2007,Surrey Heartlands,Oxides of Nitrogen,
-642,2008,Surrey Heartlands,Oxides of Nitrogen,
-643,2009,Surrey Heartlands,Oxides of Nitrogen,
-644,2010,Surrey Heartlands,Oxides of Nitrogen,
-645,2011,Surrey Heartlands,Oxides of Nitrogen,
-646,2012,Surrey Heartlands,Oxides of Nitrogen,
-647,2013,Surrey Heartlands,Oxides of Nitrogen,
-648,2014,Surrey Heartlands,Oxides of Nitrogen,
-649,2015,Surrey Heartlands,Oxides of Nitrogen,
-650,2016,Surrey Heartlands,Oxides of Nitrogen,
-651,2017,Surrey Heartlands,Oxides of Nitrogen,
-652,2018,Surrey Heartlands,Oxides of Nitrogen,
-653,2019,Surrey Heartlands,Oxides of Nitrogen,
-654,2020,Surrey Heartlands,Oxides of Nitrogen,
-655,2004,Watford,Oxides of Nitrogen,
-656,2005,Watford,Oxides of Nitrogen,
-657,2006,Watford,Oxides of Nitrogen,
-658,2007,Watford,Oxides of Nitrogen,
-659,2008,Watford,Oxides of Nitrogen,
-660,2009,Watford,Oxides of Nitrogen,
-661,2010,Watford,Oxides of Nitrogen,
-662,2011,Watford,Oxides of Nitrogen,
-663,2012,Watford,Oxides of Nitrogen,
-664,2013,Watford,Oxides of Nitrogen,
-665,2014,Watford,Oxides of Nitrogen,
-666,2015,Watford,Oxides of Nitrogen,
-667,2016,Watford,Oxides of Nitrogen,
-668,2017,Watford,Oxides of Nitrogen,
-669,2018,Watford,Oxides of Nitrogen,
-670,2019,Watford,Oxides of Nitrogen,
-671,2020,Watford,Oxides of Nitrogen,
-672,2020,Buckinghamshire,Ozone,49.98446735255331
-673,2004,Ealing,Ozone,33.992080422331036
-674,2005,Ealing,Ozone,28.594453090607452
-675,2006,Ealing,Ozone,32.52753876052575
-676,2007,Ealing,Ozone,28.47389078318255
-677,2008,Ealing,Ozone,29.08530456902247
-678,2009,Ealing,Ozone,25.856958735915402
-679,2010,Ealing,Ozone,26.273895148700547
-680,2011,Ealing,Ozone,28.222554258240905
-681,2012,Ealing,Ozone,34.67911716417463
-682,2013,Ealing,Ozone,35.00612546158585
-683,2014,Ealing,Ozone,36.15235679691407
-684,2015,Ealing,Ozone,36.43666549734984
-685,2016,Ealing,Ozone,25.474152967171722
-686,2017,Ealing,Ozone,
-687,2018,Ealing,Ozone,
-688,2019,Ealing,Ozone,
-689,2020,Ealing,Ozone,
-690,2004,East Berkshire,Ozone,
-691,2005,East Berkshire,Ozone,
-692,2006,East Berkshire,Ozone,
-693,2007,East Berkshire,Ozone,
-694,2008,East Berkshire,Ozone,
-695,2009,East Berkshire,Ozone,
-696,2010,East Berkshire,Ozone,
-697,2011,East Berkshire,Ozone,
-698,2012,East Berkshire,Ozone,
-699,2013,East Berkshire,Ozone,
-700,2014,East Berkshire,Ozone,
-701,2015,East Berkshire,Ozone,
-702,2016,East Berkshire,Ozone,
-703,2017,East Berkshire,Ozone,
-704,2018,East Berkshire,Ozone,
-705,2019,East Berkshire,Ozone,29.025600590666674
-706,2020,East Berkshire,Ozone,
-707,2004,Hammersmith and Fulham,Ozone,
-708,2005,Hammersmith and Fulham,Ozone,
-709,2006,Hammersmith and Fulham,Ozone,
-710,2007,Hammersmith and Fulham,Ozone,
-711,2008,Hammersmith and Fulham,Ozone,
-712,2009,Hammersmith and Fulham,Ozone,
-713,2011,Hammersmith and Fulham,Ozone,
-714,2012,Hammersmith and Fulham,Ozone,
-715,2013,Hammersmith and Fulham,Ozone,
-716,2014,Hammersmith and Fulham,Ozone,
-717,2015,Hammersmith and Fulham,Ozone,
-718,2016,Hammersmith and Fulham,Ozone,
-719,2017,Hammersmith and Fulham,Ozone,
-720,2018,Hammersmith and Fulham,Ozone,
-721,2019,Hammersmith and Fulham,Ozone,29.899648073988853
-722,2020,Hammersmith and Fulham,Ozone,38.11402287048222
-723,2004,Hillingdon,Ozone,
-724,2005,Hillingdon,Ozone,
-725,2006,Hillingdon,Ozone,
-726,2007,Hillingdon,Ozone,
-727,2008,Hillingdon,Ozone,
-728,2009,Hillingdon,Ozone,
-729,2010,Hillingdon,Ozone,
-730,2011,Hillingdon,Ozone,
-731,2012,Hillingdon,Ozone,
-732,2013,Hillingdon,Ozone,
-733,2014,Hillingdon,Ozone,
-734,2015,Hillingdon,Ozone,
-735,2016,Hillingdon,Ozone,
-736,2017,Hillingdon,Ozone,
-737,2018,Hillingdon,Ozone,
-738,2019,Hillingdon,Ozone,
-739,2020,Hillingdon,Ozone,
-740,2004,Hounslow,Ozone,31.628425987905036
-741,2005,Hounslow,Ozone,34.42601047706647
-742,2006,Hounslow,Ozone,41.626835958636
-743,2007,Hounslow,Ozone,31.764437187208916
-744,2008,Hounslow,Ozone,36.52743372248239
-745,2009,Hounslow,Ozone,34.44903615759541
-746,2010,Hounslow,Ozone,48.70446493924756
-747,2011,Hounslow,Ozone,31.619417835477595
-748,2012,Hounslow,Ozone,31.53995588994994
-749,2013,Hounslow,Ozone,34.60202533864623
-750,2014,Hounslow,Ozone,34.73975631668715
-751,2015,Hounslow,Ozone,36.509611695960714
-752,2016,Hounslow,Ozone,31.746313582504825
-753,2017,Hounslow,Ozone,31.394449485143806
-754,2018,Hounslow,Ozone,36.821549241524295
-755,2019,Hounslow,Ozone,22.458061517232377
-756,2020,Hounslow,Ozone,36.224710852264145
-757,2004,Oxford,Ozone,40.37627870216314
-758,2005,Oxford,Ozone,39.652825419415635
-759,2006,Oxford,Ozone,45.27446438460312
-760,2007,Oxford,Ozone,39.945394476233226
-761,2008,Oxford,Ozone,41.21623794826508
-762,2009,Oxford,Ozone,46.34964366921064
-763,2010,Oxford,Ozone,49.67751969504908
-764,2011,Oxford,Ozone,38.608095943348985
-765,2012,Oxford,Ozone,35.100020181067926
-766,2013,Oxford,Ozone,36.76181673923495
-767,2014,Oxford,Ozone,34.717028121300004
-768,2015,Oxford,Ozone,39.59717882624825
-769,2016,Oxford,Ozone,31.307083207014557
-770,2017,Oxford,Ozone,35.21848226078597
-771,2018,Oxford,Ozone,45.05988358988324
-772,2019,Oxford,Ozone,43.62949687037518
-773,2020,Oxford,Ozone,46.38077932313156
-774,2006,Reading,Ozone,
-775,2007,Reading,Ozone,
-776,2008,Reading,Ozone,
-777,2009,Reading,Ozone,
-778,2010,Reading,Ozone,
-779,2011,Reading,Ozone,
-780,2012,Reading,Ozone,
-781,2013,Reading,Ozone,
-782,2014,Reading,Ozone,
-783,2015,Reading,Ozone,
-784,2016,Reading,Ozone,
-785,2017,Reading,Ozone,
-786,2018,Reading,Ozone,
-787,2019,Reading,Ozone,
-788,2020,Reading,Ozone,
-789,2004,South West London,Ozone,44.607493596220664
-790,2005,South West London,Ozone,44.135361457108395
-791,2006,South West London,Ozone,48.32330127199309
-792,2007,South West London,Ozone,41.21480032007615
-793,2008,South West London,Ozone,45.1027968017699
-794,2009,South West London,Ozone,43.13590402484978
-795,2010,South West London,Ozone,41.50953040772639
-796,2011,South West London,Ozone,44.94307372023647
-797,2012,South West London,Ozone,40.2936849597165
-798,2013,South West London,Ozone,46.69198316284394
-799,2014,South West London,Ozone,46.118399821500226
-800,2015,South West London,Ozone,49.47007436261727
-801,2016,South West London,Ozone,45.56931440687024
-802,2017,South West London,Ozone,43.24416341547551
-803,2018,South West London,Ozone,38.327863907738106
-804,2019,South West London,Ozone,38.0487653942683
-805,2020,South West London,Ozone,37.13291708224313
-806,2004,Surrey Heartlands,Ozone,50.287864487890644
-807,2005,Surrey Heartlands,Ozone,27.11866034870588
-808,2006,Surrey Heartlands,Ozone,52.91518156373235
-809,2007,Surrey Heartlands,Ozone,35.76231325155799
-810,2008,Surrey Heartlands,Ozone,31.74877747041146
-811,2009,Surrey Heartlands,Ozone,24.901938657797682
-812,2010,Surrey Heartlands,Ozone,19.500044578571437
-813,2011,Surrey Heartlands,Ozone,21.737974765840228
-814,2012,Surrey Heartlands,Ozone,20.15591060329671
-815,2013,Surrey Heartlands,Ozone,20.364270698630143
-816,2014,Surrey Heartlands,Ozone,19.27375172712328
-817,2015,Surrey Heartlands,Ozone,19.258530986577185
-818,2016,Surrey Heartlands,Ozone,16.596084844875342
-819,2017,Surrey Heartlands,Ozone,16.11948559368132
-820,2018,Surrey Heartlands,Ozone,17.077764141369876
-821,2019,Surrey Heartlands,Ozone,15.629340110833343
-822,2020,Surrey Heartlands,Ozone,15.343444322955985
-823,2004,Watford,Ozone,37.226716159353565
-824,2005,Watford,Ozone,35.039582271301235
-825,2006,Watford,Ozone,39.207048556135774
-826,2007,Watford,Ozone,43.26305339279386
-827,2008,Watford,Ozone,
-828,2009,Watford,Ozone,
-829,2010,Watford,Ozone,
-830,2011,Watford,Ozone,
-831,2012,Watford,Ozone,
-832,2013,Watford,Ozone,
-833,2014,Watford,Ozone,
-834,2015,Watford,Ozone,
-835,2016,Watford,Ozone,
-836,2017,Watford,Ozone,
-837,2018,Watford,Ozone,
-838,2019,Watford,Ozone,
-839,2020,Watford,Ozone,
-840,2020,Buckinghamshire,PM10 Particulate matter,16.014508197132173
-841,2004,Ealing,PM10 Particulate matter,
-842,2005,Ealing,PM10 Particulate matter,
-843,2006,Ealing,PM10 Particulate matter,
-844,2007,Ealing,PM10 Particulate matter,
-845,2008,Ealing,PM10 Particulate matter,
-846,2009,Ealing,PM10 Particulate matter,
-847,2010,Ealing,PM10 Particulate matter,
-848,2011,Ealing,PM10 Particulate matter,
-849,2012,Ealing,PM10 Particulate matter,
-850,2013,Ealing,PM10 Particulate matter,
-851,2014,Ealing,PM10 Particulate matter,
-852,2015,Ealing,PM10 Particulate matter,
-853,2016,Ealing,PM10 Particulate matter,
-854,2017,Ealing,PM10 Particulate matter,
-855,2018,Ealing,PM10 Particulate matter,
-856,2019,Ealing,PM10 Particulate matter,
-857,2020,Ealing,PM10 Particulate matter,
-858,2004,East Berkshire,PM10 Particulate matter,
-859,2005,East Berkshire,PM10 Particulate matter,
-860,2006,East Berkshire,PM10 Particulate matter,
-861,2007,East Berkshire,PM10 Particulate matter,
-862,2008,East Berkshire,PM10 Particulate matter,
-863,2009,East Berkshire,PM10 Particulate matter,
-864,2010,East Berkshire,PM10 Particulate matter,
-865,2011,East Berkshire,PM10 Particulate matter,
-866,2012,East Berkshire,PM10 Particulate matter,
-867,2013,East Berkshire,PM10 Particulate matter,
-868,2014,East Berkshire,PM10 Particulate matter,
-869,2015,East Berkshire,PM10 Particulate matter,
-870,2016,East Berkshire,PM10 Particulate matter,
-871,2017,East Berkshire,PM10 Particulate matter,
-872,2018,East Berkshire,PM10 Particulate matter,
-873,2019,East Berkshire,PM10 Particulate matter,
-874,2020,East Berkshire,PM10 Particulate matter,
-875,2004,Hammersmith and Fulham,PM10 Particulate matter,
-876,2005,Hammersmith and Fulham,PM10 Particulate matter,
-877,2006,Hammersmith and Fulham,PM10 Particulate matter,
-878,2007,Hammersmith and Fulham,PM10 Particulate matter,
-879,2008,Hammersmith and Fulham,PM10 Particulate matter,
-880,2009,Hammersmith and Fulham,PM10 Particulate matter,
-881,2011,Hammersmith and Fulham,PM10 Particulate matter,
-882,2012,Hammersmith and Fulham,PM10 Particulate matter,
-883,2013,Hammersmith and Fulham,PM10 Particulate matter,
-884,2014,Hammersmith and Fulham,PM10 Particulate matter,
-885,2015,Hammersmith and Fulham,PM10 Particulate matter,
-886,2016,Hammersmith and Fulham,PM10 Particulate matter,
-887,2017,Hammersmith and Fulham,PM10 Particulate matter,
-888,2018,Hammersmith and Fulham,PM10 Particulate matter,
-889,2019,Hammersmith and Fulham,PM10 Particulate matter,
-890,2020,Hammersmith and Fulham,PM10 Particulate matter,
-891,2004,Hillingdon,PM10 Particulate matter,
-892,2005,Hillingdon,PM10 Particulate matter,
-893,2006,Hillingdon,PM10 Particulate matter,
-894,2007,Hillingdon,PM10 Particulate matter,
-895,2008,Hillingdon,PM10 Particulate matter,
-896,2009,Hillingdon,PM10 Particulate matter,
-897,2010,Hillingdon,PM10 Particulate matter,
-898,2011,Hillingdon,PM10 Particulate matter,
-899,2012,Hillingdon,PM10 Particulate matter,
-900,2013,Hillingdon,PM10 Particulate matter,
-901,2014,Hillingdon,PM10 Particulate matter,
-902,2015,Hillingdon,PM10 Particulate matter,
-903,2016,Hillingdon,PM10 Particulate matter,
-904,2017,Hillingdon,PM10 Particulate matter,
-905,2018,Hillingdon,PM10 Particulate matter,
-906,2019,Hillingdon,PM10 Particulate matter,
-907,2020,Hillingdon,PM10 Particulate matter,
-908,2004,Hounslow,PM10 Particulate matter,28.02264972395538
-909,2005,Hounslow,PM10 Particulate matter,29.189345081336416
-910,2006,Hounslow,PM10 Particulate matter,27.311610241039347
-911,2007,Hounslow,PM10 Particulate matter,26.701155002961407
-912,2008,Hounslow,PM10 Particulate matter,27.137784100238555
-913,2009,Hounslow,PM10 Particulate matter,25.622636815288143
-914,2010,Hounslow,PM10 Particulate matter,24.063699042250658
-915,2011,Hounslow,PM10 Particulate matter,19.084606290466706
-916,2012,Hounslow,PM10 Particulate matter,23.91549859262039
-917,2013,Hounslow,PM10 Particulate matter,26.847779328196744
-918,2014,Hounslow,PM10 Particulate matter,24.561485050362847
-919,2015,Hounslow,PM10 Particulate matter,21.983250588802758
-920,2016,Hounslow,PM10 Particulate matter,22.53204876961306
-921,2017,Hounslow,PM10 Particulate matter,21.728613748432743
-922,2018,Hounslow,PM10 Particulate matter,19.87063618445889
-923,2019,Hounslow,PM10 Particulate matter,19.630715810627898
-924,2020,Hounslow,PM10 Particulate matter,20.00798468531694
-925,2004,Oxford,PM10 Particulate matter,
-926,2005,Oxford,PM10 Particulate matter,
-927,2006,Oxford,PM10 Particulate matter,
-928,2007,Oxford,PM10 Particulate matter,
-929,2008,Oxford,PM10 Particulate matter,
-930,2009,Oxford,PM10 Particulate matter,
-931,2010,Oxford,PM10 Particulate matter,
-932,2011,Oxford,PM10 Particulate matter,
-933,2012,Oxford,PM10 Particulate matter,
-934,2013,Oxford,PM10 Particulate matter,
-935,2014,Oxford,PM10 Particulate matter,
-936,2015,Oxford,PM10 Particulate matter,
-937,2016,Oxford,PM10 Particulate matter,
-938,2017,Oxford,PM10 Particulate matter,
-939,2018,Oxford,PM10 Particulate matter,
-940,2019,Oxford,PM10 Particulate matter,
-941,2020,Oxford,PM10 Particulate matter,
-942,2006,Reading,PM10 Particulate matter,
-943,2007,Reading,PM10 Particulate matter,
-944,2008,Reading,PM10 Particulate matter,
-945,2009,Reading,PM10 Particulate matter,
-946,2010,Reading,PM10 Particulate matter,
-947,2011,Reading,PM10 Particulate matter,
-948,2012,Reading,PM10 Particulate matter,
-949,2013,Reading,PM10 Particulate matter,
-950,2014,Reading,PM10 Particulate matter,
-951,2015,Reading,PM10 Particulate matter,
-952,2016,Reading,PM10 Particulate matter,
-953,2017,Reading,PM10 Particulate matter,
-954,2018,Reading,PM10 Particulate matter,
-955,2019,Reading,PM10 Particulate matter,
-956,2020,Reading,PM10 Particulate matter,
-957,2004,South West London,PM10 Particulate matter,
-958,2005,South West London,PM10 Particulate matter,
-959,2006,South West London,PM10 Particulate matter,
-960,2007,South West London,PM10 Particulate matter,
-961,2008,South West London,PM10 Particulate matter,
-962,2009,South West London,PM10 Particulate matter,
-963,2010,South West London,PM10 Particulate matter,
-964,2011,South West London,PM10 Particulate matter,
-965,2012,South West London,PM10 Particulate matter,
-966,2013,South West London,PM10 Particulate matter,
-967,2014,South West London,PM10 Particulate matter,
-968,2015,South West London,PM10 Particulate matter,
-969,2016,South West London,PM10 Particulate matter,
-970,2017,South West London,PM10 Particulate matter,
-971,2018,South West London,PM10 Particulate matter,
-972,2019,South West London,PM10 Particulate matter,
-973,2020,South West London,PM10 Particulate matter,
-974,2004,Surrey Heartlands,PM10 Particulate matter,
-975,2005,Surrey Heartlands,PM10 Particulate matter,
-976,2006,Surrey Heartlands,PM10 Particulate matter,
-977,2007,Surrey Heartlands,PM10 Particulate matter,
-978,2008,Surrey Heartlands,PM10 Particulate matter,
-979,2009,Surrey Heartlands,PM10 Particulate matter,
-980,2010,Surrey Heartlands,PM10 Particulate matter,
-981,2011,Surrey Heartlands,PM10 Particulate matter,
-982,2012,Surrey Heartlands,PM10 Particulate matter,
-983,2013,Surrey Heartlands,PM10 Particulate matter,
-984,2014,Surrey Heartlands,PM10 Particulate matter,
-985,2015,Surrey Heartlands,PM10 Particulate matter,
-986,2016,Surrey Heartlands,PM10 Particulate matter,
-987,2017,Surrey Heartlands,PM10 Particulate matter,
-988,2018,Surrey Heartlands,PM10 Particulate matter,
-989,2019,Surrey Heartlands,PM10 Particulate matter,
-990,2020,Surrey Heartlands,PM10 Particulate matter,
-991,2004,Watford,PM10 Particulate matter,
-992,2005,Watford,PM10 Particulate matter,
-993,2006,Watford,PM10 Particulate matter,
-994,2007,Watford,PM10 Particulate matter,
-995,2008,Watford,PM10 Particulate matter,
-996,2009,Watford,PM10 Particulate matter,
-997,2010,Watford,PM10 Particulate matter,
-998,2011,Watford,PM10 Particulate matter,
-999,2012,Watford,PM10 Particulate matter,
-1000,2013,Watford,PM10 Particulate matter,
-1001,2014,Watford,PM10 Particulate matter,
-1002,2015,Watford,PM10 Particulate matter,
-1003,2016,Watford,PM10 Particulate matter,
-1004,2017,Watford,PM10 Particulate matter,
-1005,2018,Watford,PM10 Particulate matter,
-1006,2019,Watford,PM10 Particulate matter,
-1007,2020,Watford,PM10 Particulate matter,
-1008,2020,Buckinghamshire,PM10 particulate matter (Hourly measured),
-1009,2004,Ealing,PM10 particulate matter (Hourly measured),23.333576306877806
-1010,2005,Ealing,PM10 particulate matter (Hourly measured),25.916646944624887
-1011,2006,Ealing,PM10 particulate matter (Hourly measured),25.443424688491117
-1012,2007,Ealing,PM10 particulate matter (Hourly measured),24.401768909306927
-1013,2008,Ealing,PM10 particulate matter (Hourly measured),22.14147480833379
-1014,2009,Ealing,PM10 particulate matter (Hourly measured),22.76906732666252
-1015,2010,Ealing,PM10 particulate matter (Hourly measured),22.358329224931214
-1016,2011,Ealing,PM10 particulate matter (Hourly measured),23.629680687321052
-1017,2012,Ealing,PM10 particulate matter (Hourly measured),23.47171892978855
-1018,2013,Ealing,PM10 particulate matter (Hourly measured),25.208131518313756
-1019,2014,Ealing,PM10 particulate matter (Hourly measured),20.096599504327465
-1020,2015,Ealing,PM10 particulate matter (Hourly measured),22.298301598920983
-1021,2016,Ealing,PM10 particulate matter (Hourly measured),22.008692919730816
-1022,2017,Ealing,PM10 particulate matter (Hourly measured),25.726536726411894
-1023,2018,Ealing,PM10 particulate matter (Hourly measured),24.810243239771193
-1024,2019,Ealing,PM10 particulate matter (Hourly measured),22.534795186299238
-1025,2020,Ealing,PM10 particulate matter (Hourly measured),20.715119767152874
-1026,2004,East Berkshire,PM10 particulate matter (Hourly measured),23.849996292353744
-1027,2005,East Berkshire,PM10 particulate matter (Hourly measured),27.401398039196902
-1028,2006,East Berkshire,PM10 particulate matter (Hourly measured),23.056505102243108
-1029,2007,East Berkshire,PM10 particulate matter (Hourly measured),39.66833846461614
-1030,2008,East Berkshire,PM10 particulate matter (Hourly measured),25.211123348414986
-1031,2009,East Berkshire,PM10 particulate matter (Hourly measured),27.864766646046945
-1032,2010,East Berkshire,PM10 particulate matter (Hourly measured),21.926850842498222
-1033,2011,East Berkshire,PM10 particulate matter (Hourly measured),30.240539557524375
-1034,2012,East Berkshire,PM10 particulate matter (Hourly measured),23.303635589080503
-1035,2013,East Berkshire,PM10 particulate matter (Hourly measured),22.190329520577137
-1036,2014,East Berkshire,PM10 particulate matter (Hourly measured),19.033874080234835
-1037,2015,East Berkshire,PM10 particulate matter (Hourly measured),16.24208172173037
-1038,2016,East Berkshire,PM10 particulate matter (Hourly measured),15.282021490711628
-1039,2017,East Berkshire,PM10 particulate matter (Hourly measured),17.412888908578026
-1040,2018,East Berkshire,PM10 particulate matter (Hourly measured),17.52200363008815
-1041,2019,East Berkshire,PM10 particulate matter (Hourly measured),17.737270440184556
-1042,2020,East Berkshire,PM10 particulate matter (Hourly measured),18.34778398288618
-1043,2004,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.158434639062733
-1044,2005,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),30.948655092243815
-1045,2006,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.324389623428182
-1046,2007,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.631845449716387
-1047,2008,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.863771990371028
-1048,2009,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),20.22278196785961
-1049,2011,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),32.77238052568698
-1050,2012,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),37.70916463911675
-1051,2013,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.49792140591713
-1052,2014,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),28.406974637681166
-1053,2015,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.38471751177979
-1054,2016,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.288016563869167
-1055,2017,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.83732760792819
-1056,2018,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.708968632251448
-1057,2019,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),22.7276708023214
-1058,2020,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),22.318334633905586
-1059,2004,Hillingdon,PM10 particulate matter (Hourly measured),26.43231135727588
-1060,2005,Hillingdon,PM10 particulate matter (Hourly measured),25.764295038622684
-1061,2006,Hillingdon,PM10 particulate matter (Hourly measured),25.902121300103524
-1062,2007,Hillingdon,PM10 particulate matter (Hourly measured),26.47356242129526
-1063,2008,Hillingdon,PM10 particulate matter (Hourly measured),23.820121185762172
-1064,2009,Hillingdon,PM10 particulate matter (Hourly measured),23.748885705232066
-1065,2010,Hillingdon,PM10 particulate matter (Hourly measured),21.2937498974638
-1066,2011,Hillingdon,PM10 particulate matter (Hourly measured),24.918382843190855
-1067,2012,Hillingdon,PM10 particulate matter (Hourly measured),20.82588014409068
-1068,2013,Hillingdon,PM10 particulate matter (Hourly measured),22.727336984614503
-1069,2014,Hillingdon,PM10 particulate matter (Hourly measured),21.32522857788094
-1070,2015,Hillingdon,PM10 particulate matter (Hourly measured),18.931073294295036
-1071,2016,Hillingdon,PM10 particulate matter (Hourly measured),19.543862062638652
-1072,2017,Hillingdon,PM10 particulate matter (Hourly measured),18.347888394330116
-1073,2018,Hillingdon,PM10 particulate matter (Hourly measured),18.876481195582745
-1074,2019,Hillingdon,PM10 particulate matter (Hourly measured),17.166189885552562
-1075,2020,Hillingdon,PM10 particulate matter (Hourly measured),16.25536796550497
-1076,2004,Hounslow,PM10 particulate matter (Hourly measured),
-1077,2005,Hounslow,PM10 particulate matter (Hourly measured),
-1078,2006,Hounslow,PM10 particulate matter (Hourly measured),
-1079,2007,Hounslow,PM10 particulate matter (Hourly measured),
-1080,2008,Hounslow,PM10 particulate matter (Hourly measured),
-1081,2009,Hounslow,PM10 particulate matter (Hourly measured),
-1082,2010,Hounslow,PM10 particulate matter (Hourly measured),
-1083,2011,Hounslow,PM10 particulate matter (Hourly measured),
-1084,2012,Hounslow,PM10 particulate matter (Hourly measured),
-1085,2013,Hounslow,PM10 particulate matter (Hourly measured),
-1086,2014,Hounslow,PM10 particulate matter (Hourly measured),
-1087,2015,Hounslow,PM10 particulate matter (Hourly measured),
-1088,2016,Hounslow,PM10 particulate matter (Hourly measured),
-1089,2017,Hounslow,PM10 particulate matter (Hourly measured),
-1090,2018,Hounslow,PM10 particulate matter (Hourly measured),
-1091,2019,Hounslow,PM10 particulate matter (Hourly measured),
-1092,2020,Hounslow,PM10 particulate matter (Hourly measured),
-1093,2004,Oxford,PM10 particulate matter (Hourly measured),27.78944357738571
-1094,2005,Oxford,PM10 particulate matter (Hourly measured),25.59443373457876
-1095,2006,Oxford,PM10 particulate matter (Hourly measured),28.368754538578926
-1096,2007,Oxford,PM10 particulate matter (Hourly measured),25.961704907483877
-1097,2008,Oxford,PM10 particulate matter (Hourly measured),24.872507720832754
-1098,2009,Oxford,PM10 particulate matter (Hourly measured),25.106132877001272
-1099,2010,Oxford,PM10 particulate matter (Hourly measured),23.630868040363435
-1100,2011,Oxford,PM10 particulate matter (Hourly measured),22.91341079295766
-1101,2012,Oxford,PM10 particulate matter (Hourly measured),20.511618587089643
-1102,2013,Oxford,PM10 particulate matter (Hourly measured),22.2902436294776
-1103,2014,Oxford,PM10 particulate matter (Hourly measured),19.60185019192945
-1104,2015,Oxford,PM10 particulate matter (Hourly measured),21.289544773837143
-1105,2016,Oxford,PM10 particulate matter (Hourly measured),19.782039379558363
-1106,2017,Oxford,PM10 particulate matter (Hourly measured),17.10285982302336
-1107,2018,Oxford,PM10 particulate matter (Hourly measured),19.16078902801334
-1108,2019,Oxford,PM10 particulate matter (Hourly measured),17.388310856363844
-1109,2020,Oxford,PM10 particulate matter (Hourly measured),15.914070344894553
-1110,2006,Reading,PM10 particulate matter (Hourly measured),
-1111,2007,Reading,PM10 particulate matter (Hourly measured),31.676369073406008
-1112,2008,Reading,PM10 particulate matter (Hourly measured),24.531072679147282
-1113,2009,Reading,PM10 particulate matter (Hourly measured),24.829365382352865
-1114,2010,Reading,PM10 particulate matter (Hourly measured),25.55291821817796
-1115,2011,Reading,PM10 particulate matter (Hourly measured),29.421368403118368
-1116,2012,Reading,PM10 particulate matter (Hourly measured),28.2837504398242
-1117,2013,Reading,PM10 particulate matter (Hourly measured),23.62431741964761
-1118,2014,Reading,PM10 particulate matter (Hourly measured),28.024767142583244
-1119,2015,Reading,PM10 particulate matter (Hourly measured),25.26028931555196
-1120,2016,Reading,PM10 particulate matter (Hourly measured),20.65442814619035
-1121,2017,Reading,PM10 particulate matter (Hourly measured),21.010123048735174
-1122,2018,Reading,PM10 particulate matter (Hourly measured),23.567503608723165
-1123,2019,Reading,PM10 particulate matter (Hourly measured),22.750825744725446
-1124,2020,Reading,PM10 particulate matter (Hourly measured),19.42197030796853
-1125,2004,South West London,PM10 particulate matter (Hourly measured),22.974463454420324
-1126,2005,South West London,PM10 particulate matter (Hourly measured),23.207930104062257
-1127,2006,South West London,PM10 particulate matter (Hourly measured),22.972399926988615
-1128,2007,South West London,PM10 particulate matter (Hourly measured),21.57778888112926
-1129,2008,South West London,PM10 particulate matter (Hourly measured),20.151395679393723
-1130,2009,South West London,PM10 particulate matter (Hourly measured),20.70153171500894
-1131,2010,South West London,PM10 particulate matter (Hourly measured),20.078349973785002
-1132,2011,South West London,PM10 particulate matter (Hourly measured),22.718132384860333
-1133,2012,South West London,PM10 particulate matter (Hourly measured),19.472033955541164
-1134,2013,South West London,PM10 particulate matter (Hourly measured),21.258820343384826
-1135,2014,South West London,PM10 particulate matter (Hourly measured),17.8348666324337
-1136,2015,South West London,PM10 particulate matter (Hourly measured),18.75926506187874
-1137,2016,South West London,PM10 particulate matter (Hourly measured),20.061102637558445
-1138,2017,South West London,PM10 particulate matter (Hourly measured),19.357674085804643
-1139,2018,South West London,PM10 particulate matter (Hourly measured),19.636448477796364
-1140,2019,South West London,PM10 particulate matter (Hourly measured),19.308374855572463
-1141,2020,South West London,PM10 particulate matter (Hourly measured),17.851744709696792
-1142,2004,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.472581219594478
-1143,2005,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.627333663541854
-1144,2006,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.51965087704162
-1145,2007,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.742162037786258
-1146,2008,Surrey Heartlands,PM10 particulate matter (Hourly measured),29.40550481742796
-1147,2009,Surrey Heartlands,PM10 particulate matter (Hourly measured),23.472568561809798
-1148,2010,Surrey Heartlands,PM10 particulate matter (Hourly measured),24.691393315316926
-1149,2011,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.431665076979094
-1150,2012,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.31782522601428
-1151,2013,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.68049644431042
-1152,2014,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.961303204552365
-1153,2015,Surrey Heartlands,PM10 particulate matter (Hourly measured),17.297834529344204
-1154,2016,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.10954053558864
-1155,2017,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.636549568420335
-1156,2018,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.511909173033953
-1157,2019,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.489248316762623
-1158,2020,Surrey Heartlands,PM10 particulate matter (Hourly measured),13.300470081324182
-1159,2004,Watford,PM10 particulate matter (Hourly measured),24.2009173885897
-1160,2005,Watford,PM10 particulate matter (Hourly measured),24.798499136129166
-1161,2006,Watford,PM10 particulate matter (Hourly measured),23.5305517946566
-1162,2007,Watford,PM10 particulate matter (Hourly measured),23.221057177476002
-1163,2008,Watford,PM10 particulate matter (Hourly measured),21.123615861857893
-1164,2009,Watford,PM10 particulate matter (Hourly measured),21.864278641480237
-1165,2010,Watford,PM10 particulate matter (Hourly measured),22.718199554223887
-1166,2011,Watford,PM10 particulate matter (Hourly measured),24.51266701443069
-1167,2012,Watford,PM10 particulate matter (Hourly measured),21.794203034165484
-1168,2013,Watford,PM10 particulate matter (Hourly measured),23.628673170466953
-1169,2014,Watford,PM10 particulate matter (Hourly measured),20.767375200209635
-1170,2015,Watford,PM10 particulate matter (Hourly measured),21.838145406792478
-1171,2016,Watford,PM10 particulate matter (Hourly measured),14.269256335847759
-1172,2017,Watford,PM10 particulate matter (Hourly measured),13.761175309263376
-1173,2018,Watford,PM10 particulate matter (Hourly measured),14.98304824030477
-1174,2019,Watford,PM10 particulate matter (Hourly measured),15.05591437388225
-1175,2020,Watford,PM10 particulate matter (Hourly measured),13.758944803816775
-1176,2020,Buckinghamshire,PM2.5 particulate matter (Hourly measured),
-1177,2004,Ealing,PM2.5 particulate matter (Hourly measured),15.391342273253397
-1178,2005,Ealing,PM2.5 particulate matter (Hourly measured),21.009842207540355
-1179,2006,Ealing,PM2.5 particulate matter (Hourly measured),18.450044804007803
-1180,2007,Ealing,PM2.5 particulate matter (Hourly measured),
-1181,2008,Ealing,PM2.5 particulate matter (Hourly measured),11.795320539967483
-1182,2009,Ealing,PM2.5 particulate matter (Hourly measured),11.207386516207691
-1183,2010,Ealing,PM2.5 particulate matter (Hourly measured),11.375742418228214
-1184,2011,Ealing,PM2.5 particulate matter (Hourly measured),13.148969639523106
-1185,2012,Ealing,PM2.5 particulate matter (Hourly measured),9.808660086371969
-1186,2013,Ealing,PM2.5 particulate matter (Hourly measured),9.885007293789224
-1187,2014,Ealing,PM2.5 particulate matter (Hourly measured),11.0727294379344
-1188,2015,Ealing,PM2.5 particulate matter (Hourly measured),11.516187591693607
-1189,2016,Ealing,PM2.5 particulate matter (Hourly measured),12.924810606060607
-1190,2017,Ealing,PM2.5 particulate matter (Hourly measured),
-1191,2018,Ealing,PM2.5 particulate matter (Hourly measured),
-1192,2019,Ealing,PM2.5 particulate matter (Hourly measured),
-1193,2020,Ealing,PM2.5 particulate matter (Hourly measured),
-1194,2004,East Berkshire,PM2.5 particulate matter (Hourly measured),
-1195,2005,East Berkshire,PM2.5 particulate matter (Hourly measured),10.116928683719937
-1196,2006,East Berkshire,PM2.5 particulate matter (Hourly measured),8.211002494757558
-1197,2007,East Berkshire,PM2.5 particulate matter (Hourly measured),10.1113342936477
-1198,2008,East Berkshire,PM2.5 particulate matter (Hourly measured),8.040837159745239
-1199,2009,East Berkshire,PM2.5 particulate matter (Hourly measured),9.241056124336303
-1200,2010,East Berkshire,PM2.5 particulate matter (Hourly measured),7.212730283467131
-1201,2011,East Berkshire,PM2.5 particulate matter (Hourly measured),11.023208946257276
-1202,2012,East Berkshire,PM2.5 particulate matter (Hourly measured),9.032873535724471
-1203,2013,East Berkshire,PM2.5 particulate matter (Hourly measured),8.848093391828135
-1204,2014,East Berkshire,PM2.5 particulate matter (Hourly measured),7.685846437182931
-1205,2015,East Berkshire,PM2.5 particulate matter (Hourly measured),6.439087096655967
-1206,2016,East Berkshire,PM2.5 particulate matter (Hourly measured),5.721706686906419
-1207,2017,East Berkshire,PM2.5 particulate matter (Hourly measured),6.64724855289963
-1208,2018,East Berkshire,PM2.5 particulate matter (Hourly measured),6.40051623012495
-1209,2019,East Berkshire,PM2.5 particulate matter (Hourly measured),6.671495808328704
-1210,2020,East Berkshire,PM2.5 particulate matter (Hourly measured),7.578336794312527
-1211,2004,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1212,2005,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1213,2006,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1214,2007,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1215,2008,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1216,2009,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1217,2011,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1218,2012,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1219,2013,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1220,2014,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1221,2015,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1222,2016,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1223,2017,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1224,2018,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
-1225,2019,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),15.103699552241885
-1226,2020,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),13.631647532641097
-1227,2004,Hillingdon,PM2.5 particulate matter (Hourly measured),12.248355810642499
-1228,2005,Hillingdon,PM2.5 particulate matter (Hourly measured),12.105307275202694
-1229,2006,Hillingdon,PM2.5 particulate matter (Hourly measured),12.929494478950998
-1230,2007,Hillingdon,PM2.5 particulate matter (Hourly measured),13.293053087253721
-1231,2008,Hillingdon,PM2.5 particulate matter (Hourly measured),9.66325123808202
-1232,2009,Hillingdon,PM2.5 particulate matter (Hourly measured),9.86844515587707
-1233,2010,Hillingdon,PM2.5 particulate matter (Hourly measured),9.49128123940921
-1234,2011,Hillingdon,PM2.5 particulate matter (Hourly measured),11.23843413246185
-1235,2012,Hillingdon,PM2.5 particulate matter (Hourly measured),8.59516415766024
-1236,2013,Hillingdon,PM2.5 particulate matter (Hourly measured),9.73434263500146
-1237,2014,Hillingdon,PM2.5 particulate matter (Hourly measured),8.845459043264858
-1238,2015,Hillingdon,PM2.5 particulate matter (Hourly measured),8.040034847403996
-1239,2016,Hillingdon,PM2.5 particulate matter (Hourly measured),8.32646681812866
-1240,2017,Hillingdon,PM2.5 particulate matter (Hourly measured),8.088831218252126
-1241,2018,Hillingdon,PM2.5 particulate matter (Hourly measured),7.8786129109688785
-1242,2019,Hillingdon,PM2.5 particulate matter (Hourly measured),7.945292151259446
-1243,2020,Hillingdon,PM2.5 particulate matter (Hourly measured),6.760637012265761
-1244,2004,Hounslow,PM2.5 particulate matter (Hourly measured),
-1245,2005,Hounslow,PM2.5 particulate matter (Hourly measured),
-1246,2006,Hounslow,PM2.5 particulate matter (Hourly measured),
-1247,2007,Hounslow,PM2.5 particulate matter (Hourly measured),
-1248,2008,Hounslow,PM2.5 particulate matter (Hourly measured),
-1249,2009,Hounslow,PM2.5 particulate matter (Hourly measured),
-1250,2010,Hounslow,PM2.5 particulate matter (Hourly measured),
-1251,2011,Hounslow,PM2.5 particulate matter (Hourly measured),
-1252,2012,Hounslow,PM2.5 particulate matter (Hourly measured),
-1253,2013,Hounslow,PM2.5 particulate matter (Hourly measured),
-1254,2014,Hounslow,PM2.5 particulate matter (Hourly measured),
-1255,2015,Hounslow,PM2.5 particulate matter (Hourly measured),
-1256,2016,Hounslow,PM2.5 particulate matter (Hourly measured),
-1257,2017,Hounslow,PM2.5 particulate matter (Hourly measured),
-1258,2018,Hounslow,PM2.5 particulate matter (Hourly measured),
-1259,2019,Hounslow,PM2.5 particulate matter (Hourly measured),
-1260,2020,Hounslow,PM2.5 particulate matter (Hourly measured),
-1261,2004,Oxford,PM2.5 particulate matter (Hourly measured),
-1262,2005,Oxford,PM2.5 particulate matter (Hourly measured),
-1263,2006,Oxford,PM2.5 particulate matter (Hourly measured),
-1264,2007,Oxford,PM2.5 particulate matter (Hourly measured),
-1265,2008,Oxford,PM2.5 particulate matter (Hourly measured),
-1266,2009,Oxford,PM2.5 particulate matter (Hourly measured),
-1267,2010,Oxford,PM2.5 particulate matter (Hourly measured),
-1268,2011,Oxford,PM2.5 particulate matter (Hourly measured),
-1269,2012,Oxford,PM2.5 particulate matter (Hourly measured),
-1270,2013,Oxford,PM2.5 particulate matter (Hourly measured),
-1271,2014,Oxford,PM2.5 particulate matter (Hourly measured),
-1272,2015,Oxford,PM2.5 particulate matter (Hourly measured),
-1273,2016,Oxford,PM2.5 particulate matter (Hourly measured),
-1274,2017,Oxford,PM2.5 particulate matter (Hourly measured),
-1275,2018,Oxford,PM2.5 particulate matter (Hourly measured),
-1276,2019,Oxford,PM2.5 particulate matter (Hourly measured),
-1277,2020,Oxford,PM2.5 particulate matter (Hourly measured),
-1278,2006,Reading,PM2.5 particulate matter (Hourly measured),
-1279,2007,Reading,PM2.5 particulate matter (Hourly measured),
-1280,2008,Reading,PM2.5 particulate matter (Hourly measured),
-1281,2009,Reading,PM2.5 particulate matter (Hourly measured),
-1282,2010,Reading,PM2.5 particulate matter (Hourly measured),
-1283,2011,Reading,PM2.5 particulate matter (Hourly measured),
-1284,2012,Reading,PM2.5 particulate matter (Hourly measured),
-1285,2013,Reading,PM2.5 particulate matter (Hourly measured),
-1286,2014,Reading,PM2.5 particulate matter (Hourly measured),
-1287,2015,Reading,PM2.5 particulate matter (Hourly measured),
-1288,2016,Reading,PM2.5 particulate matter (Hourly measured),
-1289,2017,Reading,PM2.5 particulate matter (Hourly measured),
-1290,2018,Reading,PM2.5 particulate matter (Hourly measured),
-1291,2019,Reading,PM2.5 particulate matter (Hourly measured),
-1292,2020,Reading,PM2.5 particulate matter (Hourly measured),
-1293,2004,South West London,PM2.5 particulate matter (Hourly measured),
-1294,2005,South West London,PM2.5 particulate matter (Hourly measured),
-1295,2006,South West London,PM2.5 particulate matter (Hourly measured),
-1296,2007,South West London,PM2.5 particulate matter (Hourly measured),
-1297,2008,South West London,PM2.5 particulate matter (Hourly measured),20.059371980676328
-1298,2009,South West London,PM2.5 particulate matter (Hourly measured),13.321598309730412
-1299,2010,South West London,PM2.5 particulate matter (Hourly measured),14.438372515811963
-1300,2011,South West London,PM2.5 particulate matter (Hourly measured),17.354287620645245
-1301,2012,South West London,PM2.5 particulate matter (Hourly measured),13.552664502276757
-1302,2013,South West London,PM2.5 particulate matter (Hourly measured),16.836224555542348
-1303,2014,South West London,PM2.5 particulate matter (Hourly measured),
-1304,2015,South West London,PM2.5 particulate matter (Hourly measured),
-1305,2016,South West London,PM2.5 particulate matter (Hourly measured),
-1306,2017,South West London,PM2.5 particulate matter (Hourly measured),
-1307,2018,South West London,PM2.5 particulate matter (Hourly measured),
-1308,2019,South West London,PM2.5 particulate matter (Hourly measured),
-1309,2020,South West London,PM2.5 particulate matter (Hourly measured),
-1310,2004,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),11.631702891569878
-1311,2005,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),11.96573791453155
-1312,2006,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),12.237865972145531
-1313,2007,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),12.198261361930347
-1314,2008,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),11.502066787841112
-1315,2009,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.286653666348341
-1316,2010,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.669508286826774
-1317,2011,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.439104380344425
-1318,2012,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.758064056670998
-1319,2013,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.9703922743585
-1320,2014,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.016992674593208
-1321,2015,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.028487017688663
-1322,2016,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.498990713930988
-1323,2017,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),8.667444291788236
-1324,2018,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.38640495334197
-1325,2019,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.690723606998763
-1326,2020,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),7.923796628647173
-1327,2004,Watford,PM2.5 particulate matter (Hourly measured),
-1328,2005,Watford,PM2.5 particulate matter (Hourly measured),
-1329,2006,Watford,PM2.5 particulate matter (Hourly measured),
-1330,2007,Watford,PM2.5 particulate matter (Hourly measured),
-1331,2008,Watford,PM2.5 particulate matter (Hourly measured),
-1332,2009,Watford,PM2.5 particulate matter (Hourly measured),
-1333,2010,Watford,PM2.5 particulate matter (Hourly measured),
-1334,2011,Watford,PM2.5 particulate matter (Hourly measured),
-1335,2012,Watford,PM2.5 particulate matter (Hourly measured),
-1336,2013,Watford,PM2.5 particulate matter (Hourly measured),
-1337,2014,Watford,PM2.5 particulate matter (Hourly measured),
-1338,2015,Watford,PM2.5 particulate matter (Hourly measured),
-1339,2016,Watford,PM2.5 particulate matter (Hourly measured),13.86352449223417
-1340,2017,Watford,PM2.5 particulate matter (Hourly measured),9.046639613228374
-1341,2018,Watford,PM2.5 particulate matter (Hourly measured),9.268622047463213
-1342,2019,Watford,PM2.5 particulate matter (Hourly measured),9.476284379011851
-1343,2020,Watford,PM2.5 particulate matter (Hourly measured),7.877281834536983
-1344,2020,Buckinghamshire,Sulphur dioxide,
-1345,2004,Ealing,Sulphur dioxide,10.043231944507777
-1346,2005,Ealing,Sulphur dioxide,8.370424824312302
-1347,2006,Ealing,Sulphur dioxide,6.206311289688668
-1348,2007,Ealing,Sulphur dioxide,6.530477737026352
-1349,2008,Ealing,Sulphur dioxide,5.656651844069671
-1350,2009,Ealing,Sulphur dioxide,10.177289388025422
-1351,2010,Ealing,Sulphur dioxide,8.950074745199544
-1352,2011,Ealing,Sulphur dioxide,4.750594092342186
-1353,2012,Ealing,Sulphur dioxide,1.2119531815217388
-1354,2013,Ealing,Sulphur dioxide,
-1355,2014,Ealing,Sulphur dioxide,
-1356,2015,Ealing,Sulphur dioxide,
-1357,2016,Ealing,Sulphur dioxide,
-1358,2017,Ealing,Sulphur dioxide,
-1359,2018,Ealing,Sulphur dioxide,
-1360,2019,Ealing,Sulphur dioxide,
-1361,2020,Ealing,Sulphur dioxide,
-1362,2004,East Berkshire,Sulphur dioxide,
-1363,2005,East Berkshire,Sulphur dioxide,
-1364,2006,East Berkshire,Sulphur dioxide,
-1365,2007,East Berkshire,Sulphur dioxide,
-1366,2008,East Berkshire,Sulphur dioxide,
-1367,2009,East Berkshire,Sulphur dioxide,
-1368,2010,East Berkshire,Sulphur dioxide,
-1369,2011,East Berkshire,Sulphur dioxide,
-1370,2012,East Berkshire,Sulphur dioxide,
-1371,2013,East Berkshire,Sulphur dioxide,
-1372,2014,East Berkshire,Sulphur dioxide,
-1373,2015,East Berkshire,Sulphur dioxide,
-1374,2016,East Berkshire,Sulphur dioxide,
-1375,2017,East Berkshire,Sulphur dioxide,
-1376,2018,East Berkshire,Sulphur dioxide,
-1377,2019,East Berkshire,Sulphur dioxide,
-1378,2020,East Berkshire,Sulphur dioxide,
-1379,2004,Hammersmith and Fulham,Sulphur dioxide,9.171104938437788
-1380,2005,Hammersmith and Fulham,Sulphur dioxide,8.271812482762467
-1381,2006,Hammersmith and Fulham,Sulphur dioxide,6.0460267731180295
-1382,2007,Hammersmith and Fulham,Sulphur dioxide,4.742114370779755
-1383,2008,Hammersmith and Fulham,Sulphur dioxide,
-1384,2009,Hammersmith and Fulham,Sulphur dioxide,
-1385,2011,Hammersmith and Fulham,Sulphur dioxide,
-1386,2012,Hammersmith and Fulham,Sulphur dioxide,
-1387,2013,Hammersmith and Fulham,Sulphur dioxide,
-1388,2014,Hammersmith and Fulham,Sulphur dioxide,
-1389,2015,Hammersmith and Fulham,Sulphur dioxide,
-1390,2016,Hammersmith and Fulham,Sulphur dioxide,
-1391,2017,Hammersmith and Fulham,Sulphur dioxide,
-1392,2018,Hammersmith and Fulham,Sulphur dioxide,
-1393,2019,Hammersmith and Fulham,Sulphur dioxide,
-1394,2020,Hammersmith and Fulham,Sulphur dioxide,
-1395,2004,Hillingdon,Sulphur dioxide,
-1396,2005,Hillingdon,Sulphur dioxide,
-1397,2006,Hillingdon,Sulphur dioxide,
-1398,2007,Hillingdon,Sulphur dioxide,
-1399,2008,Hillingdon,Sulphur dioxide,
-1400,2009,Hillingdon,Sulphur dioxide,
-1401,2010,Hillingdon,Sulphur dioxide,
-1402,2011,Hillingdon,Sulphur dioxide,
-1403,2012,Hillingdon,Sulphur dioxide,
-1404,2013,Hillingdon,Sulphur dioxide,
-1405,2014,Hillingdon,Sulphur dioxide,
-1406,2015,Hillingdon,Sulphur dioxide,
-1407,2016,Hillingdon,Sulphur dioxide,
-1408,2017,Hillingdon,Sulphur dioxide,
-1409,2018,Hillingdon,Sulphur dioxide,
-1410,2019,Hillingdon,Sulphur dioxide,
-1411,2020,Hillingdon,Sulphur dioxide,
-1412,2004,Hounslow,Sulphur dioxide,4.155740473629969
-1413,2005,Hounslow,Sulphur dioxide,4.029333474825582
-1414,2006,Hounslow,Sulphur dioxide,3.0333280360619392
-1415,2007,Hounslow,Sulphur dioxide,2.696676343647221
-1416,2008,Hounslow,Sulphur dioxide,2.80684266907085
-1417,2009,Hounslow,Sulphur dioxide,7.971789457802902
-1418,2010,Hounslow,Sulphur dioxide,0.8519104084321476
-1419,2011,Hounslow,Sulphur dioxide,-0.019038912575752028
-1420,2012,Hounslow,Sulphur dioxide,2.173683352033509
-1421,2013,Hounslow,Sulphur dioxide,1.601606597282861
-1422,2014,Hounslow,Sulphur dioxide,1.858234573189595
-1423,2015,Hounslow,Sulphur dioxide,1.491848415887222
-1424,2016,Hounslow,Sulphur dioxide,1.531785693715487
-1425,2017,Hounslow,Sulphur dioxide,1.0608677094868952
-1426,2018,Hounslow,Sulphur dioxide,1.2060372259081493
-1427,2019,Hounslow,Sulphur dioxide,1.8199897268994778
-1428,2020,Hounslow,Sulphur dioxide,2.069656385177153
-1429,2004,Oxford,Sulphur dioxide,
-1430,2005,Oxford,Sulphur dioxide,
-1431,2006,Oxford,Sulphur dioxide,
-1432,2007,Oxford,Sulphur dioxide,
-1433,2008,Oxford,Sulphur dioxide,
-1434,2009,Oxford,Sulphur dioxide,
-1435,2010,Oxford,Sulphur dioxide,
-1436,2011,Oxford,Sulphur dioxide,
-1437,2012,Oxford,Sulphur dioxide,
-1438,2013,Oxford,Sulphur dioxide,
-1439,2014,Oxford,Sulphur dioxide,
-1440,2015,Oxford,Sulphur dioxide,
-1441,2016,Oxford,Sulphur dioxide,
-1442,2017,Oxford,Sulphur dioxide,
-1443,2018,Oxford,Sulphur dioxide,
-1444,2019,Oxford,Sulphur dioxide,
-1445,2020,Oxford,Sulphur dioxide,
-1446,2006,Reading,Sulphur dioxide,
-1447,2007,Reading,Sulphur dioxide,
-1448,2008,Reading,Sulphur dioxide,
-1449,2009,Reading,Sulphur dioxide,
-1450,2010,Reading,Sulphur dioxide,
-1451,2011,Reading,Sulphur dioxide,
-1452,2012,Reading,Sulphur dioxide,
-1453,2013,Reading,Sulphur dioxide,
-1454,2014,Reading,Sulphur dioxide,
-1455,2015,Reading,Sulphur dioxide,
-1456,2016,Reading,Sulphur dioxide,
-1457,2017,Reading,Sulphur dioxide,
-1458,2018,Reading,Sulphur dioxide,
-1459,2019,Reading,Sulphur dioxide,
-1460,2020,Reading,Sulphur dioxide,
-1461,2004,South West London,Sulphur dioxide,3.6766297524963676
-1462,2005,South West London,Sulphur dioxide,3.024966778016487
-1463,2006,South West London,Sulphur dioxide,3.4819578766882224
-1464,2007,South West London,Sulphur dioxide,3.706443339957739
-1465,2008,South West London,Sulphur dioxide,
-1466,2009,South West London,Sulphur dioxide,
-1467,2010,South West London,Sulphur dioxide,
-1468,2011,South West London,Sulphur dioxide,
-1469,2012,South West London,Sulphur dioxide,
-1470,2013,South West London,Sulphur dioxide,
-1471,2014,South West London,Sulphur dioxide,
-1472,2015,South West London,Sulphur dioxide,
-1473,2016,South West London,Sulphur dioxide,
-1474,2017,South West London,Sulphur dioxide,
-1475,2018,South West London,Sulphur dioxide,
-1476,2019,South West London,Sulphur dioxide,
-1477,2020,South West London,Sulphur dioxide,
-1478,2004,Surrey Heartlands,Sulphur dioxide,2.9746653578090463
-1479,2005,Surrey Heartlands,Sulphur dioxide,2.004275568566363
-1480,2006,Surrey Heartlands,Sulphur dioxide,2.1142969388133332
-1481,2007,Surrey Heartlands,Sulphur dioxide,1.6756255327349385
-1482,2008,Surrey Heartlands,Sulphur dioxide,1.5384090491570992
-1483,2009,Surrey Heartlands,Sulphur dioxide,1.5886554467179486
-1484,2010,Surrey Heartlands,Sulphur dioxide,
-1485,2011,Surrey Heartlands,Sulphur dioxide,
-1486,2012,Surrey Heartlands,Sulphur dioxide,
-1487,2013,Surrey Heartlands,Sulphur dioxide,
-1488,2014,Surrey Heartlands,Sulphur dioxide,
-1489,2015,Surrey Heartlands,Sulphur dioxide,
-1490,2016,Surrey Heartlands,Sulphur dioxide,
-1491,2017,Surrey Heartlands,Sulphur dioxide,
-1492,2018,Surrey Heartlands,Sulphur dioxide,
-1493,2019,Surrey Heartlands,Sulphur dioxide,
-1494,2020,Surrey Heartlands,Sulphur dioxide,
-1495,2004,Watford,Sulphur dioxide,
-1496,2005,Watford,Sulphur dioxide,
-1497,2006,Watford,Sulphur dioxide,
-1498,2007,Watford,Sulphur dioxide,
-1499,2008,Watford,Sulphur dioxide,
-1500,2009,Watford,Sulphur dioxide,
-1501,2010,Watford,Sulphur dioxide,
-1502,2011,Watford,Sulphur dioxide,
-1503,2012,Watford,Sulphur dioxide,
-1504,2013,Watford,Sulphur dioxide,
-1505,2014,Watford,Sulphur dioxide,
-1506,2015,Watford,Sulphur dioxide,
-1507,2016,Watford,Sulphur dioxide,
-1508,2017,Watford,Sulphur dioxide,
-1509,2018,Watford,Sulphur dioxide,
-1510,2019,Watford,Sulphur dioxide,
-1511,2020,Watford,Sulphur dioxide,
+35,2008,Guildford,Carbon monoxide,
+36,2018,Guildford,Carbon monoxide,
+37,2019,Guildford,Carbon monoxide,
+38,2020,Guildford,Carbon monoxide,
+39,2004,Hammersmith and Fulham,Carbon monoxide,
+40,2005,Hammersmith and Fulham,Carbon monoxide,
+41,2006,Hammersmith and Fulham,Carbon monoxide,
+42,2007,Hammersmith and Fulham,Carbon monoxide,
+43,2008,Hammersmith and Fulham,Carbon monoxide,
+44,2009,Hammersmith and Fulham,Carbon monoxide,
+45,2011,Hammersmith and Fulham,Carbon monoxide,
+46,2012,Hammersmith and Fulham,Carbon monoxide,
+47,2013,Hammersmith and Fulham,Carbon monoxide,
+48,2014,Hammersmith and Fulham,Carbon monoxide,
+49,2015,Hammersmith and Fulham,Carbon monoxide,
+50,2016,Hammersmith and Fulham,Carbon monoxide,
+51,2017,Hammersmith and Fulham,Carbon monoxide,
+52,2018,Hammersmith and Fulham,Carbon monoxide,
+53,2019,Hammersmith and Fulham,Carbon monoxide,
+54,2020,Hammersmith and Fulham,Carbon monoxide,
+55,2004,Hillingdon,Carbon monoxide,
+56,2005,Hillingdon,Carbon monoxide,
+57,2006,Hillingdon,Carbon monoxide,
+58,2007,Hillingdon,Carbon monoxide,
+59,2008,Hillingdon,Carbon monoxide,
+60,2009,Hillingdon,Carbon monoxide,
+61,2010,Hillingdon,Carbon monoxide,
+62,2011,Hillingdon,Carbon monoxide,
+63,2012,Hillingdon,Carbon monoxide,
+64,2013,Hillingdon,Carbon monoxide,
+65,2014,Hillingdon,Carbon monoxide,
+66,2015,Hillingdon,Carbon monoxide,
+67,2016,Hillingdon,Carbon monoxide,
+68,2017,Hillingdon,Carbon monoxide,
+69,2018,Hillingdon,Carbon monoxide,
+70,2019,Hillingdon,Carbon monoxide,
+71,2020,Hillingdon,Carbon monoxide,
+72,2004,Hounslow,Carbon monoxide,0.8174028579925703
+73,2005,Hounslow,Carbon monoxide,0.8392115285668963
+74,2006,Hounslow,Carbon monoxide,0.5013910806898613
+75,2007,Hounslow,Carbon monoxide,0.5391916818669604
+76,2008,Hounslow,Carbon monoxide,
+77,2009,Hounslow,Carbon monoxide,
+78,2010,Hounslow,Carbon monoxide,
+79,2011,Hounslow,Carbon monoxide,
+80,2012,Hounslow,Carbon monoxide,
+81,2013,Hounslow,Carbon monoxide,
+82,2014,Hounslow,Carbon monoxide,
+83,2015,Hounslow,Carbon monoxide,
+84,2016,Hounslow,Carbon monoxide,
+85,2017,Hounslow,Carbon monoxide,
+86,2018,Hounslow,Carbon monoxide,
+87,2019,Hounslow,Carbon monoxide,
+88,2020,Hounslow,Carbon monoxide,
+89,2004,Oxford,Carbon monoxide,
+90,2005,Oxford,Carbon monoxide,
+91,2006,Oxford,Carbon monoxide,
+92,2007,Oxford,Carbon monoxide,
+93,2008,Oxford,Carbon monoxide,
+94,2009,Oxford,Carbon monoxide,
+95,2010,Oxford,Carbon monoxide,
+96,2011,Oxford,Carbon monoxide,
+97,2012,Oxford,Carbon monoxide,
+98,2013,Oxford,Carbon monoxide,
+99,2014,Oxford,Carbon monoxide,
+100,2015,Oxford,Carbon monoxide,
+101,2016,Oxford,Carbon monoxide,
+102,2017,Oxford,Carbon monoxide,
+103,2018,Oxford,Carbon monoxide,
+104,2019,Oxford,Carbon monoxide,
+105,2020,Oxford,Carbon monoxide,
+106,2006,Reading,Carbon monoxide,
+107,2007,Reading,Carbon monoxide,
+108,2008,Reading,Carbon monoxide,
+109,2009,Reading,Carbon monoxide,
+110,2010,Reading,Carbon monoxide,
+111,2011,Reading,Carbon monoxide,
+112,2012,Reading,Carbon monoxide,
+113,2013,Reading,Carbon monoxide,
+114,2014,Reading,Carbon monoxide,
+115,2015,Reading,Carbon monoxide,
+116,2016,Reading,Carbon monoxide,
+117,2017,Reading,Carbon monoxide,
+118,2018,Reading,Carbon monoxide,
+119,2019,Reading,Carbon monoxide,
+120,2020,Reading,Carbon monoxide,
+121,2004,South West London,Carbon monoxide,
+122,2005,South West London,Carbon monoxide,
+123,2006,South West London,Carbon monoxide,
+124,2007,South West London,Carbon monoxide,
+125,2008,South West London,Carbon monoxide,
+126,2009,South West London,Carbon monoxide,
+127,2010,South West London,Carbon monoxide,
+128,2011,South West London,Carbon monoxide,
+129,2012,South West London,Carbon monoxide,
+130,2013,South West London,Carbon monoxide,
+131,2014,South West London,Carbon monoxide,
+132,2015,South West London,Carbon monoxide,
+133,2016,South West London,Carbon monoxide,
+134,2017,South West London,Carbon monoxide,
+135,2018,South West London,Carbon monoxide,
+136,2019,South West London,Carbon monoxide,
+137,2020,South West London,Carbon monoxide,
+138,2004,Surrey Heartlands,Carbon monoxide,0.19540337005191258
+139,2005,Surrey Heartlands,Carbon monoxide,0.24808829259807075
+140,2006,Surrey Heartlands,Carbon monoxide,0.3064918217269941
+141,2007,Surrey Heartlands,Carbon monoxide,0.28261814563173626
+142,2008,Surrey Heartlands,Carbon monoxide,0.2009010843354234
+143,2009,Surrey Heartlands,Carbon monoxide,0.28185296380769226
+144,2010,Surrey Heartlands,Carbon monoxide,
+145,2011,Surrey Heartlands,Carbon monoxide,
+146,2012,Surrey Heartlands,Carbon monoxide,
+147,2013,Surrey Heartlands,Carbon monoxide,
+148,2014,Surrey Heartlands,Carbon monoxide,
+149,2015,Surrey Heartlands,Carbon monoxide,
+150,2016,Surrey Heartlands,Carbon monoxide,
+151,2017,Surrey Heartlands,Carbon monoxide,
+152,2018,Surrey Heartlands,Carbon monoxide,
+153,2019,Surrey Heartlands,Carbon monoxide,
+154,2020,Surrey Heartlands,Carbon monoxide,
+155,2004,Watford,Carbon monoxide,
+156,2005,Watford,Carbon monoxide,
+157,2006,Watford,Carbon monoxide,
+158,2007,Watford,Carbon monoxide,
+159,2008,Watford,Carbon monoxide,
+160,2009,Watford,Carbon monoxide,
+161,2010,Watford,Carbon monoxide,
+162,2011,Watford,Carbon monoxide,
+163,2012,Watford,Carbon monoxide,
+164,2013,Watford,Carbon monoxide,
+165,2014,Watford,Carbon monoxide,
+166,2015,Watford,Carbon monoxide,
+167,2016,Watford,Carbon monoxide,
+168,2017,Watford,Carbon monoxide,
+169,2018,Watford,Carbon monoxide,
+170,2019,Watford,Carbon monoxide,
+171,2020,Watford,Carbon monoxide,
+172,2020,Buckinghamshire,Nitric Oxide,33.78152532786745
+173,2004,Ealing,Nitric Oxide,
+174,2005,Ealing,Nitric Oxide,
+175,2006,Ealing,Nitric Oxide,
+176,2007,Ealing,Nitric Oxide,
+177,2008,Ealing,Nitric Oxide,
+178,2009,Ealing,Nitric Oxide,
+179,2010,Ealing,Nitric Oxide,
+180,2011,Ealing,Nitric Oxide,
+181,2012,Ealing,Nitric Oxide,
+182,2013,Ealing,Nitric Oxide,
+183,2014,Ealing,Nitric Oxide,
+184,2015,Ealing,Nitric Oxide,
+185,2016,Ealing,Nitric Oxide,
+186,2017,Ealing,Nitric Oxide,
+187,2018,Ealing,Nitric Oxide,
+188,2019,Ealing,Nitric Oxide,
+189,2020,Ealing,Nitric Oxide,
+190,2004,East Berkshire,Nitric Oxide,
+191,2005,East Berkshire,Nitric Oxide,
+192,2006,East Berkshire,Nitric Oxide,
+193,2007,East Berkshire,Nitric Oxide,
+194,2008,East Berkshire,Nitric Oxide,
+195,2009,East Berkshire,Nitric Oxide,
+196,2010,East Berkshire,Nitric Oxide,
+197,2011,East Berkshire,Nitric Oxide,
+198,2012,East Berkshire,Nitric Oxide,
+199,2013,East Berkshire,Nitric Oxide,
+200,2014,East Berkshire,Nitric Oxide,
+201,2015,East Berkshire,Nitric Oxide,
+202,2016,East Berkshire,Nitric Oxide,
+203,2017,East Berkshire,Nitric Oxide,
+204,2018,East Berkshire,Nitric Oxide,
+205,2019,East Berkshire,Nitric Oxide,0.9558337831871841
+206,2020,East Berkshire,Nitric Oxide,
+207,2008,Guildford,Nitric Oxide,
+208,2018,Guildford,Nitric Oxide,
+209,2019,Guildford,Nitric Oxide,
+210,2020,Guildford,Nitric Oxide,
+211,2004,Hammersmith and Fulham,Nitric Oxide,
+212,2005,Hammersmith and Fulham,Nitric Oxide,
+213,2006,Hammersmith and Fulham,Nitric Oxide,
+214,2007,Hammersmith and Fulham,Nitric Oxide,
+215,2008,Hammersmith and Fulham,Nitric Oxide,
+216,2009,Hammersmith and Fulham,Nitric Oxide,
+217,2011,Hammersmith and Fulham,Nitric Oxide,
+218,2012,Hammersmith and Fulham,Nitric Oxide,
+219,2013,Hammersmith and Fulham,Nitric Oxide,
+220,2014,Hammersmith and Fulham,Nitric Oxide,
+221,2015,Hammersmith and Fulham,Nitric Oxide,
+222,2016,Hammersmith and Fulham,Nitric Oxide,
+223,2017,Hammersmith and Fulham,Nitric Oxide,
+224,2018,Hammersmith and Fulham,Nitric Oxide,
+225,2019,Hammersmith and Fulham,Nitric Oxide,
+226,2020,Hammersmith and Fulham,Nitric Oxide,
+227,2004,Hillingdon,Nitric Oxide,
+228,2005,Hillingdon,Nitric Oxide,
+229,2006,Hillingdon,Nitric Oxide,
+230,2007,Hillingdon,Nitric Oxide,
+231,2008,Hillingdon,Nitric Oxide,
+232,2009,Hillingdon,Nitric Oxide,
+233,2010,Hillingdon,Nitric Oxide,
+234,2011,Hillingdon,Nitric Oxide,
+235,2012,Hillingdon,Nitric Oxide,
+236,2013,Hillingdon,Nitric Oxide,
+237,2014,Hillingdon,Nitric Oxide,
+238,2015,Hillingdon,Nitric Oxide,
+239,2016,Hillingdon,Nitric Oxide,
+240,2017,Hillingdon,Nitric Oxide,
+241,2018,Hillingdon,Nitric Oxide,
+242,2019,Hillingdon,Nitric Oxide,
+243,2020,Hillingdon,Nitric Oxide,
+244,2004,Hounslow,Nitric Oxide,50.48542333803122
+245,2005,Hounslow,Nitric Oxide,49.43905751839656
+246,2006,Hounslow,Nitric Oxide,41.02734424345923
+247,2007,Hounslow,Nitric Oxide,45.72990925910205
+248,2008,Hounslow,Nitric Oxide,40.84054962699075
+249,2009,Hounslow,Nitric Oxide,38.042349701234194
+250,2010,Hounslow,Nitric Oxide,32.643407485623364
+251,2011,Hounslow,Nitric Oxide,34.46007316438599
+252,2012,Hounslow,Nitric Oxide,42.47640685450005
+253,2013,Hounslow,Nitric Oxide,42.81351359211836
+254,2014,Hounslow,Nitric Oxide,42.56400003794261
+255,2015,Hounslow,Nitric Oxide,35.804772522254936
+256,2016,Hounslow,Nitric Oxide,44.262821870941984
+257,2017,Hounslow,Nitric Oxide,39.159836481232226
+258,2018,Hounslow,Nitric Oxide,27.602065990598756
+259,2019,Hounslow,Nitric Oxide,24.366061161613917
+260,2020,Hounslow,Nitric Oxide,15.773699114808943
+261,2004,Oxford,Nitric Oxide,
+262,2005,Oxford,Nitric Oxide,
+263,2006,Oxford,Nitric Oxide,
+264,2007,Oxford,Nitric Oxide,
+265,2008,Oxford,Nitric Oxide,
+266,2009,Oxford,Nitric Oxide,
+267,2010,Oxford,Nitric Oxide,
+268,2011,Oxford,Nitric Oxide,
+269,2012,Oxford,Nitric Oxide,
+270,2013,Oxford,Nitric Oxide,
+271,2014,Oxford,Nitric Oxide,
+272,2015,Oxford,Nitric Oxide,
+273,2016,Oxford,Nitric Oxide,
+274,2017,Oxford,Nitric Oxide,
+275,2018,Oxford,Nitric Oxide,
+276,2019,Oxford,Nitric Oxide,
+277,2020,Oxford,Nitric Oxide,
+278,2006,Reading,Nitric Oxide,
+279,2007,Reading,Nitric Oxide,
+280,2008,Reading,Nitric Oxide,
+281,2009,Reading,Nitric Oxide,
+282,2010,Reading,Nitric Oxide,
+283,2011,Reading,Nitric Oxide,
+284,2012,Reading,Nitric Oxide,
+285,2013,Reading,Nitric Oxide,
+286,2014,Reading,Nitric Oxide,
+287,2015,Reading,Nitric Oxide,
+288,2016,Reading,Nitric Oxide,
+289,2017,Reading,Nitric Oxide,
+290,2018,Reading,Nitric Oxide,
+291,2019,Reading,Nitric Oxide,
+292,2020,Reading,Nitric Oxide,
+293,2004,South West London,Nitric Oxide,
+294,2005,South West London,Nitric Oxide,
+295,2006,South West London,Nitric Oxide,
+296,2007,South West London,Nitric Oxide,
+297,2008,South West London,Nitric Oxide,
+298,2009,South West London,Nitric Oxide,
+299,2010,South West London,Nitric Oxide,
+300,2011,South West London,Nitric Oxide,
+301,2012,South West London,Nitric Oxide,
+302,2013,South West London,Nitric Oxide,
+303,2014,South West London,Nitric Oxide,
+304,2015,South West London,Nitric Oxide,
+305,2016,South West London,Nitric Oxide,
+306,2017,South West London,Nitric Oxide,
+307,2018,South West London,Nitric Oxide,
+308,2019,South West London,Nitric Oxide,
+309,2020,South West London,Nitric Oxide,
+310,2004,Surrey Heartlands,Nitric Oxide,
+311,2005,Surrey Heartlands,Nitric Oxide,
+312,2006,Surrey Heartlands,Nitric Oxide,
+313,2007,Surrey Heartlands,Nitric Oxide,
+314,2008,Surrey Heartlands,Nitric Oxide,
+315,2009,Surrey Heartlands,Nitric Oxide,
+316,2010,Surrey Heartlands,Nitric Oxide,
+317,2011,Surrey Heartlands,Nitric Oxide,
+318,2012,Surrey Heartlands,Nitric Oxide,
+319,2013,Surrey Heartlands,Nitric Oxide,
+320,2014,Surrey Heartlands,Nitric Oxide,
+321,2015,Surrey Heartlands,Nitric Oxide,
+322,2016,Surrey Heartlands,Nitric Oxide,
+323,2017,Surrey Heartlands,Nitric Oxide,
+324,2018,Surrey Heartlands,Nitric Oxide,
+325,2019,Surrey Heartlands,Nitric Oxide,
+326,2020,Surrey Heartlands,Nitric Oxide,
+327,2004,Watford,Nitric Oxide,
+328,2005,Watford,Nitric Oxide,
+329,2006,Watford,Nitric Oxide,
+330,2007,Watford,Nitric Oxide,
+331,2008,Watford,Nitric Oxide,
+332,2009,Watford,Nitric Oxide,
+333,2010,Watford,Nitric Oxide,
+334,2011,Watford,Nitric Oxide,
+335,2012,Watford,Nitric Oxide,
+336,2013,Watford,Nitric Oxide,
+337,2014,Watford,Nitric Oxide,
+338,2015,Watford,Nitric Oxide,
+339,2016,Watford,Nitric Oxide,
+340,2017,Watford,Nitric Oxide,
+341,2018,Watford,Nitric Oxide,
+342,2019,Watford,Nitric Oxide,
+343,2020,Watford,Nitric Oxide,
+344,2020,Buckinghamshire,Nitrogen dioxide,33.04202959964874
+345,2004,Ealing,Nitrogen dioxide,57.882937645478684
+346,2005,Ealing,Nitrogen dioxide,52.86297396999513
+347,2006,Ealing,Nitrogen dioxide,55.03563466083658
+348,2007,Ealing,Nitrogen dioxide,54.24769082229276
+349,2008,Ealing,Nitrogen dioxide,58.84837107652069
+350,2009,Ealing,Nitrogen dioxide,56.8886387733401
+351,2010,Ealing,Nitrogen dioxide,57.182302664915824
+352,2011,Ealing,Nitrogen dioxide,50.39484565398761
+353,2012,Ealing,Nitrogen dioxide,55.933676193527425
+354,2013,Ealing,Nitrogen dioxide,51.82006763521714
+355,2014,Ealing,Nitrogen dioxide,48.731111831016875
+356,2015,Ealing,Nitrogen dioxide,57.43133182161743
+357,2016,Ealing,Nitrogen dioxide,56.98691878740693
+358,2017,Ealing,Nitrogen dioxide,54.559601376011564
+359,2018,Ealing,Nitrogen dioxide,50.027932519595026
+360,2019,Ealing,Nitrogen dioxide,46.56658076254765
+361,2020,Ealing,Nitrogen dioxide,33.29407531490893
+362,2004,East Berkshire,Nitrogen dioxide,32.56806589466603
+363,2005,East Berkshire,Nitrogen dioxide,37.418354508315105
+364,2006,East Berkshire,Nitrogen dioxide,37.77894482729974
+365,2007,East Berkshire,Nitrogen dioxide,38.38131620975304
+366,2008,East Berkshire,Nitrogen dioxide,37.39360419145878
+367,2009,East Berkshire,Nitrogen dioxide,34.64011599805646
+368,2010,East Berkshire,Nitrogen dioxide,35.734207306080094
+369,2011,East Berkshire,Nitrogen dioxide,36.02852741067302
+370,2012,East Berkshire,Nitrogen dioxide,34.224927861323145
+371,2013,East Berkshire,Nitrogen dioxide,33.90456884493743
+372,2014,East Berkshire,Nitrogen dioxide,34.18785703272831
+373,2015,East Berkshire,Nitrogen dioxide,31.191648440520858
+374,2016,East Berkshire,Nitrogen dioxide,33.08942676359658
+375,2017,East Berkshire,Nitrogen dioxide,33.94460608087713
+376,2018,East Berkshire,Nitrogen dioxide,33.03361569192257
+377,2019,East Berkshire,Nitrogen dioxide,29.479909068729604
+378,2020,East Berkshire,Nitrogen dioxide,21.927106381086343
+379,2008,Guildford,Nitrogen dioxide,
+380,2018,Guildford,Nitrogen dioxide,41.80688602998465
+381,2019,Guildford,Nitrogen dioxide,40.781249275357744
+382,2020,Guildford,Nitrogen dioxide,28.934251695386898
+383,2004,Hammersmith and Fulham,Nitrogen dioxide,58.65570661839905
+384,2005,Hammersmith and Fulham,Nitrogen dioxide,52.32533658933799
+385,2006,Hammersmith and Fulham,Nitrogen dioxide,61.19915997779724
+386,2007,Hammersmith and Fulham,Nitrogen dioxide,60.16068460190748
+387,2008,Hammersmith and Fulham,Nitrogen dioxide,56.57683554398193
+388,2009,Hammersmith and Fulham,Nitrogen dioxide,50.33713471889953
+389,2011,Hammersmith and Fulham,Nitrogen dioxide,83.64898474419026
+390,2012,Hammersmith and Fulham,Nitrogen dioxide,92.04156192063498
+391,2013,Hammersmith and Fulham,Nitrogen dioxide,77.7979631649266
+392,2014,Hammersmith and Fulham,Nitrogen dioxide,80.75805644668205
+393,2015,Hammersmith and Fulham,Nitrogen dioxide,77.25785099746336
+394,2016,Hammersmith and Fulham,Nitrogen dioxide,74.93779640620328
+395,2017,Hammersmith and Fulham,Nitrogen dioxide,76.80877754472597
+396,2018,Hammersmith and Fulham,Nitrogen dioxide,71.46410514612711
+397,2019,Hammersmith and Fulham,Nitrogen dioxide,56.54904937743879
+398,2020,Hammersmith and Fulham,Nitrogen dioxide,38.66501663087102
+399,2004,Hillingdon,Nitrogen dioxide,44.52378546501192
+400,2005,Hillingdon,Nitrogen dioxide,42.36138838109275
+401,2006,Hillingdon,Nitrogen dioxide,43.41508920551854
+402,2007,Hillingdon,Nitrogen dioxide,43.447593285463974
+403,2008,Hillingdon,Nitrogen dioxide,41.98353462354277
+404,2009,Hillingdon,Nitrogen dioxide,43.668143552595566
+405,2010,Hillingdon,Nitrogen dioxide,42.322398716902576
+406,2011,Hillingdon,Nitrogen dioxide,41.2600780112149
+407,2012,Hillingdon,Nitrogen dioxide,41.39339736427314
+408,2013,Hillingdon,Nitrogen dioxide,39.89078003122446
+409,2014,Hillingdon,Nitrogen dioxide,40.06166650437836
+410,2015,Hillingdon,Nitrogen dioxide,38.133528245257864
+411,2016,Hillingdon,Nitrogen dioxide,39.215095752580055
+412,2017,Hillingdon,Nitrogen dioxide,38.54488049670582
+413,2018,Hillingdon,Nitrogen dioxide,34.64942881641135
+414,2019,Hillingdon,Nitrogen dioxide,35.369661686294464
+415,2020,Hillingdon,Nitrogen dioxide,24.16625393524079
+416,2004,Hounslow,Nitrogen dioxide,57.17140222562964
+417,2005,Hounslow,Nitrogen dioxide,52.833258304670075
+418,2006,Hounslow,Nitrogen dioxide,49.38876599045587
+419,2007,Hounslow,Nitrogen dioxide,49.496766115917474
+420,2008,Hounslow,Nitrogen dioxide,50.79522351374721
+421,2009,Hounslow,Nitrogen dioxide,49.28868693368281
+422,2010,Hounslow,Nitrogen dioxide,43.58286132882462
+423,2011,Hounslow,Nitrogen dioxide,44.513516593846674
+424,2012,Hounslow,Nitrogen dioxide,44.75177720684012
+425,2013,Hounslow,Nitrogen dioxide,48.00775854848623
+426,2014,Hounslow,Nitrogen dioxide,44.91178243490026
+427,2015,Hounslow,Nitrogen dioxide,41.635070595937705
+428,2016,Hounslow,Nitrogen dioxide,43.95647106732182
+429,2017,Hounslow,Nitrogen dioxide,42.94356382930549
+430,2018,Hounslow,Nitrogen dioxide,36.222803639731026
+431,2019,Hounslow,Nitrogen dioxide,32.22451477023915
+432,2020,Hounslow,Nitrogen dioxide,26.898692763687517
+433,2004,Oxford,Nitrogen dioxide,63.54589708734695
+434,2005,Oxford,Nitrogen dioxide,49.3628634655282
+435,2006,Oxford,Nitrogen dioxide,38.795507736608755
+436,2007,Oxford,Nitrogen dioxide,40.805458776223844
+437,2008,Oxford,Nitrogen dioxide,36.52990494796848
+438,2009,Oxford,Nitrogen dioxide,37.544290755191916
+439,2010,Oxford,Nitrogen dioxide,33.4132643723298
+440,2011,Oxford,Nitrogen dioxide,34.628377968064555
+441,2012,Oxford,Nitrogen dioxide,37.27513529916064
+442,2013,Oxford,Nitrogen dioxide,38.2677890411212
+443,2014,Oxford,Nitrogen dioxide,38.5703141679721
+444,2015,Oxford,Nitrogen dioxide,33.91476221103831
+445,2016,Oxford,Nitrogen dioxide,34.40279832571712
+446,2017,Oxford,Nitrogen dioxide,30.99640453252254
+447,2018,Oxford,Nitrogen dioxide,31.584018882645083
+448,2019,Oxford,Nitrogen dioxide,31.38528453776697
+449,2020,Oxford,Nitrogen dioxide,24.40934589249466
+450,2006,Reading,Nitrogen dioxide,39.60795710469079
+451,2007,Reading,Nitrogen dioxide,53.1707983734938
+452,2008,Reading,Nitrogen dioxide,43.44185020430232
+453,2009,Reading,Nitrogen dioxide,44.31432601127335
+454,2010,Reading,Nitrogen dioxide,46.98932919533532
+455,2011,Reading,Nitrogen dioxide,45.95638545298772
+456,2012,Reading,Nitrogen dioxide,46.206437227803576
+457,2013,Reading,Nitrogen dioxide,47.01425269888338
+458,2014,Reading,Nitrogen dioxide,41.87001978274143
+459,2015,Reading,Nitrogen dioxide,38.86213980675558
+460,2016,Reading,Nitrogen dioxide,36.666143844855114
+461,2017,Reading,Nitrogen dioxide,32.16093530989688
+462,2018,Reading,Nitrogen dioxide,34.20268062480706
+463,2019,Reading,Nitrogen dioxide,30.42589734789974
+464,2020,Reading,Nitrogen dioxide,22.33796048298362
+465,2004,South West London,Nitrogen dioxide,32.17711972637567
+466,2005,South West London,Nitrogen dioxide,32.569455642932425
+467,2006,South West London,Nitrogen dioxide,31.926839848196426
+468,2007,South West London,Nitrogen dioxide,34.15358041700518
+469,2008,South West London,Nitrogen dioxide,32.64468201507018
+470,2009,South West London,Nitrogen dioxide,32.07963126540219
+471,2010,South West London,Nitrogen dioxide,32.28260224442476
+472,2011,South West London,Nitrogen dioxide,28.879385197631738
+473,2012,South West London,Nitrogen dioxide,32.36548537618226
+474,2013,South West London,Nitrogen dioxide,28.02409971414673
+475,2014,South West London,Nitrogen dioxide,29.834611262268897
+476,2015,South West London,Nitrogen dioxide,35.243208453222444
+477,2016,South West London,Nitrogen dioxide,38.98231118585333
+478,2017,South West London,Nitrogen dioxide,34.39632396676987
+479,2018,South West London,Nitrogen dioxide,36.08289063549953
+480,2019,South West London,Nitrogen dioxide,34.0500938213921
+481,2020,South West London,Nitrogen dioxide,24.029461325226617
+482,2004,Surrey Heartlands,Nitrogen dioxide,30.98402547904986
+483,2005,Surrey Heartlands,Nitrogen dioxide,39.087608784575
+484,2006,Surrey Heartlands,Nitrogen dioxide,35.956973603434136
+485,2007,Surrey Heartlands,Nitrogen dioxide,35.235327710340194
+486,2008,Surrey Heartlands,Nitrogen dioxide,39.31548685452444
+487,2009,Surrey Heartlands,Nitrogen dioxide,41.75801812637368
+488,2010,Surrey Heartlands,Nitrogen dioxide,47.63208384522626
+489,2011,Surrey Heartlands,Nitrogen dioxide,41.291381805335384
+490,2012,Surrey Heartlands,Nitrogen dioxide,40.95292965944561
+491,2013,Surrey Heartlands,Nitrogen dioxide,38.897819534794785
+492,2014,Surrey Heartlands,Nitrogen dioxide,37.44271441538056
+493,2015,Surrey Heartlands,Nitrogen dioxide,31.98424121001736
+494,2016,Surrey Heartlands,Nitrogen dioxide,34.76534018316527
+495,2017,Surrey Heartlands,Nitrogen dioxide,34.2162207572931
+496,2018,Surrey Heartlands,Nitrogen dioxide,30.419069669964408
+497,2019,Surrey Heartlands,Nitrogen dioxide,30.263244348256972
+498,2020,Surrey Heartlands,Nitrogen dioxide,21.879124509883706
+499,2004,Watford,Nitrogen dioxide,38.83654703549304
+500,2005,Watford,Nitrogen dioxide,37.95879594066547
+501,2006,Watford,Nitrogen dioxide,37.26001478305594
+502,2007,Watford,Nitrogen dioxide,35.79176019233154
+503,2008,Watford,Nitrogen dioxide,33.70004099844073
+504,2009,Watford,Nitrogen dioxide,39.265491325625455
+505,2010,Watford,Nitrogen dioxide,38.79100702531181
+506,2011,Watford,Nitrogen dioxide,38.54786485792271
+507,2012,Watford,Nitrogen dioxide,38.5531932333797
+508,2013,Watford,Nitrogen dioxide,39.23086827290806
+509,2014,Watford,Nitrogen dioxide,39.91325294937453
+510,2015,Watford,Nitrogen dioxide,35.147554524912515
+511,2016,Watford,Nitrogen dioxide,35.56754625929749
+512,2017,Watford,Nitrogen dioxide,32.594032118045554
+513,2018,Watford,Nitrogen dioxide,31.861290743592768
+514,2019,Watford,Nitrogen dioxide,30.165464311389666
+515,2020,Watford,Nitrogen dioxide,20.81302206171813
+516,2020,Buckinghamshire,Oxides of Nitrogen,
+517,2004,Ealing,Oxides of Nitrogen,
+518,2005,Ealing,Oxides of Nitrogen,
+519,2006,Ealing,Oxides of Nitrogen,
+520,2007,Ealing,Oxides of Nitrogen,
+521,2008,Ealing,Oxides of Nitrogen,
+522,2009,Ealing,Oxides of Nitrogen,
+523,2010,Ealing,Oxides of Nitrogen,
+524,2011,Ealing,Oxides of Nitrogen,
+525,2012,Ealing,Oxides of Nitrogen,
+526,2013,Ealing,Oxides of Nitrogen,
+527,2014,Ealing,Oxides of Nitrogen,
+528,2015,Ealing,Oxides of Nitrogen,
+529,2016,Ealing,Oxides of Nitrogen,
+530,2017,Ealing,Oxides of Nitrogen,
+531,2018,Ealing,Oxides of Nitrogen,
+532,2019,Ealing,Oxides of Nitrogen,
+533,2020,Ealing,Oxides of Nitrogen,
+534,2004,East Berkshire,Oxides of Nitrogen,
+535,2005,East Berkshire,Oxides of Nitrogen,
+536,2006,East Berkshire,Oxides of Nitrogen,
+537,2007,East Berkshire,Oxides of Nitrogen,
+538,2008,East Berkshire,Oxides of Nitrogen,
+539,2009,East Berkshire,Oxides of Nitrogen,
+540,2010,East Berkshire,Oxides of Nitrogen,
+541,2011,East Berkshire,Oxides of Nitrogen,
+542,2012,East Berkshire,Oxides of Nitrogen,
+543,2013,East Berkshire,Oxides of Nitrogen,
+544,2014,East Berkshire,Oxides of Nitrogen,
+545,2015,East Berkshire,Oxides of Nitrogen,
+546,2016,East Berkshire,Oxides of Nitrogen,
+547,2017,East Berkshire,Oxides of Nitrogen,
+548,2018,East Berkshire,Oxides of Nitrogen,
+549,2019,East Berkshire,Oxides of Nitrogen,
+550,2020,East Berkshire,Oxides of Nitrogen,
+551,2008,Guildford,Oxides of Nitrogen,
+552,2018,Guildford,Oxides of Nitrogen,
+553,2019,Guildford,Oxides of Nitrogen,
+554,2020,Guildford,Oxides of Nitrogen,
+555,2004,Hammersmith and Fulham,Oxides of Nitrogen,
+556,2005,Hammersmith and Fulham,Oxides of Nitrogen,
+557,2006,Hammersmith and Fulham,Oxides of Nitrogen,
+558,2007,Hammersmith and Fulham,Oxides of Nitrogen,
+559,2008,Hammersmith and Fulham,Oxides of Nitrogen,
+560,2009,Hammersmith and Fulham,Oxides of Nitrogen,
+561,2011,Hammersmith and Fulham,Oxides of Nitrogen,
+562,2012,Hammersmith and Fulham,Oxides of Nitrogen,
+563,2013,Hammersmith and Fulham,Oxides of Nitrogen,
+564,2014,Hammersmith and Fulham,Oxides of Nitrogen,
+565,2015,Hammersmith and Fulham,Oxides of Nitrogen,
+566,2016,Hammersmith and Fulham,Oxides of Nitrogen,
+567,2017,Hammersmith and Fulham,Oxides of Nitrogen,
+568,2018,Hammersmith and Fulham,Oxides of Nitrogen,
+569,2019,Hammersmith and Fulham,Oxides of Nitrogen,
+570,2020,Hammersmith and Fulham,Oxides of Nitrogen,
+571,2004,Hillingdon,Oxides of Nitrogen,
+572,2005,Hillingdon,Oxides of Nitrogen,
+573,2006,Hillingdon,Oxides of Nitrogen,
+574,2007,Hillingdon,Oxides of Nitrogen,
+575,2008,Hillingdon,Oxides of Nitrogen,
+576,2009,Hillingdon,Oxides of Nitrogen,
+577,2010,Hillingdon,Oxides of Nitrogen,
+578,2011,Hillingdon,Oxides of Nitrogen,
+579,2012,Hillingdon,Oxides of Nitrogen,
+580,2013,Hillingdon,Oxides of Nitrogen,
+581,2014,Hillingdon,Oxides of Nitrogen,
+582,2015,Hillingdon,Oxides of Nitrogen,
+583,2016,Hillingdon,Oxides of Nitrogen,
+584,2017,Hillingdon,Oxides of Nitrogen,
+585,2018,Hillingdon,Oxides of Nitrogen,
+586,2019,Hillingdon,Oxides of Nitrogen,
+587,2020,Hillingdon,Oxides of Nitrogen,
+588,2004,Hounslow,Oxides of Nitrogen,134.37796484281202
+589,2005,Hounslow,Oxides of Nitrogen,128.40552216974433
+590,2006,Hounslow,Oxides of Nitrogen,112.24793947835276
+591,2007,Hounslow,Oxides of Nitrogen,119.45842789010976
+592,2008,Hounslow,Oxides of Nitrogen,113.19823591788318
+593,2009,Hounslow,Oxides of Nitrogen,106.6648953855113
+594,2010,Hounslow,Oxides of Nitrogen,92.88141709662345
+595,2011,Hounslow,Oxides of Nitrogen,97.3852312756964
+596,2012,Hounslow,Oxides of Nitrogen,109.84288661361906
+597,2013,Hounslow,Oxides of Nitrogen,113.76668817399523
+598,2014,Hounslow,Oxides of Nitrogen,110.27222042896581
+599,2015,Hounslow,Oxides of Nitrogen,96.64138423097539
+600,2016,Hounslow,Oxides of Nitrogen,111.93009771741049
+601,2017,Hounslow,Oxides of Nitrogen,102.99050494806009
+602,2018,Hounslow,Oxides of Nitrogen,78.53654282334979
+603,2019,Hounslow,Oxides of Nitrogen,69.68273823400304
+604,2020,Hounslow,Oxides of Nitrogen,51.08294914709443
+605,2004,Oxford,Oxides of Nitrogen,
+606,2005,Oxford,Oxides of Nitrogen,
+607,2006,Oxford,Oxides of Nitrogen,
+608,2007,Oxford,Oxides of Nitrogen,
+609,2008,Oxford,Oxides of Nitrogen,
+610,2009,Oxford,Oxides of Nitrogen,
+611,2010,Oxford,Oxides of Nitrogen,
+612,2011,Oxford,Oxides of Nitrogen,
+613,2012,Oxford,Oxides of Nitrogen,
+614,2013,Oxford,Oxides of Nitrogen,
+615,2014,Oxford,Oxides of Nitrogen,
+616,2015,Oxford,Oxides of Nitrogen,
+617,2016,Oxford,Oxides of Nitrogen,
+618,2017,Oxford,Oxides of Nitrogen,
+619,2018,Oxford,Oxides of Nitrogen,
+620,2019,Oxford,Oxides of Nitrogen,
+621,2020,Oxford,Oxides of Nitrogen,
+622,2006,Reading,Oxides of Nitrogen,
+623,2007,Reading,Oxides of Nitrogen,
+624,2008,Reading,Oxides of Nitrogen,
+625,2009,Reading,Oxides of Nitrogen,
+626,2010,Reading,Oxides of Nitrogen,
+627,2011,Reading,Oxides of Nitrogen,
+628,2012,Reading,Oxides of Nitrogen,
+629,2013,Reading,Oxides of Nitrogen,
+630,2014,Reading,Oxides of Nitrogen,
+631,2015,Reading,Oxides of Nitrogen,
+632,2016,Reading,Oxides of Nitrogen,
+633,2017,Reading,Oxides of Nitrogen,
+634,2018,Reading,Oxides of Nitrogen,
+635,2019,Reading,Oxides of Nitrogen,
+636,2020,Reading,Oxides of Nitrogen,
+637,2004,South West London,Oxides of Nitrogen,
+638,2005,South West London,Oxides of Nitrogen,
+639,2006,South West London,Oxides of Nitrogen,
+640,2007,South West London,Oxides of Nitrogen,
+641,2008,South West London,Oxides of Nitrogen,
+642,2009,South West London,Oxides of Nitrogen,
+643,2010,South West London,Oxides of Nitrogen,
+644,2011,South West London,Oxides of Nitrogen,
+645,2012,South West London,Oxides of Nitrogen,
+646,2013,South West London,Oxides of Nitrogen,
+647,2014,South West London,Oxides of Nitrogen,
+648,2015,South West London,Oxides of Nitrogen,
+649,2016,South West London,Oxides of Nitrogen,
+650,2017,South West London,Oxides of Nitrogen,
+651,2018,South West London,Oxides of Nitrogen,
+652,2019,South West London,Oxides of Nitrogen,
+653,2020,South West London,Oxides of Nitrogen,
+654,2004,Surrey Heartlands,Oxides of Nitrogen,
+655,2005,Surrey Heartlands,Oxides of Nitrogen,
+656,2006,Surrey Heartlands,Oxides of Nitrogen,
+657,2007,Surrey Heartlands,Oxides of Nitrogen,
+658,2008,Surrey Heartlands,Oxides of Nitrogen,
+659,2009,Surrey Heartlands,Oxides of Nitrogen,
+660,2010,Surrey Heartlands,Oxides of Nitrogen,
+661,2011,Surrey Heartlands,Oxides of Nitrogen,
+662,2012,Surrey Heartlands,Oxides of Nitrogen,
+663,2013,Surrey Heartlands,Oxides of Nitrogen,
+664,2014,Surrey Heartlands,Oxides of Nitrogen,
+665,2015,Surrey Heartlands,Oxides of Nitrogen,
+666,2016,Surrey Heartlands,Oxides of Nitrogen,
+667,2017,Surrey Heartlands,Oxides of Nitrogen,
+668,2018,Surrey Heartlands,Oxides of Nitrogen,
+669,2019,Surrey Heartlands,Oxides of Nitrogen,
+670,2020,Surrey Heartlands,Oxides of Nitrogen,
+671,2004,Watford,Oxides of Nitrogen,
+672,2005,Watford,Oxides of Nitrogen,
+673,2006,Watford,Oxides of Nitrogen,
+674,2007,Watford,Oxides of Nitrogen,
+675,2008,Watford,Oxides of Nitrogen,
+676,2009,Watford,Oxides of Nitrogen,
+677,2010,Watford,Oxides of Nitrogen,
+678,2011,Watford,Oxides of Nitrogen,
+679,2012,Watford,Oxides of Nitrogen,
+680,2013,Watford,Oxides of Nitrogen,
+681,2014,Watford,Oxides of Nitrogen,
+682,2015,Watford,Oxides of Nitrogen,
+683,2016,Watford,Oxides of Nitrogen,
+684,2017,Watford,Oxides of Nitrogen,
+685,2018,Watford,Oxides of Nitrogen,
+686,2019,Watford,Oxides of Nitrogen,
+687,2020,Watford,Oxides of Nitrogen,
+688,2020,Buckinghamshire,Ozone,49.98446735255331
+689,2004,Ealing,Ozone,33.992080422331036
+690,2005,Ealing,Ozone,28.594453090607452
+691,2006,Ealing,Ozone,32.52753876052575
+692,2007,Ealing,Ozone,28.47389078318255
+693,2008,Ealing,Ozone,29.08530456902247
+694,2009,Ealing,Ozone,25.856958735915402
+695,2010,Ealing,Ozone,26.273895148700547
+696,2011,Ealing,Ozone,28.222554258240905
+697,2012,Ealing,Ozone,34.67911716417463
+698,2013,Ealing,Ozone,35.00612546158585
+699,2014,Ealing,Ozone,36.15235679691407
+700,2015,Ealing,Ozone,36.43666549734984
+701,2016,Ealing,Ozone,25.474152967171722
+702,2017,Ealing,Ozone,
+703,2018,Ealing,Ozone,
+704,2019,Ealing,Ozone,
+705,2020,Ealing,Ozone,
+706,2004,East Berkshire,Ozone,
+707,2005,East Berkshire,Ozone,
+708,2006,East Berkshire,Ozone,
+709,2007,East Berkshire,Ozone,
+710,2008,East Berkshire,Ozone,
+711,2009,East Berkshire,Ozone,
+712,2010,East Berkshire,Ozone,
+713,2011,East Berkshire,Ozone,
+714,2012,East Berkshire,Ozone,
+715,2013,East Berkshire,Ozone,
+716,2014,East Berkshire,Ozone,
+717,2015,East Berkshire,Ozone,
+718,2016,East Berkshire,Ozone,
+719,2017,East Berkshire,Ozone,
+720,2018,East Berkshire,Ozone,
+721,2019,East Berkshire,Ozone,29.025600590666674
+722,2020,East Berkshire,Ozone,
+723,2008,Guildford,Ozone,
+724,2018,Guildford,Ozone,
+725,2019,Guildford,Ozone,
+726,2020,Guildford,Ozone,
+727,2004,Hammersmith and Fulham,Ozone,
+728,2005,Hammersmith and Fulham,Ozone,
+729,2006,Hammersmith and Fulham,Ozone,
+730,2007,Hammersmith and Fulham,Ozone,
+731,2008,Hammersmith and Fulham,Ozone,
+732,2009,Hammersmith and Fulham,Ozone,
+733,2011,Hammersmith and Fulham,Ozone,
+734,2012,Hammersmith and Fulham,Ozone,
+735,2013,Hammersmith and Fulham,Ozone,
+736,2014,Hammersmith and Fulham,Ozone,
+737,2015,Hammersmith and Fulham,Ozone,
+738,2016,Hammersmith and Fulham,Ozone,
+739,2017,Hammersmith and Fulham,Ozone,
+740,2018,Hammersmith and Fulham,Ozone,
+741,2019,Hammersmith and Fulham,Ozone,29.899648073988853
+742,2020,Hammersmith and Fulham,Ozone,38.11402287048222
+743,2004,Hillingdon,Ozone,
+744,2005,Hillingdon,Ozone,
+745,2006,Hillingdon,Ozone,
+746,2007,Hillingdon,Ozone,
+747,2008,Hillingdon,Ozone,
+748,2009,Hillingdon,Ozone,
+749,2010,Hillingdon,Ozone,
+750,2011,Hillingdon,Ozone,
+751,2012,Hillingdon,Ozone,
+752,2013,Hillingdon,Ozone,
+753,2014,Hillingdon,Ozone,
+754,2015,Hillingdon,Ozone,
+755,2016,Hillingdon,Ozone,
+756,2017,Hillingdon,Ozone,
+757,2018,Hillingdon,Ozone,
+758,2019,Hillingdon,Ozone,
+759,2020,Hillingdon,Ozone,
+760,2004,Hounslow,Ozone,31.628425987905036
+761,2005,Hounslow,Ozone,34.42601047706647
+762,2006,Hounslow,Ozone,41.626835958636
+763,2007,Hounslow,Ozone,31.764437187208916
+764,2008,Hounslow,Ozone,36.52743372248239
+765,2009,Hounslow,Ozone,34.44903615759541
+766,2010,Hounslow,Ozone,48.70446493924756
+767,2011,Hounslow,Ozone,31.619417835477595
+768,2012,Hounslow,Ozone,31.53995588994994
+769,2013,Hounslow,Ozone,34.60202533864623
+770,2014,Hounslow,Ozone,34.73975631668715
+771,2015,Hounslow,Ozone,36.509611695960714
+772,2016,Hounslow,Ozone,31.746313582504825
+773,2017,Hounslow,Ozone,31.394449485143806
+774,2018,Hounslow,Ozone,36.821549241524295
+775,2019,Hounslow,Ozone,22.458061517232377
+776,2020,Hounslow,Ozone,36.224710852264145
+777,2004,Oxford,Ozone,40.37627870216314
+778,2005,Oxford,Ozone,39.652825419415635
+779,2006,Oxford,Ozone,45.27446438460312
+780,2007,Oxford,Ozone,39.945394476233226
+781,2008,Oxford,Ozone,41.21623794826508
+782,2009,Oxford,Ozone,46.34964366921064
+783,2010,Oxford,Ozone,49.67751969504908
+784,2011,Oxford,Ozone,38.608095943348985
+785,2012,Oxford,Ozone,35.100020181067926
+786,2013,Oxford,Ozone,36.76181673923495
+787,2014,Oxford,Ozone,34.717028121300004
+788,2015,Oxford,Ozone,39.59717882624825
+789,2016,Oxford,Ozone,31.307083207014557
+790,2017,Oxford,Ozone,35.21848226078597
+791,2018,Oxford,Ozone,45.05988358988324
+792,2019,Oxford,Ozone,43.62949687037518
+793,2020,Oxford,Ozone,46.38077932313156
+794,2006,Reading,Ozone,
+795,2007,Reading,Ozone,
+796,2008,Reading,Ozone,
+797,2009,Reading,Ozone,
+798,2010,Reading,Ozone,
+799,2011,Reading,Ozone,
+800,2012,Reading,Ozone,
+801,2013,Reading,Ozone,
+802,2014,Reading,Ozone,
+803,2015,Reading,Ozone,
+804,2016,Reading,Ozone,
+805,2017,Reading,Ozone,
+806,2018,Reading,Ozone,
+807,2019,Reading,Ozone,
+808,2020,Reading,Ozone,
+809,2004,South West London,Ozone,44.607493596220664
+810,2005,South West London,Ozone,44.135361457108395
+811,2006,South West London,Ozone,48.32330127199309
+812,2007,South West London,Ozone,41.21480032007615
+813,2008,South West London,Ozone,45.1027968017699
+814,2009,South West London,Ozone,43.13590402484978
+815,2010,South West London,Ozone,41.50953040772639
+816,2011,South West London,Ozone,44.94307372023647
+817,2012,South West London,Ozone,40.2936849597165
+818,2013,South West London,Ozone,46.69198316284394
+819,2014,South West London,Ozone,46.118399821500226
+820,2015,South West London,Ozone,49.47007436261727
+821,2016,South West London,Ozone,45.56931440687024
+822,2017,South West London,Ozone,43.24416341547551
+823,2018,South West London,Ozone,38.327863907738106
+824,2019,South West London,Ozone,38.0487653942683
+825,2020,South West London,Ozone,37.13291708224313
+826,2004,Surrey Heartlands,Ozone,50.287864487890644
+827,2005,Surrey Heartlands,Ozone,27.11866034870588
+828,2006,Surrey Heartlands,Ozone,52.91518156373235
+829,2007,Surrey Heartlands,Ozone,35.76231325155799
+830,2008,Surrey Heartlands,Ozone,31.74877747041146
+831,2009,Surrey Heartlands,Ozone,24.901938657797682
+832,2010,Surrey Heartlands,Ozone,19.500044578571437
+833,2011,Surrey Heartlands,Ozone,21.737974765840228
+834,2012,Surrey Heartlands,Ozone,20.15591060329671
+835,2013,Surrey Heartlands,Ozone,20.364270698630143
+836,2014,Surrey Heartlands,Ozone,19.27375172712328
+837,2015,Surrey Heartlands,Ozone,19.258530986577185
+838,2016,Surrey Heartlands,Ozone,16.596084844875342
+839,2017,Surrey Heartlands,Ozone,16.11948559368132
+840,2018,Surrey Heartlands,Ozone,17.077764141369876
+841,2019,Surrey Heartlands,Ozone,15.629340110833343
+842,2020,Surrey Heartlands,Ozone,15.343444322955985
+843,2004,Watford,Ozone,37.226716159353565
+844,2005,Watford,Ozone,35.039582271301235
+845,2006,Watford,Ozone,39.207048556135774
+846,2007,Watford,Ozone,43.26305339279386
+847,2008,Watford,Ozone,
+848,2009,Watford,Ozone,
+849,2010,Watford,Ozone,
+850,2011,Watford,Ozone,
+851,2012,Watford,Ozone,
+852,2013,Watford,Ozone,
+853,2014,Watford,Ozone,
+854,2015,Watford,Ozone,
+855,2016,Watford,Ozone,
+856,2017,Watford,Ozone,
+857,2018,Watford,Ozone,
+858,2019,Watford,Ozone,
+859,2020,Watford,Ozone,
+860,2020,Buckinghamshire,PM10 Particulate matter,16.014508197132173
+861,2004,Ealing,PM10 Particulate matter,
+862,2005,Ealing,PM10 Particulate matter,
+863,2006,Ealing,PM10 Particulate matter,
+864,2007,Ealing,PM10 Particulate matter,
+865,2008,Ealing,PM10 Particulate matter,
+866,2009,Ealing,PM10 Particulate matter,
+867,2010,Ealing,PM10 Particulate matter,
+868,2011,Ealing,PM10 Particulate matter,
+869,2012,Ealing,PM10 Particulate matter,
+870,2013,Ealing,PM10 Particulate matter,
+871,2014,Ealing,PM10 Particulate matter,
+872,2015,Ealing,PM10 Particulate matter,
+873,2016,Ealing,PM10 Particulate matter,
+874,2017,Ealing,PM10 Particulate matter,
+875,2018,Ealing,PM10 Particulate matter,
+876,2019,Ealing,PM10 Particulate matter,
+877,2020,Ealing,PM10 Particulate matter,
+878,2004,East Berkshire,PM10 Particulate matter,
+879,2005,East Berkshire,PM10 Particulate matter,
+880,2006,East Berkshire,PM10 Particulate matter,
+881,2007,East Berkshire,PM10 Particulate matter,
+882,2008,East Berkshire,PM10 Particulate matter,
+883,2009,East Berkshire,PM10 Particulate matter,
+884,2010,East Berkshire,PM10 Particulate matter,
+885,2011,East Berkshire,PM10 Particulate matter,
+886,2012,East Berkshire,PM10 Particulate matter,
+887,2013,East Berkshire,PM10 Particulate matter,
+888,2014,East Berkshire,PM10 Particulate matter,
+889,2015,East Berkshire,PM10 Particulate matter,
+890,2016,East Berkshire,PM10 Particulate matter,
+891,2017,East Berkshire,PM10 Particulate matter,
+892,2018,East Berkshire,PM10 Particulate matter,
+893,2019,East Berkshire,PM10 Particulate matter,
+894,2020,East Berkshire,PM10 Particulate matter,
+895,2008,Guildford,PM10 Particulate matter,
+896,2018,Guildford,PM10 Particulate matter,
+897,2019,Guildford,PM10 Particulate matter,
+898,2020,Guildford,PM10 Particulate matter,
+899,2004,Hammersmith and Fulham,PM10 Particulate matter,
+900,2005,Hammersmith and Fulham,PM10 Particulate matter,
+901,2006,Hammersmith and Fulham,PM10 Particulate matter,
+902,2007,Hammersmith and Fulham,PM10 Particulate matter,
+903,2008,Hammersmith and Fulham,PM10 Particulate matter,
+904,2009,Hammersmith and Fulham,PM10 Particulate matter,
+905,2011,Hammersmith and Fulham,PM10 Particulate matter,
+906,2012,Hammersmith and Fulham,PM10 Particulate matter,
+907,2013,Hammersmith and Fulham,PM10 Particulate matter,
+908,2014,Hammersmith and Fulham,PM10 Particulate matter,
+909,2015,Hammersmith and Fulham,PM10 Particulate matter,
+910,2016,Hammersmith and Fulham,PM10 Particulate matter,
+911,2017,Hammersmith and Fulham,PM10 Particulate matter,
+912,2018,Hammersmith and Fulham,PM10 Particulate matter,
+913,2019,Hammersmith and Fulham,PM10 Particulate matter,
+914,2020,Hammersmith and Fulham,PM10 Particulate matter,
+915,2004,Hillingdon,PM10 Particulate matter,
+916,2005,Hillingdon,PM10 Particulate matter,
+917,2006,Hillingdon,PM10 Particulate matter,
+918,2007,Hillingdon,PM10 Particulate matter,
+919,2008,Hillingdon,PM10 Particulate matter,
+920,2009,Hillingdon,PM10 Particulate matter,
+921,2010,Hillingdon,PM10 Particulate matter,
+922,2011,Hillingdon,PM10 Particulate matter,
+923,2012,Hillingdon,PM10 Particulate matter,
+924,2013,Hillingdon,PM10 Particulate matter,
+925,2014,Hillingdon,PM10 Particulate matter,
+926,2015,Hillingdon,PM10 Particulate matter,
+927,2016,Hillingdon,PM10 Particulate matter,
+928,2017,Hillingdon,PM10 Particulate matter,
+929,2018,Hillingdon,PM10 Particulate matter,
+930,2019,Hillingdon,PM10 Particulate matter,
+931,2020,Hillingdon,PM10 Particulate matter,
+932,2004,Hounslow,PM10 Particulate matter,28.02264972395538
+933,2005,Hounslow,PM10 Particulate matter,29.189345081336416
+934,2006,Hounslow,PM10 Particulate matter,27.311610241039347
+935,2007,Hounslow,PM10 Particulate matter,26.701155002961407
+936,2008,Hounslow,PM10 Particulate matter,27.137784100238555
+937,2009,Hounslow,PM10 Particulate matter,25.622636815288143
+938,2010,Hounslow,PM10 Particulate matter,24.063699042250658
+939,2011,Hounslow,PM10 Particulate matter,19.084606290466706
+940,2012,Hounslow,PM10 Particulate matter,23.91549859262039
+941,2013,Hounslow,PM10 Particulate matter,26.847779328196744
+942,2014,Hounslow,PM10 Particulate matter,24.561485050362847
+943,2015,Hounslow,PM10 Particulate matter,21.983250588802758
+944,2016,Hounslow,PM10 Particulate matter,22.53204876961306
+945,2017,Hounslow,PM10 Particulate matter,21.728613748432743
+946,2018,Hounslow,PM10 Particulate matter,19.87063618445889
+947,2019,Hounslow,PM10 Particulate matter,19.630715810627898
+948,2020,Hounslow,PM10 Particulate matter,20.00798468531694
+949,2004,Oxford,PM10 Particulate matter,
+950,2005,Oxford,PM10 Particulate matter,
+951,2006,Oxford,PM10 Particulate matter,
+952,2007,Oxford,PM10 Particulate matter,
+953,2008,Oxford,PM10 Particulate matter,
+954,2009,Oxford,PM10 Particulate matter,
+955,2010,Oxford,PM10 Particulate matter,
+956,2011,Oxford,PM10 Particulate matter,
+957,2012,Oxford,PM10 Particulate matter,
+958,2013,Oxford,PM10 Particulate matter,
+959,2014,Oxford,PM10 Particulate matter,
+960,2015,Oxford,PM10 Particulate matter,
+961,2016,Oxford,PM10 Particulate matter,
+962,2017,Oxford,PM10 Particulate matter,
+963,2018,Oxford,PM10 Particulate matter,
+964,2019,Oxford,PM10 Particulate matter,
+965,2020,Oxford,PM10 Particulate matter,
+966,2006,Reading,PM10 Particulate matter,
+967,2007,Reading,PM10 Particulate matter,
+968,2008,Reading,PM10 Particulate matter,
+969,2009,Reading,PM10 Particulate matter,
+970,2010,Reading,PM10 Particulate matter,
+971,2011,Reading,PM10 Particulate matter,
+972,2012,Reading,PM10 Particulate matter,
+973,2013,Reading,PM10 Particulate matter,
+974,2014,Reading,PM10 Particulate matter,
+975,2015,Reading,PM10 Particulate matter,
+976,2016,Reading,PM10 Particulate matter,
+977,2017,Reading,PM10 Particulate matter,
+978,2018,Reading,PM10 Particulate matter,
+979,2019,Reading,PM10 Particulate matter,
+980,2020,Reading,PM10 Particulate matter,
+981,2004,South West London,PM10 Particulate matter,
+982,2005,South West London,PM10 Particulate matter,
+983,2006,South West London,PM10 Particulate matter,
+984,2007,South West London,PM10 Particulate matter,
+985,2008,South West London,PM10 Particulate matter,
+986,2009,South West London,PM10 Particulate matter,
+987,2010,South West London,PM10 Particulate matter,
+988,2011,South West London,PM10 Particulate matter,
+989,2012,South West London,PM10 Particulate matter,
+990,2013,South West London,PM10 Particulate matter,
+991,2014,South West London,PM10 Particulate matter,
+992,2015,South West London,PM10 Particulate matter,
+993,2016,South West London,PM10 Particulate matter,
+994,2017,South West London,PM10 Particulate matter,
+995,2018,South West London,PM10 Particulate matter,
+996,2019,South West London,PM10 Particulate matter,
+997,2020,South West London,PM10 Particulate matter,
+998,2004,Surrey Heartlands,PM10 Particulate matter,
+999,2005,Surrey Heartlands,PM10 Particulate matter,
+1000,2006,Surrey Heartlands,PM10 Particulate matter,
+1001,2007,Surrey Heartlands,PM10 Particulate matter,
+1002,2008,Surrey Heartlands,PM10 Particulate matter,
+1003,2009,Surrey Heartlands,PM10 Particulate matter,
+1004,2010,Surrey Heartlands,PM10 Particulate matter,
+1005,2011,Surrey Heartlands,PM10 Particulate matter,
+1006,2012,Surrey Heartlands,PM10 Particulate matter,
+1007,2013,Surrey Heartlands,PM10 Particulate matter,
+1008,2014,Surrey Heartlands,PM10 Particulate matter,
+1009,2015,Surrey Heartlands,PM10 Particulate matter,
+1010,2016,Surrey Heartlands,PM10 Particulate matter,
+1011,2017,Surrey Heartlands,PM10 Particulate matter,
+1012,2018,Surrey Heartlands,PM10 Particulate matter,
+1013,2019,Surrey Heartlands,PM10 Particulate matter,
+1014,2020,Surrey Heartlands,PM10 Particulate matter,
+1015,2004,Watford,PM10 Particulate matter,
+1016,2005,Watford,PM10 Particulate matter,
+1017,2006,Watford,PM10 Particulate matter,
+1018,2007,Watford,PM10 Particulate matter,
+1019,2008,Watford,PM10 Particulate matter,
+1020,2009,Watford,PM10 Particulate matter,
+1021,2010,Watford,PM10 Particulate matter,
+1022,2011,Watford,PM10 Particulate matter,
+1023,2012,Watford,PM10 Particulate matter,
+1024,2013,Watford,PM10 Particulate matter,
+1025,2014,Watford,PM10 Particulate matter,
+1026,2015,Watford,PM10 Particulate matter,
+1027,2016,Watford,PM10 Particulate matter,
+1028,2017,Watford,PM10 Particulate matter,
+1029,2018,Watford,PM10 Particulate matter,
+1030,2019,Watford,PM10 Particulate matter,
+1031,2020,Watford,PM10 Particulate matter,
+1032,2020,Buckinghamshire,PM10 particulate matter (Hourly measured),
+1033,2004,Ealing,PM10 particulate matter (Hourly measured),23.333576306877806
+1034,2005,Ealing,PM10 particulate matter (Hourly measured),25.916646944624887
+1035,2006,Ealing,PM10 particulate matter (Hourly measured),25.443424688491117
+1036,2007,Ealing,PM10 particulate matter (Hourly measured),24.401768909306927
+1037,2008,Ealing,PM10 particulate matter (Hourly measured),22.14147480833379
+1038,2009,Ealing,PM10 particulate matter (Hourly measured),22.76906732666252
+1039,2010,Ealing,PM10 particulate matter (Hourly measured),22.358329224931214
+1040,2011,Ealing,PM10 particulate matter (Hourly measured),23.629680687321052
+1041,2012,Ealing,PM10 particulate matter (Hourly measured),23.47171892978855
+1042,2013,Ealing,PM10 particulate matter (Hourly measured),25.208131518313756
+1043,2014,Ealing,PM10 particulate matter (Hourly measured),20.096599504327465
+1044,2015,Ealing,PM10 particulate matter (Hourly measured),22.298301598920983
+1045,2016,Ealing,PM10 particulate matter (Hourly measured),22.008692919730816
+1046,2017,Ealing,PM10 particulate matter (Hourly measured),25.726536726411894
+1047,2018,Ealing,PM10 particulate matter (Hourly measured),24.810243239771193
+1048,2019,Ealing,PM10 particulate matter (Hourly measured),22.534795186299238
+1049,2020,Ealing,PM10 particulate matter (Hourly measured),20.715119767152874
+1050,2004,East Berkshire,PM10 particulate matter (Hourly measured),23.849996292353744
+1051,2005,East Berkshire,PM10 particulate matter (Hourly measured),27.401398039196902
+1052,2006,East Berkshire,PM10 particulate matter (Hourly measured),23.056505102243108
+1053,2007,East Berkshire,PM10 particulate matter (Hourly measured),39.66833846461614
+1054,2008,East Berkshire,PM10 particulate matter (Hourly measured),25.211123348414986
+1055,2009,East Berkshire,PM10 particulate matter (Hourly measured),27.864766646046945
+1056,2010,East Berkshire,PM10 particulate matter (Hourly measured),21.926850842498222
+1057,2011,East Berkshire,PM10 particulate matter (Hourly measured),30.240539557524375
+1058,2012,East Berkshire,PM10 particulate matter (Hourly measured),23.303635589080503
+1059,2013,East Berkshire,PM10 particulate matter (Hourly measured),22.190329520577137
+1060,2014,East Berkshire,PM10 particulate matter (Hourly measured),19.033874080234835
+1061,2015,East Berkshire,PM10 particulate matter (Hourly measured),16.24208172173037
+1062,2016,East Berkshire,PM10 particulate matter (Hourly measured),15.282021490711628
+1063,2017,East Berkshire,PM10 particulate matter (Hourly measured),17.412888908578026
+1064,2018,East Berkshire,PM10 particulate matter (Hourly measured),17.52200363008815
+1065,2019,East Berkshire,PM10 particulate matter (Hourly measured),17.737270440184556
+1066,2020,East Berkshire,PM10 particulate matter (Hourly measured),18.34778398288618
+1067,2008,Guildford,PM10 particulate matter (Hourly measured),53.288574954819275
+1068,2018,Guildford,PM10 particulate matter (Hourly measured),
+1069,2019,Guildford,PM10 particulate matter (Hourly measured),
+1070,2020,Guildford,PM10 particulate matter (Hourly measured),
+1071,2004,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.158434639062733
+1072,2005,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),30.948655092243815
+1073,2006,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.324389623428182
+1074,2007,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.631845449716387
+1075,2008,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.863771990371028
+1076,2009,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),20.22278196785961
+1077,2011,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),32.77238052568698
+1078,2012,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),37.70916463911675
+1079,2013,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.49792140591713
+1080,2014,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),28.406974637681166
+1081,2015,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.38471751177979
+1082,2016,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.288016563869167
+1083,2017,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),26.83732760792819
+1084,2018,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),25.708968632251448
+1085,2019,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),22.7276708023214
+1086,2020,Hammersmith and Fulham,PM10 particulate matter (Hourly measured),22.318334633905586
+1087,2004,Hillingdon,PM10 particulate matter (Hourly measured),26.43231135727588
+1088,2005,Hillingdon,PM10 particulate matter (Hourly measured),25.764295038622684
+1089,2006,Hillingdon,PM10 particulate matter (Hourly measured),25.902121300103524
+1090,2007,Hillingdon,PM10 particulate matter (Hourly measured),26.47356242129526
+1091,2008,Hillingdon,PM10 particulate matter (Hourly measured),23.820121185762172
+1092,2009,Hillingdon,PM10 particulate matter (Hourly measured),23.748885705232066
+1093,2010,Hillingdon,PM10 particulate matter (Hourly measured),21.2937498974638
+1094,2011,Hillingdon,PM10 particulate matter (Hourly measured),24.918382843190855
+1095,2012,Hillingdon,PM10 particulate matter (Hourly measured),20.82588014409068
+1096,2013,Hillingdon,PM10 particulate matter (Hourly measured),22.727336984614503
+1097,2014,Hillingdon,PM10 particulate matter (Hourly measured),21.32522857788094
+1098,2015,Hillingdon,PM10 particulate matter (Hourly measured),18.931073294295036
+1099,2016,Hillingdon,PM10 particulate matter (Hourly measured),19.543862062638652
+1100,2017,Hillingdon,PM10 particulate matter (Hourly measured),18.347888394330116
+1101,2018,Hillingdon,PM10 particulate matter (Hourly measured),18.876481195582745
+1102,2019,Hillingdon,PM10 particulate matter (Hourly measured),17.166189885552562
+1103,2020,Hillingdon,PM10 particulate matter (Hourly measured),16.25536796550497
+1104,2004,Hounslow,PM10 particulate matter (Hourly measured),
+1105,2005,Hounslow,PM10 particulate matter (Hourly measured),
+1106,2006,Hounslow,PM10 particulate matter (Hourly measured),
+1107,2007,Hounslow,PM10 particulate matter (Hourly measured),
+1108,2008,Hounslow,PM10 particulate matter (Hourly measured),
+1109,2009,Hounslow,PM10 particulate matter (Hourly measured),
+1110,2010,Hounslow,PM10 particulate matter (Hourly measured),
+1111,2011,Hounslow,PM10 particulate matter (Hourly measured),
+1112,2012,Hounslow,PM10 particulate matter (Hourly measured),
+1113,2013,Hounslow,PM10 particulate matter (Hourly measured),
+1114,2014,Hounslow,PM10 particulate matter (Hourly measured),
+1115,2015,Hounslow,PM10 particulate matter (Hourly measured),
+1116,2016,Hounslow,PM10 particulate matter (Hourly measured),
+1117,2017,Hounslow,PM10 particulate matter (Hourly measured),
+1118,2018,Hounslow,PM10 particulate matter (Hourly measured),
+1119,2019,Hounslow,PM10 particulate matter (Hourly measured),
+1120,2020,Hounslow,PM10 particulate matter (Hourly measured),
+1121,2004,Oxford,PM10 particulate matter (Hourly measured),27.78944357738571
+1122,2005,Oxford,PM10 particulate matter (Hourly measured),25.59443373457876
+1123,2006,Oxford,PM10 particulate matter (Hourly measured),28.368754538578926
+1124,2007,Oxford,PM10 particulate matter (Hourly measured),25.961704907483877
+1125,2008,Oxford,PM10 particulate matter (Hourly measured),24.872507720832754
+1126,2009,Oxford,PM10 particulate matter (Hourly measured),25.106132877001272
+1127,2010,Oxford,PM10 particulate matter (Hourly measured),23.630868040363435
+1128,2011,Oxford,PM10 particulate matter (Hourly measured),22.91341079295766
+1129,2012,Oxford,PM10 particulate matter (Hourly measured),20.511618587089643
+1130,2013,Oxford,PM10 particulate matter (Hourly measured),22.2902436294776
+1131,2014,Oxford,PM10 particulate matter (Hourly measured),19.60185019192945
+1132,2015,Oxford,PM10 particulate matter (Hourly measured),21.289544773837143
+1133,2016,Oxford,PM10 particulate matter (Hourly measured),19.782039379558363
+1134,2017,Oxford,PM10 particulate matter (Hourly measured),17.10285982302336
+1135,2018,Oxford,PM10 particulate matter (Hourly measured),19.16078902801334
+1136,2019,Oxford,PM10 particulate matter (Hourly measured),17.388310856363844
+1137,2020,Oxford,PM10 particulate matter (Hourly measured),15.914070344894553
+1138,2006,Reading,PM10 particulate matter (Hourly measured),
+1139,2007,Reading,PM10 particulate matter (Hourly measured),31.676369073406008
+1140,2008,Reading,PM10 particulate matter (Hourly measured),24.531072679147282
+1141,2009,Reading,PM10 particulate matter (Hourly measured),24.829365382352865
+1142,2010,Reading,PM10 particulate matter (Hourly measured),25.55291821817796
+1143,2011,Reading,PM10 particulate matter (Hourly measured),29.421368403118368
+1144,2012,Reading,PM10 particulate matter (Hourly measured),28.2837504398242
+1145,2013,Reading,PM10 particulate matter (Hourly measured),23.62431741964761
+1146,2014,Reading,PM10 particulate matter (Hourly measured),28.024767142583244
+1147,2015,Reading,PM10 particulate matter (Hourly measured),25.26028931555196
+1148,2016,Reading,PM10 particulate matter (Hourly measured),20.65442814619035
+1149,2017,Reading,PM10 particulate matter (Hourly measured),21.010123048735174
+1150,2018,Reading,PM10 particulate matter (Hourly measured),23.567503608723165
+1151,2019,Reading,PM10 particulate matter (Hourly measured),22.750825744725446
+1152,2020,Reading,PM10 particulate matter (Hourly measured),19.42197030796853
+1153,2004,South West London,PM10 particulate matter (Hourly measured),22.974463454420324
+1154,2005,South West London,PM10 particulate matter (Hourly measured),23.207930104062257
+1155,2006,South West London,PM10 particulate matter (Hourly measured),22.972399926988615
+1156,2007,South West London,PM10 particulate matter (Hourly measured),21.57778888112926
+1157,2008,South West London,PM10 particulate matter (Hourly measured),20.151395679393723
+1158,2009,South West London,PM10 particulate matter (Hourly measured),20.70153171500894
+1159,2010,South West London,PM10 particulate matter (Hourly measured),20.078349973785002
+1160,2011,South West London,PM10 particulate matter (Hourly measured),22.718132384860333
+1161,2012,South West London,PM10 particulate matter (Hourly measured),19.472033955541164
+1162,2013,South West London,PM10 particulate matter (Hourly measured),21.258820343384826
+1163,2014,South West London,PM10 particulate matter (Hourly measured),17.8348666324337
+1164,2015,South West London,PM10 particulate matter (Hourly measured),18.75926506187874
+1165,2016,South West London,PM10 particulate matter (Hourly measured),20.061102637558445
+1166,2017,South West London,PM10 particulate matter (Hourly measured),19.357674085804643
+1167,2018,South West London,PM10 particulate matter (Hourly measured),19.636448477796364
+1168,2019,South West London,PM10 particulate matter (Hourly measured),19.308374855572463
+1169,2020,South West London,PM10 particulate matter (Hourly measured),17.851744709696792
+1170,2004,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.472581219594478
+1171,2005,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.627333663541854
+1172,2006,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.51965087704162
+1173,2007,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.742162037786258
+1174,2008,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.444481438297526
+1175,2009,Surrey Heartlands,PM10 particulate matter (Hourly measured),23.472568561809798
+1176,2010,Surrey Heartlands,PM10 particulate matter (Hourly measured),24.691393315316926
+1177,2011,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.431665076979094
+1178,2012,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.31782522601428
+1179,2013,Surrey Heartlands,PM10 particulate matter (Hourly measured),21.68049644431042
+1180,2014,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.961303204552365
+1181,2015,Surrey Heartlands,PM10 particulate matter (Hourly measured),17.297834529344204
+1182,2016,Surrey Heartlands,PM10 particulate matter (Hourly measured),22.10954053558864
+1183,2017,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.636549568420335
+1184,2018,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.511909173033953
+1185,2019,Surrey Heartlands,PM10 particulate matter (Hourly measured),18.489248316762623
+1186,2020,Surrey Heartlands,PM10 particulate matter (Hourly measured),13.300470081324182
+1187,2004,Watford,PM10 particulate matter (Hourly measured),24.2009173885897
+1188,2005,Watford,PM10 particulate matter (Hourly measured),24.798499136129166
+1189,2006,Watford,PM10 particulate matter (Hourly measured),23.5305517946566
+1190,2007,Watford,PM10 particulate matter (Hourly measured),23.221057177476002
+1191,2008,Watford,PM10 particulate matter (Hourly measured),21.123615861857893
+1192,2009,Watford,PM10 particulate matter (Hourly measured),21.864278641480237
+1193,2010,Watford,PM10 particulate matter (Hourly measured),22.718199554223887
+1194,2011,Watford,PM10 particulate matter (Hourly measured),24.51266701443069
+1195,2012,Watford,PM10 particulate matter (Hourly measured),21.794203034165484
+1196,2013,Watford,PM10 particulate matter (Hourly measured),23.628673170466953
+1197,2014,Watford,PM10 particulate matter (Hourly measured),20.767375200209635
+1198,2015,Watford,PM10 particulate matter (Hourly measured),21.838145406792478
+1199,2016,Watford,PM10 particulate matter (Hourly measured),14.269256335847759
+1200,2017,Watford,PM10 particulate matter (Hourly measured),13.761175309263376
+1201,2018,Watford,PM10 particulate matter (Hourly measured),14.98304824030477
+1202,2019,Watford,PM10 particulate matter (Hourly measured),15.05591437388225
+1203,2020,Watford,PM10 particulate matter (Hourly measured),13.758944803816775
+1204,2020,Buckinghamshire,PM2.5 particulate matter (Hourly measured),
+1205,2004,Ealing,PM2.5 particulate matter (Hourly measured),15.391342273253397
+1206,2005,Ealing,PM2.5 particulate matter (Hourly measured),21.009842207540355
+1207,2006,Ealing,PM2.5 particulate matter (Hourly measured),18.450044804007803
+1208,2007,Ealing,PM2.5 particulate matter (Hourly measured),
+1209,2008,Ealing,PM2.5 particulate matter (Hourly measured),11.795320539967483
+1210,2009,Ealing,PM2.5 particulate matter (Hourly measured),11.207386516207691
+1211,2010,Ealing,PM2.5 particulate matter (Hourly measured),11.375742418228214
+1212,2011,Ealing,PM2.5 particulate matter (Hourly measured),13.148969639523106
+1213,2012,Ealing,PM2.5 particulate matter (Hourly measured),9.808660086371969
+1214,2013,Ealing,PM2.5 particulate matter (Hourly measured),9.885007293789224
+1215,2014,Ealing,PM2.5 particulate matter (Hourly measured),11.0727294379344
+1216,2015,Ealing,PM2.5 particulate matter (Hourly measured),11.516187591693607
+1217,2016,Ealing,PM2.5 particulate matter (Hourly measured),12.924810606060607
+1218,2017,Ealing,PM2.5 particulate matter (Hourly measured),
+1219,2018,Ealing,PM2.5 particulate matter (Hourly measured),
+1220,2019,Ealing,PM2.5 particulate matter (Hourly measured),
+1221,2020,Ealing,PM2.5 particulate matter (Hourly measured),
+1222,2004,East Berkshire,PM2.5 particulate matter (Hourly measured),
+1223,2005,East Berkshire,PM2.5 particulate matter (Hourly measured),10.116928683719937
+1224,2006,East Berkshire,PM2.5 particulate matter (Hourly measured),8.211002494757558
+1225,2007,East Berkshire,PM2.5 particulate matter (Hourly measured),10.1113342936477
+1226,2008,East Berkshire,PM2.5 particulate matter (Hourly measured),8.040837159745239
+1227,2009,East Berkshire,PM2.5 particulate matter (Hourly measured),9.241056124336303
+1228,2010,East Berkshire,PM2.5 particulate matter (Hourly measured),7.212730283467131
+1229,2011,East Berkshire,PM2.5 particulate matter (Hourly measured),11.023208946257276
+1230,2012,East Berkshire,PM2.5 particulate matter (Hourly measured),9.032873535724471
+1231,2013,East Berkshire,PM2.5 particulate matter (Hourly measured),8.848093391828135
+1232,2014,East Berkshire,PM2.5 particulate matter (Hourly measured),7.685846437182931
+1233,2015,East Berkshire,PM2.5 particulate matter (Hourly measured),6.439087096655967
+1234,2016,East Berkshire,PM2.5 particulate matter (Hourly measured),5.721706686906419
+1235,2017,East Berkshire,PM2.5 particulate matter (Hourly measured),6.64724855289963
+1236,2018,East Berkshire,PM2.5 particulate matter (Hourly measured),6.40051623012495
+1237,2019,East Berkshire,PM2.5 particulate matter (Hourly measured),6.671495808328704
+1238,2020,East Berkshire,PM2.5 particulate matter (Hourly measured),7.578336794312527
+1239,2008,Guildford,PM2.5 particulate matter (Hourly measured),
+1240,2018,Guildford,PM2.5 particulate matter (Hourly measured),
+1241,2019,Guildford,PM2.5 particulate matter (Hourly measured),
+1242,2020,Guildford,PM2.5 particulate matter (Hourly measured),
+1243,2004,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1244,2005,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1245,2006,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1246,2007,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1247,2008,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1248,2009,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1249,2011,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1250,2012,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1251,2013,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1252,2014,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1253,2015,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1254,2016,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1255,2017,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1256,2018,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),
+1257,2019,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),15.103699552241885
+1258,2020,Hammersmith and Fulham,PM2.5 particulate matter (Hourly measured),13.631647532641097
+1259,2004,Hillingdon,PM2.5 particulate matter (Hourly measured),12.248355810642499
+1260,2005,Hillingdon,PM2.5 particulate matter (Hourly measured),12.105307275202694
+1261,2006,Hillingdon,PM2.5 particulate matter (Hourly measured),12.929494478950998
+1262,2007,Hillingdon,PM2.5 particulate matter (Hourly measured),13.293053087253721
+1263,2008,Hillingdon,PM2.5 particulate matter (Hourly measured),9.66325123808202
+1264,2009,Hillingdon,PM2.5 particulate matter (Hourly measured),9.86844515587707
+1265,2010,Hillingdon,PM2.5 particulate matter (Hourly measured),9.49128123940921
+1266,2011,Hillingdon,PM2.5 particulate matter (Hourly measured),11.23843413246185
+1267,2012,Hillingdon,PM2.5 particulate matter (Hourly measured),8.59516415766024
+1268,2013,Hillingdon,PM2.5 particulate matter (Hourly measured),9.73434263500146
+1269,2014,Hillingdon,PM2.5 particulate matter (Hourly measured),8.845459043264858
+1270,2015,Hillingdon,PM2.5 particulate matter (Hourly measured),8.040034847403996
+1271,2016,Hillingdon,PM2.5 particulate matter (Hourly measured),8.32646681812866
+1272,2017,Hillingdon,PM2.5 particulate matter (Hourly measured),8.088831218252126
+1273,2018,Hillingdon,PM2.5 particulate matter (Hourly measured),7.8786129109688785
+1274,2019,Hillingdon,PM2.5 particulate matter (Hourly measured),7.945292151259446
+1275,2020,Hillingdon,PM2.5 particulate matter (Hourly measured),6.760637012265761
+1276,2004,Hounslow,PM2.5 particulate matter (Hourly measured),
+1277,2005,Hounslow,PM2.5 particulate matter (Hourly measured),
+1278,2006,Hounslow,PM2.5 particulate matter (Hourly measured),
+1279,2007,Hounslow,PM2.5 particulate matter (Hourly measured),
+1280,2008,Hounslow,PM2.5 particulate matter (Hourly measured),
+1281,2009,Hounslow,PM2.5 particulate matter (Hourly measured),
+1282,2010,Hounslow,PM2.5 particulate matter (Hourly measured),
+1283,2011,Hounslow,PM2.5 particulate matter (Hourly measured),
+1284,2012,Hounslow,PM2.5 particulate matter (Hourly measured),
+1285,2013,Hounslow,PM2.5 particulate matter (Hourly measured),
+1286,2014,Hounslow,PM2.5 particulate matter (Hourly measured),
+1287,2015,Hounslow,PM2.5 particulate matter (Hourly measured),
+1288,2016,Hounslow,PM2.5 particulate matter (Hourly measured),
+1289,2017,Hounslow,PM2.5 particulate matter (Hourly measured),
+1290,2018,Hounslow,PM2.5 particulate matter (Hourly measured),
+1291,2019,Hounslow,PM2.5 particulate matter (Hourly measured),
+1292,2020,Hounslow,PM2.5 particulate matter (Hourly measured),
+1293,2004,Oxford,PM2.5 particulate matter (Hourly measured),
+1294,2005,Oxford,PM2.5 particulate matter (Hourly measured),
+1295,2006,Oxford,PM2.5 particulate matter (Hourly measured),
+1296,2007,Oxford,PM2.5 particulate matter (Hourly measured),
+1297,2008,Oxford,PM2.5 particulate matter (Hourly measured),
+1298,2009,Oxford,PM2.5 particulate matter (Hourly measured),
+1299,2010,Oxford,PM2.5 particulate matter (Hourly measured),
+1300,2011,Oxford,PM2.5 particulate matter (Hourly measured),
+1301,2012,Oxford,PM2.5 particulate matter (Hourly measured),
+1302,2013,Oxford,PM2.5 particulate matter (Hourly measured),
+1303,2014,Oxford,PM2.5 particulate matter (Hourly measured),
+1304,2015,Oxford,PM2.5 particulate matter (Hourly measured),
+1305,2016,Oxford,PM2.5 particulate matter (Hourly measured),
+1306,2017,Oxford,PM2.5 particulate matter (Hourly measured),
+1307,2018,Oxford,PM2.5 particulate matter (Hourly measured),
+1308,2019,Oxford,PM2.5 particulate matter (Hourly measured),
+1309,2020,Oxford,PM2.5 particulate matter (Hourly measured),
+1310,2006,Reading,PM2.5 particulate matter (Hourly measured),
+1311,2007,Reading,PM2.5 particulate matter (Hourly measured),
+1312,2008,Reading,PM2.5 particulate matter (Hourly measured),
+1313,2009,Reading,PM2.5 particulate matter (Hourly measured),
+1314,2010,Reading,PM2.5 particulate matter (Hourly measured),
+1315,2011,Reading,PM2.5 particulate matter (Hourly measured),
+1316,2012,Reading,PM2.5 particulate matter (Hourly measured),
+1317,2013,Reading,PM2.5 particulate matter (Hourly measured),
+1318,2014,Reading,PM2.5 particulate matter (Hourly measured),
+1319,2015,Reading,PM2.5 particulate matter (Hourly measured),
+1320,2016,Reading,PM2.5 particulate matter (Hourly measured),
+1321,2017,Reading,PM2.5 particulate matter (Hourly measured),
+1322,2018,Reading,PM2.5 particulate matter (Hourly measured),
+1323,2019,Reading,PM2.5 particulate matter (Hourly measured),
+1324,2020,Reading,PM2.5 particulate matter (Hourly measured),
+1325,2004,South West London,PM2.5 particulate matter (Hourly measured),
+1326,2005,South West London,PM2.5 particulate matter (Hourly measured),
+1327,2006,South West London,PM2.5 particulate matter (Hourly measured),
+1328,2007,South West London,PM2.5 particulate matter (Hourly measured),
+1329,2008,South West London,PM2.5 particulate matter (Hourly measured),20.059371980676328
+1330,2009,South West London,PM2.5 particulate matter (Hourly measured),13.321598309730412
+1331,2010,South West London,PM2.5 particulate matter (Hourly measured),14.438372515811963
+1332,2011,South West London,PM2.5 particulate matter (Hourly measured),17.354287620645245
+1333,2012,South West London,PM2.5 particulate matter (Hourly measured),13.552664502276757
+1334,2013,South West London,PM2.5 particulate matter (Hourly measured),16.836224555542348
+1335,2014,South West London,PM2.5 particulate matter (Hourly measured),
+1336,2015,South West London,PM2.5 particulate matter (Hourly measured),
+1337,2016,South West London,PM2.5 particulate matter (Hourly measured),
+1338,2017,South West London,PM2.5 particulate matter (Hourly measured),
+1339,2018,South West London,PM2.5 particulate matter (Hourly measured),
+1340,2019,South West London,PM2.5 particulate matter (Hourly measured),
+1341,2020,South West London,PM2.5 particulate matter (Hourly measured),
+1342,2004,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),11.631702891569878
+1343,2005,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),11.96573791453155
+1344,2006,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),12.237865972145531
+1345,2007,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),12.198261361930347
+1346,2008,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),11.502066787841112
+1347,2009,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.286653666348341
+1348,2010,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.669508286826774
+1349,2011,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.439104380344425
+1350,2012,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.758064056670998
+1351,2013,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.9703922743585
+1352,2014,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),10.016992674593208
+1353,2015,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.028487017688663
+1354,2016,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.498990713930988
+1355,2017,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),8.667444291788236
+1356,2018,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.38640495334197
+1357,2019,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),9.690723606998763
+1358,2020,Surrey Heartlands,PM2.5 particulate matter (Hourly measured),7.923796628647173
+1359,2004,Watford,PM2.5 particulate matter (Hourly measured),
+1360,2005,Watford,PM2.5 particulate matter (Hourly measured),
+1361,2006,Watford,PM2.5 particulate matter (Hourly measured),
+1362,2007,Watford,PM2.5 particulate matter (Hourly measured),
+1363,2008,Watford,PM2.5 particulate matter (Hourly measured),
+1364,2009,Watford,PM2.5 particulate matter (Hourly measured),
+1365,2010,Watford,PM2.5 particulate matter (Hourly measured),
+1366,2011,Watford,PM2.5 particulate matter (Hourly measured),
+1367,2012,Watford,PM2.5 particulate matter (Hourly measured),
+1368,2013,Watford,PM2.5 particulate matter (Hourly measured),
+1369,2014,Watford,PM2.5 particulate matter (Hourly measured),
+1370,2015,Watford,PM2.5 particulate matter (Hourly measured),
+1371,2016,Watford,PM2.5 particulate matter (Hourly measured),13.86352449223417
+1372,2017,Watford,PM2.5 particulate matter (Hourly measured),9.046639613228374
+1373,2018,Watford,PM2.5 particulate matter (Hourly measured),9.268622047463213
+1374,2019,Watford,PM2.5 particulate matter (Hourly measured),9.476284379011851
+1375,2020,Watford,PM2.5 particulate matter (Hourly measured),7.877281834536983
+1376,2020,Buckinghamshire,Sulphur dioxide,
+1377,2004,Ealing,Sulphur dioxide,10.043231944507777
+1378,2005,Ealing,Sulphur dioxide,8.370424824312302
+1379,2006,Ealing,Sulphur dioxide,6.206311289688668
+1380,2007,Ealing,Sulphur dioxide,6.530477737026352
+1381,2008,Ealing,Sulphur dioxide,5.656651844069671
+1382,2009,Ealing,Sulphur dioxide,10.177289388025422
+1383,2010,Ealing,Sulphur dioxide,8.950074745199544
+1384,2011,Ealing,Sulphur dioxide,4.750594092342186
+1385,2012,Ealing,Sulphur dioxide,1.2119531815217388
+1386,2013,Ealing,Sulphur dioxide,
+1387,2014,Ealing,Sulphur dioxide,
+1388,2015,Ealing,Sulphur dioxide,
+1389,2016,Ealing,Sulphur dioxide,
+1390,2017,Ealing,Sulphur dioxide,
+1391,2018,Ealing,Sulphur dioxide,
+1392,2019,Ealing,Sulphur dioxide,
+1393,2020,Ealing,Sulphur dioxide,
+1394,2004,East Berkshire,Sulphur dioxide,
+1395,2005,East Berkshire,Sulphur dioxide,
+1396,2006,East Berkshire,Sulphur dioxide,
+1397,2007,East Berkshire,Sulphur dioxide,
+1398,2008,East Berkshire,Sulphur dioxide,
+1399,2009,East Berkshire,Sulphur dioxide,
+1400,2010,East Berkshire,Sulphur dioxide,
+1401,2011,East Berkshire,Sulphur dioxide,
+1402,2012,East Berkshire,Sulphur dioxide,
+1403,2013,East Berkshire,Sulphur dioxide,
+1404,2014,East Berkshire,Sulphur dioxide,
+1405,2015,East Berkshire,Sulphur dioxide,
+1406,2016,East Berkshire,Sulphur dioxide,
+1407,2017,East Berkshire,Sulphur dioxide,
+1408,2018,East Berkshire,Sulphur dioxide,
+1409,2019,East Berkshire,Sulphur dioxide,
+1410,2020,East Berkshire,Sulphur dioxide,
+1411,2008,Guildford,Sulphur dioxide,
+1412,2018,Guildford,Sulphur dioxide,
+1413,2019,Guildford,Sulphur dioxide,
+1414,2020,Guildford,Sulphur dioxide,
+1415,2004,Hammersmith and Fulham,Sulphur dioxide,9.171104938437788
+1416,2005,Hammersmith and Fulham,Sulphur dioxide,8.271812482762467
+1417,2006,Hammersmith and Fulham,Sulphur dioxide,6.0460267731180295
+1418,2007,Hammersmith and Fulham,Sulphur dioxide,4.742114370779755
+1419,2008,Hammersmith and Fulham,Sulphur dioxide,
+1420,2009,Hammersmith and Fulham,Sulphur dioxide,
+1421,2011,Hammersmith and Fulham,Sulphur dioxide,
+1422,2012,Hammersmith and Fulham,Sulphur dioxide,
+1423,2013,Hammersmith and Fulham,Sulphur dioxide,
+1424,2014,Hammersmith and Fulham,Sulphur dioxide,
+1425,2015,Hammersmith and Fulham,Sulphur dioxide,
+1426,2016,Hammersmith and Fulham,Sulphur dioxide,
+1427,2017,Hammersmith and Fulham,Sulphur dioxide,
+1428,2018,Hammersmith and Fulham,Sulphur dioxide,
+1429,2019,Hammersmith and Fulham,Sulphur dioxide,
+1430,2020,Hammersmith and Fulham,Sulphur dioxide,
+1431,2004,Hillingdon,Sulphur dioxide,
+1432,2005,Hillingdon,Sulphur dioxide,
+1433,2006,Hillingdon,Sulphur dioxide,
+1434,2007,Hillingdon,Sulphur dioxide,
+1435,2008,Hillingdon,Sulphur dioxide,
+1436,2009,Hillingdon,Sulphur dioxide,
+1437,2010,Hillingdon,Sulphur dioxide,
+1438,2011,Hillingdon,Sulphur dioxide,
+1439,2012,Hillingdon,Sulphur dioxide,
+1440,2013,Hillingdon,Sulphur dioxide,
+1441,2014,Hillingdon,Sulphur dioxide,
+1442,2015,Hillingdon,Sulphur dioxide,
+1443,2016,Hillingdon,Sulphur dioxide,
+1444,2017,Hillingdon,Sulphur dioxide,
+1445,2018,Hillingdon,Sulphur dioxide,
+1446,2019,Hillingdon,Sulphur dioxide,
+1447,2020,Hillingdon,Sulphur dioxide,
+1448,2004,Hounslow,Sulphur dioxide,4.155740473629969
+1449,2005,Hounslow,Sulphur dioxide,4.029333474825582
+1450,2006,Hounslow,Sulphur dioxide,3.0333280360619392
+1451,2007,Hounslow,Sulphur dioxide,2.696676343647221
+1452,2008,Hounslow,Sulphur dioxide,2.80684266907085
+1453,2009,Hounslow,Sulphur dioxide,7.971789457802902
+1454,2010,Hounslow,Sulphur dioxide,0.8519104084321476
+1455,2011,Hounslow,Sulphur dioxide,-0.019038912575752028
+1456,2012,Hounslow,Sulphur dioxide,2.173683352033509
+1457,2013,Hounslow,Sulphur dioxide,1.601606597282861
+1458,2014,Hounslow,Sulphur dioxide,1.858234573189595
+1459,2015,Hounslow,Sulphur dioxide,1.491848415887222
+1460,2016,Hounslow,Sulphur dioxide,1.531785693715487
+1461,2017,Hounslow,Sulphur dioxide,1.0608677094868952
+1462,2018,Hounslow,Sulphur dioxide,1.2060372259081493
+1463,2019,Hounslow,Sulphur dioxide,1.8199897268994778
+1464,2020,Hounslow,Sulphur dioxide,2.069656385177153
+1465,2004,Oxford,Sulphur dioxide,
+1466,2005,Oxford,Sulphur dioxide,
+1467,2006,Oxford,Sulphur dioxide,
+1468,2007,Oxford,Sulphur dioxide,
+1469,2008,Oxford,Sulphur dioxide,
+1470,2009,Oxford,Sulphur dioxide,
+1471,2010,Oxford,Sulphur dioxide,
+1472,2011,Oxford,Sulphur dioxide,
+1473,2012,Oxford,Sulphur dioxide,
+1474,2013,Oxford,Sulphur dioxide,
+1475,2014,Oxford,Sulphur dioxide,
+1476,2015,Oxford,Sulphur dioxide,
+1477,2016,Oxford,Sulphur dioxide,
+1478,2017,Oxford,Sulphur dioxide,
+1479,2018,Oxford,Sulphur dioxide,
+1480,2019,Oxford,Sulphur dioxide,
+1481,2020,Oxford,Sulphur dioxide,
+1482,2006,Reading,Sulphur dioxide,
+1483,2007,Reading,Sulphur dioxide,
+1484,2008,Reading,Sulphur dioxide,
+1485,2009,Reading,Sulphur dioxide,
+1486,2010,Reading,Sulphur dioxide,
+1487,2011,Reading,Sulphur dioxide,
+1488,2012,Reading,Sulphur dioxide,
+1489,2013,Reading,Sulphur dioxide,
+1490,2014,Reading,Sulphur dioxide,
+1491,2015,Reading,Sulphur dioxide,
+1492,2016,Reading,Sulphur dioxide,
+1493,2017,Reading,Sulphur dioxide,
+1494,2018,Reading,Sulphur dioxide,
+1495,2019,Reading,Sulphur dioxide,
+1496,2020,Reading,Sulphur dioxide,
+1497,2004,South West London,Sulphur dioxide,3.6766297524963676
+1498,2005,South West London,Sulphur dioxide,3.024966778016487
+1499,2006,South West London,Sulphur dioxide,3.4819578766882224
+1500,2007,South West London,Sulphur dioxide,3.706443339957739
+1501,2008,South West London,Sulphur dioxide,
+1502,2009,South West London,Sulphur dioxide,
+1503,2010,South West London,Sulphur dioxide,
+1504,2011,South West London,Sulphur dioxide,
+1505,2012,South West London,Sulphur dioxide,
+1506,2013,South West London,Sulphur dioxide,
+1507,2014,South West London,Sulphur dioxide,
+1508,2015,South West London,Sulphur dioxide,
+1509,2016,South West London,Sulphur dioxide,
+1510,2017,South West London,Sulphur dioxide,
+1511,2018,South West London,Sulphur dioxide,
+1512,2019,South West London,Sulphur dioxide,
+1513,2020,South West London,Sulphur dioxide,
+1514,2004,Surrey Heartlands,Sulphur dioxide,2.9746653578090463
+1515,2005,Surrey Heartlands,Sulphur dioxide,2.004275568566363
+1516,2006,Surrey Heartlands,Sulphur dioxide,2.1142969388133332
+1517,2007,Surrey Heartlands,Sulphur dioxide,1.6756255327349385
+1518,2008,Surrey Heartlands,Sulphur dioxide,1.5384090491570992
+1519,2009,Surrey Heartlands,Sulphur dioxide,1.5886554467179486
+1520,2010,Surrey Heartlands,Sulphur dioxide,
+1521,2011,Surrey Heartlands,Sulphur dioxide,
+1522,2012,Surrey Heartlands,Sulphur dioxide,
+1523,2013,Surrey Heartlands,Sulphur dioxide,
+1524,2014,Surrey Heartlands,Sulphur dioxide,
+1525,2015,Surrey Heartlands,Sulphur dioxide,
+1526,2016,Surrey Heartlands,Sulphur dioxide,
+1527,2017,Surrey Heartlands,Sulphur dioxide,
+1528,2018,Surrey Heartlands,Sulphur dioxide,
+1529,2019,Surrey Heartlands,Sulphur dioxide,
+1530,2020,Surrey Heartlands,Sulphur dioxide,
+1531,2004,Watford,Sulphur dioxide,
+1532,2005,Watford,Sulphur dioxide,
+1533,2006,Watford,Sulphur dioxide,
+1534,2007,Watford,Sulphur dioxide,
+1535,2008,Watford,Sulphur dioxide,
+1536,2009,Watford,Sulphur dioxide,
+1537,2010,Watford,Sulphur dioxide,
+1538,2011,Watford,Sulphur dioxide,
+1539,2012,Watford,Sulphur dioxide,
+1540,2013,Watford,Sulphur dioxide,
+1541,2014,Watford,Sulphur dioxide,
+1542,2015,Watford,Sulphur dioxide,
+1543,2016,Watford,Sulphur dioxide,
+1544,2017,Watford,Sulphur dioxide,
+1545,2018,Watford,Sulphur dioxide,
+1546,2019,Watford,Sulphur dioxide,
+1547,2020,Watford,Sulphur dioxide,
