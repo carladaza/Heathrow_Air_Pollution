@@ -1,0 +1,4 @@
+,Indicator Name,R Squared,Correlation Coef (R),Coefficient Name,Coefficient Value,P Value,Significance (5%)
+0,PM10,0.021,0.146,distance_from_LHR,0.054,0.002,Significant
+1,Nitrogen_dioxide,0.009,0.096,distance_from_LHR,0.062,0.012,Significant
+2,PM25,0.162,0.403,distance_from_LHR,0.276,0.0,Significant

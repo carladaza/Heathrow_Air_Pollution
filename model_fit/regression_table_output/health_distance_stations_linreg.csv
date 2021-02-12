@@ -1,0 +1,26 @@
+,Indicator Name,R Squared,Correlation Coef (R),Coefficient Name,Coefficient Value,P Value,Significance (5%)
+0,Over_75_Coronary_Heart_Disease_Mortality_Rate,0.1025,0.3201,heathrow_distance,-0.0003,0.0,Significant
+1,Asthma_Admissions_Over_19yr,0.1388,0.3726,heathrow_distance,-0.0007,0.0002,Significant
+2,Asthma_Admissions_Under_19yr,0.0509,0.2257,heathrow_distance,-0.0005,0.027,Significant
+3,Asthma_Mortality_Rate,0.0009,0.0298,heathrow_distance,-0.0,0.6598,Not Significant
+4,Asthma_Prevalence,0.4612,0.6792,heathrow_distance,0.0,0.0,Significant
+5,Atrial_Fibrillation_Prevalence,0.1914,0.4375,heathrow_distance,0.0,0.0,Significant
+6,CHD_Admissions,0.2382,0.488,heathrow_distance,-0.0053,0.0,Significant
+7,CHD_Prevalence,0.0658,0.2564,heathrow_distance,0.0,0.0006,Significant
+8,CKD_Prevalence,0.2006,0.4479,heathrow_distance,0.0,0.0,Significant
+9,COPD_contributory_cause_Mortality_Rate,0.0349,0.1869,heathrow_distance,-0.0001,0.0043,Significant
+10,COPD_Admissions,0.0995,0.3154,heathrow_distance,-0.0013,0.0017,Significant
+11,COPD_Prevalence,0.174,0.4171,heathrow_distance,0.0,0.0,Significant
+12,Diabetes_Prevalence,0.0893,0.2988,heathrow_distance,-0.0,0.0001,Significant
+13,Heart_Failure_Admissions,0.2061,0.454,heathrow_distance,-0.0011,0.0,Significant
+14,Heart_Failure_Prevalence,0.1569,0.3961,heathrow_distance,0.0,0.0,Significant
+15,Hypertension_Prevalence,0.078,0.2794,heathrow_distance,0.0,0.0002,Significant
+16,Pneumonia_all_mentions_Mortality_Rate,0.0453,0.2127,heathrow_distance,-0.0004,0.0011,Significant
+17,Pneumonia_Admissions,0.1596,0.3996,heathrow_distance,-0.0016,0.0001,Significant
+18,Respiratory_Admissions,0.0996,0.3156,heathrow_distance,-0.0034,0.0017,Significant
+19,Respiratory_Tract_Admissions_1yr,0.0012,0.0352,heathrow_distance,0.0001,0.7857,Not Significant
+20,Respiratory_Tract_Admissions_U1yr,0.0718,0.2679,heathrow_distance,0.0029,0.0083,Significant
+21,Stroke_Admissions,0.3793,0.6159,heathrow_distance,0.0077,0.0,Significant
+22,Stroke_Atrial_Fib_Admissions,0.0091,0.0955,heathrow_distance,-0.0001,0.4385,Not Significant
+23,Stroke_Prevalence,0.342,0.5848,heathrow_distance,0.0,0.0,Significant
+24,Under_75_Resp_Disease_Mortality_Rate,0.1096,0.331,heathrow_distance,-0.0001,0.0,Significant

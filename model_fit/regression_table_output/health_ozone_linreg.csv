@@ -1,0 +1,26 @@
+,Indicator Name,R Squared,Correlation Coef (R),Coefficient Name,Coefficient Value,P Value,Significance (5%)
+0,Over_75_Coronary_Heart_Disease_Mortality_Rate,0.012,0.108,Ozone,-0.149,0.222,Not Significant
+1,Asthma_Admissions_Over_19yr,0.0,0.015,Ozone,-0.046,0.918,Not Significant
+2,Asthma_Admissions_Under_19yr,0.018,0.134,Ozone,-0.508,0.345,Not Significant
+3,Asthma_Mortality_Rate,0.071,0.267,Ozone,-0.046,0.006,Significant
+4,Asthma_Prevalence,0.018,0.135,Ozone,-0.008,0.186,Not Significant
+5,Atrial_Fibrillation_Prevalence,0.122,0.349,Ozone,-0.013,0.0,Significant
+6,CHD_Admissions,0.015,0.123,Ozone,-2.908,0.137,Not Significant
+7,CHD_Prevalence,0.183,0.428,Ozone,-0.018,0.0,Significant
+8,CKD_Prevalence,0.094,0.306,Ozone,-0.028,0.004,Significant
+9,COPD_contributory_cause_Mortality_Rate,0.001,0.03,Ozone,0.032,0.764,Not Significant
+10,COPD_Admissions,0.018,0.132,Ozone,0.69,0.349,Not Significant
+11,COPD_Prevalence,0.024,0.155,Ozone,-0.003,0.14,Not Significant
+12,Diabetes_Prevalence,0.148,0.385,Ozone,-0.053,0.0,Significant
+13,Heart_Failure_Admissions,0.004,0.065,Ozone,-0.296,0.433,Not Significant
+14,Heart_Failure_Prevalence,0.092,0.303,Ozone,-0.004,0.002,Significant
+15,Hypertension_Prevalence,0.239,0.489,Ozone,-0.076,0.0,Significant
+16,Pneumonia_all_mentions_Mortality_Rate,0.034,0.185,Ozone,-0.611,0.062,Not Significant
+17,Pneumonia_Admissions,0.029,0.169,Ozone,-0.958,0.23,Not Significant
+18,Respiratory_Admissions,0.0,0.01,Ozone,-0.186,0.943,Not Significant
+19,Respiratory_Tract_Admissions_1yr,0.072,0.268,Ozone,1.507,0.126,Not Significant
+20,Respiratory_Tract_Admissions_U1yr,0.012,0.108,Ozone,1.75,0.448,Not Significant
+21,Stroke_Admissions,0.222,0.471,Ozone,-7.926,0.0,Significant
+22,Stroke_Atrial_Fib_Admissions,0.05,0.224,Ozone,0.275,0.149,Not Significant
+23,Stroke_Prevalence,0.126,0.355,Ozone,-0.011,0.0,Significant
+24,Under_75_Resp_Disease_Mortality_Rate,0.012,0.109,Ozone,-0.06,0.272,Not Significant
