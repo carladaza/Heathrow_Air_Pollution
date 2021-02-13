@@ -1,26 +1,26 @@
 ,Indicator Name,R Squared,Correlation Coef (R),Coefficient Name,Coefficient Value,P Value,Significance (5%)
 0,Over_75_Coronary_Heart_Disease_Mortality_Rate,0.014,0.118,PM25,0.342,0.282,Not Significant
-1,Asthma_Admissions_Over_19yr,0.09,0.299,PM25,-2.696,0.108,Not Significant
-2,Asthma_Admissions_Under_19yr,0.001,0.03,PM25,-0.363,0.874,Not Significant
-3,Asthma_Mortality_Rate,0.148,0.385,PM25,-0.143,0.0,Significant
-4,Asthma_Prevalence,0.243,0.493,PM25,-0.064,0.0,Significant
-5,Atrial_Fibrillation_Prevalence,0.256,0.506,PM25,-0.054,0.0,Significant
+1,Asthma_Admissions_Over_19yr,0.09,-0.299,PM25,-2.696,0.108,Not Significant
+2,Asthma_Admissions_Under_19yr,0.001,-0.03,PM25,-0.363,0.874,Not Significant
+3,Asthma_Mortality_Rate,0.148,-0.385,PM25,-0.143,0.0,Significant
+4,Asthma_Prevalence,0.243,-0.493,PM25,-0.064,0.0,Significant
+5,Atrial_Fibrillation_Prevalence,0.256,-0.506,PM25,-0.054,0.0,Significant
 6,CHD_Admissions,0.04,0.199,PM25,9.052,0.054,Not Significant
-7,CHD_Prevalence,0.274,0.523,PM25,-0.054,0.0,Significant
-8,CKD_Prevalence,0.088,0.297,PM25,-0.07,0.019,Significant
-9,COPD_contributory_cause_Mortality_Rate,0.094,0.307,PM25,-0.626,0.007,Significant
-10,COPD_Admissions,0.008,0.087,PM25,-1.018,0.648,Not Significant
-11,COPD_Prevalence,0.147,0.383,PM25,-0.023,0.002,Significant
-12,Diabetes_Prevalence,0.417,0.646,PM25,-0.234,0.0,Significant
-13,Heart_Failure_Admissions,0.022,0.148,PM25,-1.299,0.156,Not Significant
-14,Heart_Failure_Prevalence,0.357,0.597,PM25,-0.019,0.0,Significant
-15,Hypertension_Prevalence,0.352,0.593,PM25,-0.243,0.0,Significant
-16,Pneumonia_all_mentions_Mortality_Rate,0.023,0.153,PM25,-0.871,0.184,Not Significant
-17,Pneumonia_Admissions,0.081,0.284,PM25,-4.464,0.128,Not Significant
-18,Respiratory_Admissions,0.32,0.566,PM25,-29.157,0.001,Significant
+7,CHD_Prevalence,0.274,-0.523,PM25,-0.054,0.0,Significant
+8,CKD_Prevalence,0.088,-0.297,PM25,-0.07,0.019,Significant
+9,COPD_contributory_cause_Mortality_Rate,0.094,-0.307,PM25,-0.626,0.007,Significant
+10,COPD_Admissions,0.008,-0.087,PM25,-1.018,0.648,Not Significant
+11,COPD_Prevalence,0.147,-0.383,PM25,-0.023,0.002,Significant
+12,Diabetes_Prevalence,0.417,-0.646,PM25,-0.234,0.0,Significant
+13,Heart_Failure_Admissions,0.022,-0.148,PM25,-1.299,0.156,Not Significant
+14,Heart_Failure_Prevalence,0.357,-0.597,PM25,-0.019,0.0,Significant
+15,Hypertension_Prevalence,0.352,-0.593,PM25,-0.243,0.0,Significant
+16,Pneumonia_all_mentions_Mortality_Rate,0.023,-0.153,PM25,-0.871,0.184,Not Significant
+17,Pneumonia_Admissions,0.081,-0.284,PM25,-4.464,0.128,Not Significant
+18,Respiratory_Admissions,0.32,-0.566,PM25,-29.157,0.001,Significant
 19,Respiratory_Tract_Admissions_1yr,0.027,0.163,PM25,1.946,0.532,Not Significant
-20,Respiratory_Tract_Admissions_U1yr,0.288,0.537,PM25,-21.899,0.002,Significant
-21,Stroke_Admissions,0.184,0.43,PM25,-19.286,0.032,Significant
+20,Respiratory_Tract_Admissions_U1yr,0.288,-0.537,PM25,-21.899,0.002,Significant
+21,Stroke_Admissions,0.184,-0.43,PM25,-19.286,0.032,Significant
 22,Stroke_Atrial_Fib_Admissions,0.023,0.152,PM25,1.131,0.559,Not Significant
-23,Stroke_Prevalence,0.242,0.492,PM25,-0.034,0.0,Significant
-24,Under_75_Resp_Disease_Mortality_Rate,0.002,0.043,PM25,-0.042,0.71,Not Significant
+23,Stroke_Prevalence,0.242,-0.492,PM25,-0.034,0.0,Significant
+24,Under_75_Resp_Disease_Mortality_Rate,0.002,-0.043,PM25,-0.042,0.71,Not Significant

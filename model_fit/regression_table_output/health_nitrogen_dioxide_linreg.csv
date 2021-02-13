@@ -1,26 +1,26 @@
 ,Indicator Name,R Squared,Correlation Coef (R),Coefficient Name,Coefficient Value,P Value,Significance (5%)
 0,Over_75_Coronary_Heart_Disease_Mortality_Rate,0.133,0.365,Nitrogen_dioxide,0.352,0.0,Significant
 1,Asthma_Admissions_Over_19yr,0.329,0.573,Nitrogen_dioxide,1.383,0.0,Significant
-2,Asthma_Admissions_Under_19yr,0.012,0.107,Nitrogen_dioxide,-0.31,0.332,Not Significant
-3,Asthma_Mortality_Rate,0.002,0.049,Nitrogen_dioxide,-0.006,0.535,Not Significant
-4,Asthma_Prevalence,0.048,0.219,Nitrogen_dioxide,-0.011,0.006,Significant
-5,Atrial_Fibrillation_Prevalence,0.143,0.379,Nitrogen_dioxide,-0.011,0.0,Significant
+2,Asthma_Admissions_Under_19yr,0.012,-0.107,Nitrogen_dioxide,-0.31,0.332,Not Significant
+3,Asthma_Mortality_Rate,0.002,-0.049,Nitrogen_dioxide,-0.006,0.535,Not Significant
+4,Asthma_Prevalence,0.048,-0.219,Nitrogen_dioxide,-0.011,0.006,Significant
+5,Atrial_Fibrillation_Prevalence,0.143,-0.379,Nitrogen_dioxide,-0.011,0.0,Significant
 6,CHD_Admissions,0.033,0.182,Nitrogen_dioxide,2.972,0.007,Significant
-7,CHD_Prevalence,0.043,0.208,Nitrogen_dioxide,-0.007,0.01,Significant
-8,CKD_Prevalence,0.089,0.298,Nitrogen_dioxide,-0.021,0.0,Significant
+7,CHD_Prevalence,0.043,-0.208,Nitrogen_dioxide,-0.007,0.01,Significant
+8,CKD_Prevalence,0.089,-0.298,Nitrogen_dioxide,-0.021,0.0,Significant
 9,COPD_contributory_cause_Mortality_Rate,0.229,0.478,Nitrogen_dioxide,0.414,0.0,Significant
 10,COPD_Admissions,0.484,0.696,Nitrogen_dioxide,3.828,0.0,Significant
-11,COPD_Prevalence,0.051,0.226,Nitrogen_dioxide,-0.003,0.01,Significant
+11,COPD_Prevalence,0.051,-0.226,Nitrogen_dioxide,-0.003,0.01,Significant
 12,Diabetes_Prevalence,0.0,0.012,Nitrogen_dioxide,0.001,0.879,Not Significant
 13,Heart_Failure_Admissions,0.109,0.331,Nitrogen_dioxide,1.16,0.0,Significant
-14,Heart_Failure_Prevalence,0.085,0.292,Nitrogen_dioxide,-0.003,0.0,Significant
-15,Hypertension_Prevalence,0.052,0.227,Nitrogen_dioxide,-0.027,0.005,Significant
+14,Heart_Failure_Prevalence,0.085,-0.292,Nitrogen_dioxide,-0.003,0.0,Significant
+15,Hypertension_Prevalence,0.052,-0.227,Nitrogen_dioxide,-0.027,0.005,Significant
 16,Pneumonia_all_mentions_Mortality_Rate,0.031,0.177,Nitrogen_dioxide,0.4,0.024,Significant
 17,Pneumonia_Admissions,0.131,0.362,Nitrogen_dioxide,1.8,0.001,Significant
 18,Respiratory_Admissions,0.176,0.419,Nitrogen_dioxide,6.076,0.0,Significant
-19,Respiratory_Tract_Admissions_1yr,0.001,0.023,Nitrogen_dioxide,-0.097,0.867,Not Significant
-20,Respiratory_Tract_Admissions_U1yr,0.089,0.298,Nitrogen_dioxide,-3.616,0.006,Significant
-21,Stroke_Admissions,0.062,0.249,Nitrogen_dioxide,-3.689,0.032,Significant
+19,Respiratory_Tract_Admissions_1yr,0.001,-0.023,Nitrogen_dioxide,-0.097,0.867,Not Significant
+20,Respiratory_Tract_Admissions_U1yr,0.089,-0.298,Nitrogen_dioxide,-3.616,0.006,Significant
+21,Stroke_Admissions,0.062,-0.249,Nitrogen_dioxide,-3.689,0.032,Significant
 22,Stroke_Atrial_Fib_Admissions,0.0,0.012,Nitrogen_dioxide,0.01,0.928,Not Significant
-23,Stroke_Prevalence,0.092,0.303,Nitrogen_dioxide,-0.006,0.0,Significant
+23,Stroke_Prevalence,0.092,-0.303,Nitrogen_dioxide,-0.006,0.0,Significant
 24,Under_75_Resp_Disease_Mortality_Rate,0.293,0.542,Nitrogen_dioxide,0.221,0.0,Significant

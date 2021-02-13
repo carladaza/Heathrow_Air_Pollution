@@ -1,3 +1,4 @@
 ,Indicator Name,R Squared,Correlation Coef (R),Coefficient Name,Coefficient Value,P Value,Significance (5%)
-0,Nitrogen_dioxide,0.004,0.062,nr_flights_thou,-0.102,0.438,Not Significant
-1,PM10,0.006,0.078,nr_flights_thou,-0.052,0.356,Not Significant
+0,Nitrogen_dioxide,0.004,-0.062,nr_flights_thou,-0.102,0.438,Not Significant
+1,PM10,0.006,-0.078,nr_flights_thou,-0.052,0.356,Not Significant
+2,PM25,0.005,-0.069,nr_flights_thou,-0.028,0.569,Not Significant
